@@ -1,0 +1,51 @@
+WARNING: no script file txt/srcDict.lab.ded
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+ srcDict.lab      2247       2246       2247       2246
+    dict.txt      2246       2246       2246       2246
+
+2246 words required, 0 missing
+
+New Phone Usage Counts
+---------------------
+  1. <     :    14
+  2. c     :   109
+  3. u     :   786
+  4. k     :   897
+  5. >     :    14
+  6. sp    :  4492
+  7. d     :   505
+  8. a     :  3041
+  9. e     :  1433
+ 10. h     :   299
+ 11. m     :   759
+ 12. i     :  1338
+ 13. o     :   326
+ 14. t     :   782
+ 15. j     :   189
+ 16. l     :   543
+ 17. s     :   857
+ 18. n     :  1712
+ 19. y     :   296
+ 20. r     :   888
+ 21. p     :   613
+ 22.       :    80
+ 23. g     :   428
+ 24. b     :   474
+ 25. f     :    65
+ 26. v     :    47
+ 27. q     :     1
+ 28. w     :    78
+ 29. ng    :   114
+ 30. x     :     3
+ 31. gi    :     7
+ 32. z     :     4
+ 33. kh    :     2
+ 34. ch    :     2
+ 35. ?     :     1
+ 36. _     :     1
+ 37. tr    :     4
+
+Dictionary txt/dict.txt created
