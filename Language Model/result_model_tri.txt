@@ -1,0 +1,8 @@
+LPlex test #0: 3-gram
+perplexity 14.6688, var 1.8147, utterances 1739, words predicted 21612
+num tokens 23351, OOV 0, OOV rate 0.00% (excl. </s>)
+
+Access statistics for gram/trigram/langmodel:
+Lang model  requested  exact backed    n/a     mean    stdev
+    bigram       1739 100.0%   0.0%   0.0%    -5.40     1.70
+   trigram      21612  92.0%   0.0%   8.0%    -2.69     1.35
