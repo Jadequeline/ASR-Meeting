@@ -3,16 +3,17 @@ set -xv
 
 # Creating Monophone HMMs
 # Step 6 - Creating Flat Start Monophones
+#Membuat monophones0 dengan menggunakan monophones1 tanpa menggunakan entri 'sp' Lalu buat file hmmdefs dan macros
 # hmm0
 htk/HCompV -C config/HCompV.cfg -f 0.01 -m -S txt/train_mfc.scp -M hmm/hmm0 ins/proto.template
 perl script/perl_script/mkMacrosFile.pl hmm/hmm0/vFloors hmm/hmm0/macros
 perl script/perl_script/mkHmmdefsFile.pl hmm/hmm0/proto phones/monophones0 hmm/hmm0/hmmdefs
 
-
-# hmm1, hmm2, hmm3
-htk/HERest -C config/HERest.cfg -I mlf/phones0.mlf -t 250.0 150.0 1000.0 -S txt/train_mfc.scp -H hmm/hmm0/macros -H hmm/hmm0/hmmdefs -M hmm/hmm1 phones/monophones0
-htk/HERest -C config/HERest.cfg -I mlf/phones0.mlf -t 250.0 150.0 1000.0 -S txt/train_mfc.scp -H hmm/hmm1/macros -H hmm/hmm1/hmmdefs -M hmm/hmm2 phones/monophones0
-htk/HERest -C config/HERest.cfg -I mlf/phones0.mlf -t 250.0 150.0 1000.0 -S txt/train_mfc.scp -H hmm/hmm2/macros -H hmm/hmm2/hmmdefs -M hmm/hmm3 phones/monophones0
+#TAHAP PEMBUATAN MODEL
+## hmm1, hmm2, hmm3
+htk/HERest -A -D -T 1 -C config/HERest.cfg -I mlf/phones0.mlf -t 250.0 150.0 1000.0 -S txt/train_mfc.scp -H hmm/hmm0/macros -H hmm/hmm0/hmmdefs -M hmm/hmm1 phones/monophones0
+htk/HERest -A -D -T 1 -C config/HERest.cfg -I mlf/phones0.mlf -t 250.0 150.0 1000.0 -S txt/train_mfc.scp -H hmm/hmm1/macros -H hmm/hmm1/hmmdefs -M hmm/hmm2 phones/monophones0
+htk/HERest -A -D -T 1 -C config/HERest.cfg -I mlf/phones0.mlf -t 250.0 150.0 1000.0 -S txt/train_mfc.scp -H hmm/hmm2/macros -H hmm/hmm2/hmmdefs -M hmm/hmm3 phones/monophones0
 
 
 # Step 7 - Fixing the Silence Models

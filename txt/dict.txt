@@ -1,17 +1,3 @@
-<cuku>          < c u k u > sp sp
-<da>            < d a > sp sp
-<eh>            < e h > sp sp
-<eu>            < e u > sp sp
-<euh>           < e u h > sp sp
-<eum>           < e u m > sp sp
-<hem>           < h e m > sp sp
-<hmm>           < h m m > sp sp
-<ik>            < i k > sp sp
-<mek>           < m e k > sp sp
-<oh>            < o h > sp sp
-<tuj>           < t u j > sp sp
-<ulusan>        < u l u s a n > sp sp
-<yan>           < y a n > sp sp
 a               a sp sp
 acara           a c a r a sp sp
 acaranya        a c a r a n y a sp sp
@@ -2043,7 +2029,6 @@ tahunan         t a h u n a n sp sp
 tambah          t a m b a h sp sp
 tambahan        t a m b a h a n sp sp
 tampilan        t a m p i l a n sp sp
-tampilan13516084_001 t a m p i l a n         _    sp sp
 tampung         t a m p u ng sp sp
 tamu            t a m u sp sp
 tanda           t a n d a sp sp
