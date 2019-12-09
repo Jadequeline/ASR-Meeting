@@ -1,0 +1,5836 @@
+BIGRAM: method Katz, cutoff 0
+  coef[7]: 0.267553 0.492789 0.608063 0.663183 0.810856 0.903676 0.808926
+
+\data\
+ngram 1=2767
+ngram 2~13168
+
+\1-grams:
+-1.0948	</s>	-0.1352
+-3.6359	<ah>	-0.1880
+-4.3348	<bat>	-0.1342
+-4.3348	<cuku>	-0.1344
+-4.3348	<da>	-0.1339
+-4.3348	<eh>	-0.1351
+-4.3348	<eu>	-0.1344
+-2.6188	<euh>	-0.1298
+-3.4897	<eum>	-0.1577
+-3.8577	<hem>	-0.1321
+-4.3348	<hmm>	-0.1351
+-4.3348	<ik>	-0.1352
+-4.3348	<kontro>kontribusi	-0.1209
+-4.3348	<mek>	-0.1352
+-4.3348	<mintadat>	-0.1349
+-4.3348	<nyaran>	-0.1352
+-4.3348	<objek>ojek	-0.1351
+-3.4897	<oh>	-0.2154
+-4.3348	<penu>	-0.1351
+-99.9900	<s>	-0.4387
+-4.3348	<sua>	-0.1342
+-4.3348	<tuj>	-0.1348
+-4.3348	<ulusan>	-0.1347
+-4.3348	<yan>	-0.1334
+-3.2557	a	-0.2193
+-4.0338	abis	-0.2913
+-2.3710	acara	-0.2942
+-4.3348	acaranya	-0.1339
+-4.3348	acc	-0.1349
+-3.8577	account	-0.1891
+-1.8770	ada	-0.3004
+-3.8577	adakah	-0.1206
+-2.4540	adalah	-0.2057
+-3.6359	adanya	-0.1312
+-4.3348	adaptasi	-0.1345
+-4.3348	adik	-0.1351
+-3.5567	adik-adik	-0.2863
+-4.3348	adminnya	-0.0988
+-4.3348	affiliate	-0.1291
+-3.5567	agak	-0.1343
+-3.7328	agama	-0.4720
+-3.0338	agar	-0.1833
+-4.3348	agen	-0.1291
+-3.5567	agenda	-0.3000
+-3.7328	agustus	-0.1042
+-4.3348	ah	-0.1314
+-4.3348	air	-0.1317
+-2.6816	aja	-0.3099
+-4.3348	ajah	-0.0988
+-4.3348	ajak	-0.1336
+-4.0338	ajaran	-0.2935
+-3.7328	aji	-0.0833
+-3.6359	akademik	-0.2016
+-4.0338	akademis	-0.1330
+-4.3348	akademisi	-0.1339
+-4.3348	akal	-0.0988
+-1.8491	akan	-0.2795
+-3.1587	akhir	-0.3369
+-4.0338	akhiri	-0.1329
+-4.3348	akhirnya	-0.1272
+-4.3348	akibatnya	-0.1294
+-4.3348	akmal	-0.1342
+-4.3348	akrab	-0.1310
+-3.7328	akses	-0.1078
+-3.7328	aktif	-0.1998
+-3.7328	aktivitas	-0.1348
+-2.7221	aku	-0.2315
+-4.3348	akui	-0.1317
+-4.3348	akuisisi	-0.0988
+-4.3348	akumulasi	-0.1283
+-4.3348	akun	-0.1315
+-4.3348	alamat	-0.1258
+-4.3348	alamatnya	-0.1349
+-3.6359	alasan	-0.0972
+-3.8577	alasannya	-0.1312
+-3.3806	alat	-0.2768
+-3.7328	alat-alat	-0.3057
+-4.3348	alatnya	-0.0988
+-4.3348	alias	-0.1350
+-4.3348	alkali	-0.1258
+-4.0338	alternatif	-0.1329
+-3.7328	alumni	-0.0722
+-3.6359	alur	-0.3566
+-4.3348	alurnya	-0.1339
+-4.3348	aman	-0.1345
+-4.3348	amat	-0.1283
+-4.3348	ambil	-0.1352
+-4.3348	amerika	-0.1352
+-3.0126	anak	-0.2952
+-3.4317	anak-anak	-0.0787
+-3.8577	analisis	-0.2345
+-4.0338	ancaman	-0.1325
+-4.3348	ancol	-0.0988
+-3.3348	anda	-0.0861
+-4.3348	andal	-0.1291
+-4.3348	andreas	-0.1352
+-4.3348	anggap	-0.1340
+-4.3348	anggaplah	-0.1352
+-3.7328	anggaran	-0.1588
+-4.3348	anggarannya	-0.1331
+-3.1307	anggota	-0.1715
+-4.0338	anggotanya	-0.1316
+-4.3348	angka	-0.1352
+-4.3348	angkat	-0.1351
+-4.0338	angkatan	-0.1196
+-4.3348	anjuran	-0.1266
+-4.3348	anonim	-0.1351
+-3.7328	antar	-0.2072
+-3.2557	antara	-0.2824
+-4.3348	antaranya	-0.0988
+-2.5219	apa	-0.4554
+-4.3348	apa-apa	-0.0988
+-3.2934	apabila	-0.2091
+-2.4427	apakah	-0.5715
+-4.0338	apalagi	-0.1246
+-4.3348	apalah	-0.1352
+-2.8435	aplikasi	-0.1788
+-4.3348	aplikasi-aplikasi	-0.1339
+-4.3348	aplikasinya	-0.1350
+-4.3348	approval	-0.1348
+-4.3348	apresiasi	-0.1291
+-4.3348	apresiasinya	-0.1339
+-4.3348	april	-0.0988
+-3.8577	aqua	-0.1944
+-4.3348	arahannya	-0.0988
+-4.3348	area	-0.1334
+-4.3348	arif	-0.1342
+-4.0338	artinya	-0.1288
+-4.0338	asesmen	-0.1266
+-4.3348	asia	-0.1352
+-4.3348	aspek	-0.1350
+-4.3348	aspirasi	-0.1283
+-4.3348	assalamualaikum	-0.0988
+-4.0338	asuhan	-0.2584
+-4.3348	asumsi	-0.1272
+-2.8034	atas	-0.3494
+-4.0338	atasan	-0.0832
+-4.0338	atasannya	-0.1342
+-2.3664	atau	-0.1324
+-3.5567	ataupun	-0.1298
+-4.3348	atribut	-0.1333
+-4.3348	atributnya	-0.1272
+-3.8577	aturan	-0.2249
+-4.3348	aturan-aturan	-0.1209
+-4.3348	audience	-0.0988
+-4.3348	aula	-0.1352
+-4.3348	australia	-0.1352
+-4.3348	autentikasi	-0.1350
+-4.3348	auto	-0.1345
+-3.3348	awal	-0.0765
+-4.3348	awal-awal	-0.1342
+-4.3348	awalnya	-0.1283
+-4.3348	awareness	-0.1352
+-4.0338	ayah	-0.1239
+-4.3348	ayam	-0.1351
+-3.7328	b	-0.1082
+-4.3348	baca	-0.1346
+-4.3348	bacakan	-0.1352
+-3.8577	backend	-0.0854
+-4.3348	badan	-0.1350
+-2.8435	bagaimana	-0.1461
+-2.7785	bagi	-0.1978
+-2.5790	bagian	-0.4484
+-3.2934	bagus	-0.1580
+-3.4897	bahan	-0.7275
+-4.3348	bahannya	-0.1209
+-3.3348	bahas	-0.1200
+-4.3348	bahasan	-0.1325
+-3.6359	bahkan	-0.1310
+-3.2557	bahwa	-0.1206
+-2.3262	baik	-0.2147
+-3.2209	baiklah	-0.2952
+-3.5567	baiknya	-0.0870
+-4.3348	bajunya	-0.1348
+-2.7438	bakal	-0.1725
+-4.3348	bakar	-0.0988
+-3.7328	bakat	-0.3125
+-4.3348	bakti	-0.1350
+-3.4897	baku	-0.2204
+-4.0338	bali	-0.1342
+-3.8577	balik	-0.1186
+-4.3348	banding	-0.0988
+-3.8577	bandung	-0.1967
+-4.3348	banget	-0.1291
+-4.3348	bangun	-0.1346
+-4.3348	bank	-0.1349
+-3.5567	bantu	-0.1046
+-4.3348	bantuan	-0.1272
+-3.8577	banu	-0.1142
+-2.7551	banyak	-0.1443
+-4.0338	banyak-banyaknya	-0.0965
+-4.0338	banyaknya	-0.1350
+-2.9199	bapak	-0.1747
+-4.0338	bapak-bapak	-0.2887
+-4.3348	bapak-ibu	-0.1209
+-2.9035	barang	-0.2569
+-3.7328	barang-barang	-0.1193
+-4.3348	barangnya	-0.1352
+-4.3348	barat	-0.1310
+-4.3348	bareng	-0.0988
+-4.0338	barrier	-0.1349
+-2.5219	baru	-0.2288
+-4.3348	barunya	-0.0988
+-4.3348	barusan	-0.1325
+-3.6359	basis	-0.7227
+-4.0338	batas	-0.2939
+-3.7328	bawa	-0.2040
+-4.3348	bayam	-0.0988
+-4.3348	bbm	-0.0988
+-4.3348	beban	-0.1209
+-3.7328	bebas	-0.0974
+-2.6106	beberapa	-0.1710
+-3.0126	begitu	-0.3000
+-4.3348	bekal	-0.1352
+-4.0338	bekas	-0.2584
+-2.9731	bekerja	-0.2933
+-4.3348	bekerjamasama	-0.1351
+-4.3348	bekerjanya	-0.1283
+-3.6359	belajar	-0.1812
+-4.0338	belakang	-0.1312
+-4.3348	belakangi	-0.1349
+-3.0561	belas	-0.1601
+-3.3348	belasan	-0.1563
+-3.8577	beliau	-0.1235
+-3.8577	belom	-0.1344
+-2.6914	belum	-0.1501
+-4.3348	belut	-0.1333
+-4.3348	benar	-0.1348
+-4.0338	benar-benar	-0.1350
+-4.0338	benarnya	-0.2584
+-4.3348	bendahara	-0.1348
+-4.0338	bener	-0.1350
+-4.3348	bener-bener	-0.1344
+-4.3348	bentar	-0.1352
+-4.3348	bentrok	-0.1344
+-3.4897	bentuk	-0.1661
+-3.5567	berada	-0.3020
+-4.3348	beradaptasi	-0.0988
+-4.3348	beragam	-0.0988
+-4.0338	berakhir	-0.1287
+-4.3348	beralih	-0.1323
+-4.3348	beranjak	-0.1323
+-3.0796	berapa	-0.2697
+-3.0561	berarti	-0.1049
+-3.3806	berbagai	-0.1308
+-4.3348	berbahan	-0.1348
+-4.0338	berbahaya	-0.1340
+-3.4897	berbeda	-0.1714
+-4.3348	berbeda-beda	-0.1345
+-4.3348	berbentuk	-0.1351
+-4.3348	berbicara	-0.1343
+-4.3348	berbincang	-0.1334
+-4.0338	berbobot	-0.0913
+-4.3348	berbuah	-0.0988
+-4.0338	berdampak	-0.1318
+-3.2557	berdasarkan	-0.1556
+-4.3348	berdekatan	-0.1310
+-4.3348	berdiri	-0.1349
+-2.8577	berdoa	-0.5981
+-3.8577	berdua	-0.1336
+-4.3348	berefek	-0.1325
+-3.8577	berencana	-0.2191
+-4.3348	beres	-0.1344
+-4.3348	berfokus	-0.1325
+-4.0338	berfungsi	-0.1307
+-3.7328	bergabung	-0.1256
+-3.7328	bergantung	-0.3144
+-4.0338	berguna	-0.1251
+-3.4317	berharap	-0.1230
+-3.4317	berhasil	-0.1684
+-4.3348	berhubung	-0.1310
+-3.3348	berhubungan	-0.1310
+-4.3348	beri	-0.1351
+-3.5567	berikan	-0.1313
+-3.5567	berikut	-0.5123
+-2.9199	berikutnya	-0.4791
+-3.6359	berisi	-0.1897
+-4.3348	berisiko	-0.1345
+-3.8577	berita	-0.1201
+-3.5567	berjaga	-0.3142
+-3.1587	berjalan	-0.2942
+-4.3348	berjalannya	-0.1343
+-4.0338	berjualan	-0.1288
+-4.0338	berkaitan	-0.2906
+-4.3348	berkat	-0.1347
+-4.3348	berkata	-0.1352
+-4.3348	berkemauan	-0.1352
+-3.3806	berkembang	-0.0887
+-4.3348	berkemungkinan	-0.1323
+-4.3348	berkenan	-0.1349
+-4.3348	berkisar	-0.1350
+-4.3348	berkomentar	-0.1350
+-4.3348	berkomunikasi	-0.1310
+-4.3348	berkontribusi	-0.1323
+-4.3348	berkumpul	-0.1336
+-4.0338	berlaku	-0.2854
+-4.3348	berlangganan	-0.1352
+-3.8577	berlangsung	-0.0905
+-3.8577	berlanjut	-0.4039
+-4.3348	berlebih	-0.1334
+-4.3348	berlomba	-0.1348
+-4.3348	bermanfaat	-0.0988
+-4.3348	bernada	-0.1352
+-4.3348	bernama	-0.1352
+-4.3348	bernilai	-0.0988
+-4.3348	beroperasi	-0.1347
+-4.3348	berpartisipasi	-0.0988
+-3.8577	berpengaruh	-0.1289
+-4.0338	berperan	-0.2938
+-4.3348	berperilaku	-0.1352
+-3.6359	berpikir	-0.1849
+-4.0338	berpindah	-0.1323
+-4.3348	berpola	-0.1352
+-3.3348	bersama	-0.1830
+-4.3348	bersangkutan	-0.0988
+-3.4317	bersedia	-0.1976
+-4.3348	bersemangat	-0.1258
+-4.3348	bersiap-siap	-0.1258
+-4.0338	bersifat	-0.1321
+-4.3348	bersih	-0.1339
+-3.8577	bersih-bersih	-0.4067
+-4.0338	bertahan	-0.1282
+-4.3348	bertambah	-0.0988
+-3.8577	bertanggung	-0.4065
+-3.2209	bertanya	-0.5942
+-4.3348	bertentangan	-0.0988
+-4.3348	berterima	-0.1331
+-4.3348	bertiga	-0.1336
+-4.3348	bertindak	-0.1345
+-3.8577	bertugas	-0.2333
+-4.0338	bertujuan	-0.1256
+-3.8577	berubah	-0.0912
+-4.3348	berunding	-0.1258
+-3.5567	berupa	-0.1341
+-3.8577	berusaha	-0.2254
+-4.0338	berwarna	-0.1257
+-2.8034	besar	-0.2127
+-4.0338	beserta	-0.1349
+-4.3348	besok	-0.1344
+-4.0338	besoknya	-0.1325
+-4.3348	beta	-0.1334
+-3.6359	betul	-0.2393
+-3.4317	biar	-0.1234
+-3.8577	biasa	-0.1260
+-3.8577	biasanya	-0.0892
+-3.0561	biaya	-0.2933
+-4.3348	bicara	-0.1349
+-4.0338	bicarakan	-0.0984
+-3.1307	bidang	-0.1480
+-4.0338	bidangnya	-0.0982
+-3.7328	bikin	-0.1346
+-3.7328	bila	-0.3183
+-4.0338	bilang	-0.1320
+-4.0338	bincang-bincang	-0.1334
+-4.3348	bingung	-0.1336
+-4.0338	biro	-0.1346
+-4.0338	birokrasi	-0.1263
+-2.3220	bisa	-0.1788
+-3.6359	biskuit	-0.2677
+-2.8577	bisnis	-0.1995
+-4.0338	bitbucket	-0.1330
+-4.0338	bka	-0.1343
+-4.3348	blog	-0.1258
+-4.3348	board	-0.1209
+-3.6359	boleh	-0.0938
+-4.3348	bonus	-0.1258
+-4.3348	book	-0.1352
+-3.6359	bot	-0.0721
+-4.3348	botnya	-0.1344
+-4.3348	breakdown	-0.0988
+-4.3348	broadcast	-0.1334
+-4.3348	brokoli	-0.1291
+-4.3348	browser	-0.0988
+-3.8577	brt	-0.0942
+-3.0796	bu	-1.2487
+-4.3348	buah	-0.1349
+-4.3348	buang	-0.1351
+-2.6359	buat	-0.0994
+-4.3348	buatkan	-0.1351
+-4.3348	buatlah	-0.1350
+-4.3348	bubar	-0.1294
+-3.8577	budi	-0.0980
+-3.7328	bujet	-0.1912
+-3.4317	buka	-0.2024
+-4.3348	bukalapak	-0.1352
+-3.2934	bukan	-0.2096
+-4.3348	bukankah	-0.1343
+-4.0338	bukannya	-0.2939
+-4.3348	bukit	-0.1352
+-2.4836	bulan	-0.5043
+-4.3348	bulan-bulan	-0.1347
+-4.3348	bulanannya	-0.1351
+-4.3348	buru-buru	-0.1351
+-4.0338	buruk	-0.1323
+-3.6359	business	-0.7230
+-4.3348	butir	-0.1349
+-3.0561	butuh	-0.3313
+-4.3348	cabang	-0.1336
+-4.3348	cadangan	-0.1209
+-4.0338	calon	-0.1349
+-4.3348	candi	-0.1352
+-4.3348	canggihnya	-0.1350
+-3.8577	canvas	-0.0942
+-3.2209	cara	-0.1216
+-4.0338	caranya	-0.1344
+-4.3348	cari	-0.1339
+-3.7328	catat	-0.1707
+-3.8577	catatan	-0.0986
+-4.3348	catet	-0.1347
+-4.0338	cek	-0.1340
+-4.3348	celah	-0.1272
+-4.0338	cenderung	-0.1344
+-4.3348	ceo	-0.1336
+-3.7328	cepat	-0.0804
+-3.8577	cerita	-0.0974
+-4.3348	change	-0.1209
+-4.0338	channel	-0.0832
+-4.3348	channels	-0.1350
+-4.0338	chatbot	-0.0894
+-3.8577	chatbotnya	-0.2255
+-4.3348	ciri	-0.1209
+-3.5567	coba	-0.1263
+-3.7328	cocok	-0.1975
+-4.3348	cokelat	-0.1352
+-4.3348	contact	-0.1352
+-3.8577	contoh	-0.1255
+-4.3348	contohkan	-0.1339
+-4.3348	contohnya	-0.1352
+-4.0338	control	-0.1345
+-4.3348	crash	-0.1352
+-4.3348	cuaca	-0.1209
+-2.7328	cukup	-0.2782
+-3.8577	cukupkan	-0.1237
+-3.6359	cuma	-0.1828
+-3.6359	cuman	-0.1877
+-4.0338	cumi	-0.2947
+-3.8577	customer	-0.1207
+-4.3348	customer-oriented	-0.1209
+-4.3348	customernya	-0.1342
+-4.3348	cuti	-0.1349
+-3.6359	daerah	-0.1330
+-4.3348	daerah-daerah	-0.1352
+-3.3806	daftar	-0.1642
+-4.3348	dah	-0.1325
+-3.1887	dahulu	-0.5056
+-2.5287	dalam	-0.2019
+-4.3348	dampak	-0.1351
+-1.8563	dan	-0.1103
+-2.8435	dana	-0.2521
+-4.0338	dananya	-0.2584
+-2.3220	dapat	-0.1673
+-4.3348	dapatkan	-0.1348
+-4.0338	dapet	-0.1350
+-1.7995	dari	-0.3315
+-4.0338	darien	-0.1325
+-4.3348	darimana	-0.1349
+-4.3348	darimanapun	-0.1291
+-3.3348	daring	-0.0933
+-3.8577	daripada	-0.1315
+-3.0561	dasar	-0.1117
+-4.0338	dasarnya	-0.1316
+-2.9199	data	-0.1307
+-3.5567	database	-0.1290
+-4.3348	databasenya	-0.1350
+-3.1587	datang	-0.2212
+-4.0338	datanya	-0.1333
+-4.0338	dateng	-0.1329
+-3.4317	daya	-0.5869
+-4.3348	de	-0.1352
+-4.3348	deal	-0.1342
+-4.3348	definisi	-0.1351
+-3.7328	deh	-0.0972
+-4.3348	dekorasi	-0.1209
+-3.0338	delapan	-0.1426
+-4.0338	demikian	-0.1258
+-4.3348	demonstrasinya	-0.1350
+-4.3348	denda	-0.1348
+-2.0147	dengan	-0.1841
+-4.0338	dengarkan	-0.1348
+-2.7116	depan	-0.5164
+-4.0338	depannya	-0.1304
+-2.5640	departemen	-0.3618
+-4.0338	departemennya	-0.0978
+-4.3348	deployment	-0.0988
+-3.3806	desain	-0.1388
+-3.6359	desember	-0.1495
+-4.3348	detail	-0.0988
+-3.6359	detil	-0.2693
+-4.3348	detil-detil	-0.1351
+-4.0338	developer	-0.2584
+-4.0338	devops	-0.0921
+-2.0630	di	-0.3134
+-3.0796	dia	-0.1714
+-4.3348	diacak	-0.1317
+-3.2557	diadakan	-0.1127
+-4.3348	diadakannya	-0.1342
+-4.3348	diagram	-0.1283
+-4.3348	diajak	-0.1325
+-4.3348	diajarkan	-0.1325
+-4.3348	diakses	-0.1349
+-3.4897	dialokasikan	-0.1781
+-4.3348	diambil	-0.1346
+-4.3348	dianggap	-0.1349
+-4.0338	diantaranya	-0.1313
+-4.3348	diapresiasi	-0.0988
+-4.3348	diarahkan	-0.1323
+-4.3348	diasesmen	-0.1266
+-4.0338	diawal	-0.1332
+-4.3348	dibagi	-0.1346
+-3.1887	dibahas	-0.1598
+-3.7328	dibanding	-0.1910
+-3.6359	dibandingkan	-0.1864
+-4.0338	dibantu	-0.1339
+-4.3348	dibatasi	-0.1340
+-3.7328	dibawa	-0.3115
+-4.3348	dibayar	-0.0988
+-4.3348	dibayarkan	-0.1258
+-4.3348	dibeli	-0.1340
+-4.3348	dibelinya	-0.1349
+-3.6359	diberi	-0.1342
+-3.1307	diberikan	-0.3560
+-4.3348	diberitahukan	-0.1340
+-4.0338	diberlakukan	-0.1305
+-4.3348	dibersihkan	-0.1310
+-3.7328	dibicarakan	-0.0919
+-4.3348	dibikin	-0.1350
+-4.0338	dibilang	-0.1308
+-4.3348	dibilanginkan	-0.1350
+-4.0338	dibroadcast	-0.1308
+-3.5567	dibuat	-0.1294
+-3.8577	dibuka	-0.4026
+-3.7328	dibutuhkan	-0.1303
+-4.3348	dibutuhkannya	-0.0988
+-4.3348	dicanangkan	-0.1291
+-4.3348	dicapai	-0.1337
+-3.8577	dicari	-0.1327
+-4.3348	dicatat	-0.1258
+-4.3348	diciptakan	-0.0988
+-3.4897	dicukupkan	-0.6905
+-4.3348	didampingi	-0.1340
+-4.3348	didapat	-0.1348
+-3.7328	didapatkan	-0.1233
+-4.3348	didata	-0.1332
+-4.3348	didatangi	-0.1323
+-3.7328	didiskusikan	-0.1282
+-4.3348	dievaluasi	-0.1325
+-4.3348	difokuskan	-0.1346
+-3.8577	digabungkan	-0.1244
+-4.3348	diganti	-0.0988
+-4.3348	digelutin	-0.1315
+-4.3348	digemari	-0.1349
+-3.7328	digital	-0.0888
+-2.9731	digunakan	-0.3977
+-3.7328	dihadapi	-0.1695
+-3.3348	diharapkan	-0.1128
+-4.3348	diharapkannya	-0.1343
+-4.0338	diharuskan	-0.1345
+-4.3348	dihasilkan	-0.1331
+-4.0338	dihentikan	-0.2948
+-4.3348	dihilangkan	-0.0988
+-4.3348	dihitung	-0.1350
+-4.3348	diidentifikasi	-0.1339
+-4.3348	diikuti	-0.1340
+-4.3348	diimplementasikan	-0.1352
+-4.3348	diinfokan	-0.1336
+-4.0338	diingat	-0.0986
+-4.3348	diingatkan	-0.1350
+-3.7328	diinginkan	-0.1698
+-4.3348	diinisiasikan	-0.1310
+-4.3348	diintegrasiin	-0.1323
+-3.6359	diisi	-0.1785
+-4.3348	dijabarkan	-0.1340
+-4.3348	dijadikan	-0.1342
+-4.3348	dijalin	-0.0988
+-3.8577	dijawab	-0.1333
+-4.0338	dijelaskan	-0.2936
+-4.0338	dijual	-0.1343
+-3.8577	dikabarin	-0.1297
+-4.3348	dikabulkan	-0.1283
+-3.7328	dikarenakan	-0.1342
+-3.8577	dikasih	-0.2347
+-3.5567	dikatakan	-0.2254
+-4.3348	dikategoriin	-0.1352
+-3.7328	dikeluarkan	-0.0975
+-4.0338	dikembangkan	-0.0922
+-4.0338	dikenal	-0.1249
+-3.7328	dikenalkan	-0.2041
+-4.0338	dikerjain	-0.0981
+-3.3348	dikerjakan	-0.1262
+-3.8577	diklat	-0.0921
+-4.0338	dikomunikasikan	-0.1349
+-4.0338	dikontak	-0.1321
+-4.3348	dikumpulkan	-0.1290
+-4.3348	dikunjungi	-0.1340
+-4.3348	dikurangi	-0.1343
+-3.4317	dilaksanakan	-0.1557
+-2.9731	dilakukan	-0.1372
+-3.8577	dilanjut	-0.2277
+-3.4317	dilanjutkan	-0.1676
+-4.3348	dilansir	-0.1283
+-4.0338	dilaporkan	-0.2584
+-3.3806	dilihat	-0.2452
+-4.0338	diluangkan	-0.1254
+-4.3348	diluncurkan	-0.1338
+-4.0338	dimana	-0.1269
+-4.3348	dimasuki	-0.1340
+-3.8577	dimasukin	-0.4039
+-3.7328	dimasukkan	-0.2819
+-4.0338	dimiliki	-0.2932
+-4.0338	diminati	-0.0988
+-3.4897	diminta	-0.1248
+-3.8577	dimohon	-0.1228
+-4.3348	dimudahkan	-0.1310
+-3.0338	dimulai	-0.5592
+-4.3348	dinaikkan	-0.0988
+-3.7328	dini	-0.1668
+-4.0338	dinilai	-0.1347
+-4.3348	dinyatakan	-0.1352
+-4.3348	dion	-0.1352
+-4.3348	dipahami	-0.1352
+-4.0338	dipakai	-0.1257
+-4.0338	dipakek	-0.0988
+-4.3348	dipaketkan	-0.1323
+-4.3348	dipasarkan	-0.1291
+-4.3348	dipastikan	-0.1294
+-4.3348	dipatiukur	-0.0988
+-4.3348	dipecah	-0.1336
+-3.8577	dipelajari	-0.2307
+-4.3348	dipenuhi	-0.1340
+-4.3348	diperbaharui	-0.1334
+-4.3348	diperbaiki	-0.0988
+-4.3348	dipercepat	-0.1332
+-3.8577	diperhatikan	-0.0892
+-4.0338	diperjelas	-0.1324
+-3.8577	diperkirakan	-0.2284
+-4.0338	diperluas	-0.2919
+-3.8577	diperlukan	-0.1253
+-4.3348	diperoleh	-0.1310
+-3.8577	dipersiapkan	-0.1277
+-3.8577	dipersilahkan	-0.0881
+-3.4897	dipersilakan	-0.3085
+-3.6359	dipertimbangkan	-0.1164
+-4.3348	dipesan	-0.0988
+-3.8577	dipikirkan	-0.1984
+-3.7328	dipilih	-0.1325
+-3.7328	dipimpin	-0.4714
+-4.3348	dipinjamkannya	-0.1341
+-4.3348	dipisah	-0.1340
+-3.7328	diproses	-0.1199
+-4.3348	diproyeksikan	-0.1290
+-4.0338	dipublikasikan	-0.1337
+-4.0338	dirancang	-0.1302
+-4.0338	dirasa	-0.1351
+-4.3348	direkrut	-0.1351
+-3.6359	direncanakan	-0.0894
+-4.3348	direspon	-0.1310
+-3.7328	diri	-0.2046
+-4.0338	dirinci	-0.1348
+-4.3348	disadari	-0.1346
+-3.8577	disajikan	-0.1247
+-3.6359	disampaikan	-0.1535
+-4.0338	disampein	-0.1311
+-4.3348	disamping	-0.1349
+-4.3348	disana	-0.1339
+-4.3348	disasar	-0.0988
+-4.3348	disebabkan	-0.1340
+-4.3348	disebarkan	-0.1323
+-4.3348	disebut	-0.1349
+-3.7328	disebutkan	-0.1298
+-3.4897	disediakan	-0.1998
+-3.7328	diselesaikan	-0.1300
+-4.3348	diseragamkan	-0.1352
+-3.7328	disesuaikan	-0.1701
+-3.7328	disetujui	-0.0953
+-4.3348	disewa	-0.0988
+-4.3348	disiapin	-0.1336
+-3.8577	disiapkan	-0.1287
+-4.3348	disimpan	-0.1310
+-4.3348	disimpen	-0.1350
+-3.0561	disini	-0.0987
+-4.3348	disitu	-0.0988
+-3.8577	diskon	-0.1067
+-4.3348	diskusi	-0.1266
+-4.3348	diskusikan	-0.1340
+-4.3348	disponsori	-0.1340
+-3.7328	distribusi	-0.1194
+-4.0338	distributor	-0.1345
+-4.3348	disukai	-0.1349
+-4.0338	disusun	-0.1170
+-4.0338	ditakutkan	-0.1290
+-4.3348	ditambah	-0.1310
+-4.0338	ditambahkan	-0.0947
+-3.7328	ditampilkan	-0.1710
+-4.3348	ditanda	-0.1351
+-4.3348	ditanggapi	-0.1291
+-4.3348	ditanggulangi	-0.1310
+-3.7328	ditanyakan	-0.1692
+-4.3348	ditargetkan	-0.1258
+-3.8577	ditawarkan	-0.0983
+-4.3348	ditegaskan	-0.1348
+-3.7328	ditempatkan	-0.2820
+-4.3348	ditempel	-0.1315
+-4.3348	ditemukan	-0.1351
+-4.0338	ditentukan	-0.1297
+-3.6359	diterapkan	-0.1473
+-4.3348	diterima	-0.1350
+-4.0338	diterusin	-0.1343
+-4.3348	dites	-0.0988
+-4.3348	ditetapkan	-0.1334
+-4.3348	ditindaklanjuti	-0.1291
+-4.3348	ditopang	-0.1340
+-4.0338	ditugaskan	-0.2854
+-4.0338	ditujukan	-0.1256
+-4.0338	ditulis	-0.1273
+-4.3348	ditunda	-0.1351
+-4.3348	ditunggu	-0.1258
+-4.3348	ditunjukkan	-0.1331
+-4.3348	ditutup	-0.1310
+-3.8577	diubah	-0.0955
+-4.3348	diundang	-0.1350
+-4.3348	diunduh	-0.1346
+-4.3348	diunggah	-0.1325
+-4.0338	diurus	-0.1338
+-4.3348	diusahakan	-0.1351
+-4.3348	diusulkan	-0.1340
+-4.3348	divalidasi	-0.1291
+-2.0630	divisi	-0.4527
+-3.8577	divisi-divisi	-0.2203
+-3.8577	divisinya	-0.0877
+-4.3348	diwakili	-0.1340
+-4.3348	dlapan	-0.1348
+-2.9546	doa	-0.3417
+-4.3348	doang	-0.0988
+-3.3806	dokumentasi	-0.2056
+-4.0338	dokumentasinya	-0.0966
+-4.3348	dolar	-0.1283
+-4.3348	dollar	-0.0988
+-4.3348	dompet	-0.1352
+-4.3348	dompetnya	-0.1352
+-3.5567	dong	-0.1177
+-4.3348	dosen	-0.1351
+-4.3348	dp	-0.1325
+-4.3348	drastis	-0.0988
+-3.7328	drive	-0.0987
+-2.5640	dua	-0.4474
+-4.3348	duit	-0.0988
+-4.3348	dukungan	-0.1352
+-2.9199	dulu	-0.2807
+-3.4897	dunia	-0.1187
+-4.3348	durasi	-0.1343
+-4.3348	duri	-0.1352
+-4.3348	e-commerce	-0.1346
+-3.4897	eben	-0.0880
+-4.0338	eceng	-0.2948
+-4.3348	edukatif	-0.1350
+-3.5567	efektif	-0.1436
+-3.8577	efektivitas	-0.1274
+-4.3348	effort	-0.1209
+-4.0338	eksplorasi	-0.1329
+-3.7328	eksternal	-0.0903
+-4.3348	ekstrem	-0.1336
+-4.0338	elektronik	-0.2584
+-3.5567	elemen	-0.1575
+-3.8577	elisa	-0.1974
+-4.3348	email	-0.1347
+-3.8577	emas	-0.2252
+-4.3348	embernya	-0.1352
+-3.1044	empat	-0.2753
+-3.7328	enam	-0.1277
+-4.3348	engan	-0.1350
+-4.0338	engga	-0.0985
+-3.4897	enggak	-0.2466
+-3.8577	engineer	-0.1284
+-4.0338	ensof	-0.2584
+-4.3348	entry	-0.0988
+-4.3348	era	-0.1351
+-3.8577	estavet	-0.0921
+-4.0338	estimasi	-0.1342
+-4.3348	etis	-0.1291
+-3.8577	evaluasi	-0.1345
+-4.3348	expo	-0.1348
+-4.3348	exponya	-0.1345
+-4.3348	facto	-0.1283
+-4.0338	fair	-0.1119
+-4.0338	fakultas	-0.1336
+-4.3348	fasilitas-fasilitas	-0.1315
+-4.3348	fatal	-0.1283
+-3.4317	fatma	-0.1501
+-4.3348	februari	-0.0988
+-4.3348	feedback	-0.1351
+-4.3348	felis	-0.1348
+-3.1887	finlandia	-0.1478
+-4.3348	first	-0.1352
+-4.3348	fisik	-0.0988
+-3.0796	fitur	-0.2120
+-4.3348	fiturnya	-0.1290
+-4.0338	fix	-0.2584
+-4.3348	fleksibel	-0.0988
+-3.7328	flyer	-0.1678
+-3.2209	fokus	-0.3182
+-4.3348	fokusnya	-0.1348
+-4.3348	follow	-0.1351
+-4.3348	ford	-0.1352
+-4.0338	form	-0.1258
+-4.3348	format	-0.1209
+-3.6359	foto	-0.3747
+-4.3348	foto-foto	-0.1315
+-4.3348	founder	-0.1258
+-4.0338	full	-0.1352
+-3.8577	funding	-0.2336
+-3.5567	fungsi	-0.1191
+-3.4317	futsal	-0.1588
+-2.9731	ga	-0.2087
+-3.8577	gagal	-0.0920
+-3.8577	gaji	-0.1244
+-4.3348	gajinya	-0.0988
+-3.0796	gak	-0.1435
+-3.8577	gambar	-0.0947
+-3.8577	gambaran	-0.1329
+-4.0338	ganti	-0.1351
+-4.0338	gantian	-0.1314
+-4.3348	gara-gara	-0.1352
+-4.3348	garis	-0.1345
+-4.3348	gausah	-0.1345
+-4.3348	gebetanmu	-0.1340
+-4.3348	gedung	-0.1350
+-4.3348	gembira	-0.0988
+-4.3348	gencar	-0.1348
+-4.0338	giliran	-0.1324
+-3.1044	gimana	-0.2320
+-4.0338	gio	-0.0913
+-3.7328	git	-0.1674
+-3.5567	github	-0.1925
+-4.3348	gitlab	-0.0988
+-3.0126	gitu	-0.3443
+-4.3348	gituh	-0.0988
+-3.5567	go-jek	-0.0823
+-4.3348	gojek	-0.1266
+-4.0338	gondok	-0.0832
+-3.7328	goreng	-0.2076
+-3.8577	grafik	-0.2203
+-4.3348	grafis	-0.1349
+-4.0338	gratis	-0.1253
+-3.7328	grup	-0.1140
+-4.3348	grupnya	-0.1343
+-4.3348	gua	-0.1352
+-3.0126	gudang	-0.2495
+-3.3348	gue	-0.1579
+-4.3348	gulung	-0.1352
+-3.8577	gunakan	-0.1882
+-4.0338	guru-guru	-0.1342
+-4.0338	habis	-0.1351
+-4.3348	habisnya	-0.0988
+-3.8577	hadapi	-0.1285
+-3.3348	hadiah	-0.0797
+-4.3348	hadiahnya	-0.1266
+-3.1307	hadir	-0.3139
+-4.0338	hailing	-0.0947
+-2.6627	hal	-0.6780
+-3.5567	hal-hal	-0.2334
+-3.3348	halaman	-0.1421
+-4.3348	halamannya	-0.0988
+-4.3348	hallo	-0.1345
+-4.3348	halnya	-0.1310
+-4.3348	halo	-0.1346
+-4.0338	halu	-0.1335
+-3.8577	haluluntur	-0.1975
+-4.3348	hambatan	-0.1344
+-3.8577	hampir	-0.1319
+-4.0338	handy	-0.1278
+-2.8877	hanya	-0.1311
+-3.8577	harap	-0.4067
+-3.6359	harapan	-0.2527
+-3.8577	harapannya	-0.1338
+-4.3348	harapkan	-0.1283
+-3.1587	harga	-0.1979
+-4.3348	harga-harga	-0.1351
+-2.4158	hari	-0.5881
+-4.3348	hari-hari	-0.1351
+-4.0338	harian	-0.1285
+-3.7328	harinya	-0.1677
+-2.6359	harus	-0.1751
+-4.0338	harusnya	-0.1325
+-2.9924	hasil	-0.1537
+-3.8577	hati	-0.4067
+-4.3348	hebat	-0.1350
+-4.3348	henry	-0.1352
+-4.3348	hidup	-0.1352
+-3.5567	hijau	-0.1345
+-3.8577	hilang	-0.1348
+-3.0338	himpunan	-0.1912
+-3.4897	hingga	-0.1715
+-4.3348	historis	-0.1310
+-4.0338	hosting	-0.1283
+-3.6359	hubungan	-0.2625
+-4.3348	hujan	-0.1334
+-3.8577	humas	-0.1320
+-4.3348	hutang	-0.1209
+-4.0338	ia	-0.1323
+-4.0338	ialah	-0.1248
+-4.3348	ibarat	-0.1352
+-3.1307	ibu	-0.3090
+-4.0338	ibu-ibu	-0.2946
+-3.3806	ide	-0.1384
+-4.0338	identitas	-0.1255
+-4.3348	idenya	-0.1344
+-4.3348	iga	-0.1352
+-4.3348	ijin	-0.1346
+-4.0338	ika	-0.1283
+-4.3348	ikan	-0.1351
+-3.3806	iklan	-0.1603
+-3.6359	ikut	-0.1906
+-4.3348	ikut-ikutan	-0.0988
+-4.3348	ilham	-0.1352
+-4.3348	ilmu-ilmu	-0.1347
+-3.7328	implementasi	-0.4724
+-4.3348	indimi	-0.1291
+-3.7328	indonesia	-0.4362
+-4.0338	industri	-0.1208
+-4.3348	infonya	-0.1291
+-4.3348	informal	-0.1339
+-3.5567	informasi	-0.1570
+-3.7328	informatika	-0.1973
+-4.3348	informatikanya	-0.1272
+-4.3348	infrastruktur	-0.1352
+-4.3348	ingat	-0.1336
+-2.7328	ingin	-0.2261
+-1.7054	ini	-0.3380
+-4.3348	inkubator	-0.1346
+-4.0338	inovasi	-0.1258
+-4.3348	insentif	-0.1351
+-4.3348	instagram	-0.1317
+-4.3348	integrasi	-0.1310
+-3.3348	internal	-0.0992
+-3.8577	internasional	-0.1828
+-4.3348	interupsi	-0.1350
+-4.0338	inti	-0.1348
+-4.3348	inventaris	-0.1334
+-3.7328	inventarisasi	-0.1713
+-4.3348	investasi	-0.1333
+-4.3348	investigasi	-0.1350
+-3.7328	investor	-0.0915
+-4.0338	ipa	-0.0921
+-4.3348	isi	-0.1337
+-3.7328	isinya	-0.1334
+-4.0338	isoma	-0.0971
+-4.3348	istirahat	-0.1349
+-3.2557	it	-0.1703
+-3.2934	itb	-0.0865
+-4.3348	item	-0.1209
+-2.0893	itu	-0.1461
+-4.0338	ituh	-0.0832
+-4.0338	itulah	-0.1194
+-3.2209	iya	-0.1248
+-4.3348	iyaa	-0.1351
+-3.1044	izin	-0.1539
+-4.3348	izinkan	-0.1314
+-3.8577	izinnya	-0.2300
+-2.3178	jadi	-0.0693
+-4.3348	jadikan	-0.1351
+-3.4317	jadwal	-0.1177
+-3.8577	jadwalkan	-0.1320
+-4.3348	jaga	-0.1352
+-4.3348	jagung	-0.1352
+-3.8577	jakarta	-0.1918
+-4.3348	jaket	-0.1348
+-3.7328	jalan	-0.2060
+-3.6359	jalan-jalan	-0.0883
+-4.3348	jalan-jalannya	-0.0988
+-4.3348	jalankan	-0.1258
+-4.0338	jalu	-0.1342
+-4.3348	jalur	-0.1352
+-4.3348	jalur-jalur	-0.1209
+-3.2557	jam	-0.4201
+-4.3348	jaman	-0.1352
+-4.3348	jamin	-0.1345
+-4.3348	jaminan	-0.1352
+-3.1587	jangan	-0.3171
+-4.0338	jangka	-0.1352
+-4.3348	jangkauan	-0.1350
+-4.3348	jantung	-0.1283
+-3.8577	januari	-0.0970
+-4.3348	jaringan	-0.1351
+-4.0338	jasa	-0.1207
+-4.3348	jasanya	-0.1331
+-3.5567	jauh	-0.0966
+-4.3348	jawa	-0.1352
+-3.1887	jawab	-0.1803
+-4.3348	jawaban	-0.1209
+-4.0338	jawabannya	-0.0972
+-4.3348	jawabnya	-0.1337
+-4.0338	jaya	-0.1334
+-4.3348	jeje	-0.1352
+-4.3348	jelajahi	-0.0988
+-3.3348	jelas	-0.1364
+-3.8577	jelasin	-0.1326
+-3.6359	jelaskan	-0.1310
+-4.3348	jelek	-0.1291
+-3.3348	jenis	-0.2395
+-4.3348	jenis-jenis	-0.1347
+-4.3348	jenjang	-0.1349
+-4.0338	jepang	-0.1248
+-2.9546	jika	-0.3438
+-4.3348	jobdesc	-0.1283
+-4.3348	jobdesk	-0.1352
+-4.0338	jual	-0.1340
+-3.5567	jualan	-0.3240
+-2.2276	juga	-0.1550
+-4.0338	jumat	-0.2584
+-4.3348	jumatnya	-0.1344
+-3.2557	jumlah	-0.1467
+-4.0338	jumlahnya	-0.0921
+-4.0338	jumpa	-0.0985
+-3.5567	jurusan	-0.1226
+-4.3348	jus	-0.1258
+-4.3348	justru	-0.1351
+-3.2934	juta	-0.2048
+-4.3348	jutaan	-0.1352
+-3.7328	kabar	-0.0965
+-4.3348	kabarnya	-0.1332
+-3.7328	kaderisasi	-0.2847
+-4.3348	kadivnya	-0.1258
+-3.5567	kado	-0.1593
+-3.6359	kak	-0.1460
+-4.0338	kakak	-0.1349
+-4.3348	kala	-0.0988
+-4.3348	kalah	-0.1350
+-2.4158	kalau	-0.3791
+-2.8435	kali	-0.8518
+-2.8435	kalian	-0.1033
+-2.9731	kalo	-0.5255
+-4.0338	kame	-0.1288
+-3.2934	kamera	-0.1248
+-2.6359	kami	-0.1866
+-4.3348	kamis	-0.1336
+-3.3348	kampus	-0.2772
+-3.6359	kamu	-0.1294
+-2.8435	kan	-0.1966
+-4.0338	kanal	-0.1350
+-4.3348	kanban	-0.1352
+-4.3348	kanker	-0.1351
+-3.3806	kantor	-0.1598
+-4.3348	kanvas	-0.1352
+-3.8577	kaos	-0.1263
+-4.3348	kapal	-0.1209
+-3.4897	kapan	-0.1262
+-4.3348	kapanpun	-0.0988
+-4.3348	kapasitas	-0.1351
+-4.0338	karakteristik	-0.1345
+-4.0338	karakteristiknya	-0.0982
+-2.4264	karena	-0.1327
+-4.3348	karenanya	-0.1342
+-4.3348	karisma	-0.1352
+-3.2209	kartu	-0.2206
+-4.3348	karung	-0.1344
+-2.8034	karyawan	-0.2257
+-4.0338	karyawan-karyawan	-0.1184
+-4.0338	kas	-0.2584
+-4.3348	kasar	-0.1343
+-4.3348	kasat	-0.1351
+-2.3055	kasih	-0.5664
+-4.3348	kasus	-0.1349
+-4.3348	kata	-0.1351
+-4.0338	katakan	-0.1292
+-3.6359	katanya	-0.1886
+-4.3348	kategorinya	-0.1317
+-3.7328	kaya	-0.0933
+-3.2934	kayak	-0.1799
+-3.4317	kayaknya	-0.1260
+-2.1795	ke	-0.2422
+-4.0338	keadaan	-0.1322
+-4.0338	keamanan	-0.1207
+-4.3348	keanggotaan	-0.1349
+-4.0338	kebanyakan	-0.1341
+-4.3348	kebebasan	-0.1258
+-4.0338	keberatan	-0.2584
+-3.8577	keberhasilan	-0.2301
+-3.8577	keberjalanan	-0.1180
+-4.0338	keberjalanannya	-0.1274
+-4.3348	keberlangsungan	-0.1350
+-3.7328	kebijakan	-0.0967
+-4.3348	kebudayaan	-0.1351
+-3.2934	kebutuhan	-0.1465
+-4.3348	kebutuhannya	-0.1351
+-4.3348	kecelakaan	-0.1209
+-3.5567	kecil	-0.1345
+-4.3348	kedatangan	-0.1347
+-3.8577	kedepannya	-0.0884
+-3.2557	kedua	-0.1581
+-4.3348	keempat	-0.1337
+-4.3348	kegagalan	-0.1266
+-3.1307	kegiatan	-0.1210
+-4.3348	kegiatan-kegiatan	-0.1348
+-4.3348	kegiatannya	-0.1341
+-4.3348	kehabisan	-0.1347
+-4.3348	kehadiran	-0.1351
+-4.3348	kehadirannya	-0.1337
+-3.7328	kehidupan	-0.0952
+-3.5567	kehijauan	-0.1806
+-4.3348	keindahan	-0.1352
+-4.3348	keisi	-0.1345
+-4.3348	keistimewaan	-0.1283
+-4.3348	kejadian	-0.1266
+-4.3348	kejamnya	-0.1352
+-4.3348	kejar	-0.1351
+-4.0338	kekeluargaan	-0.1320
+-3.7328	kekurangan	-0.1198
+-4.3348	kekurangannya	-0.1342
+-4.3348	kelancaran	-0.1291
+-4.3348	kelanjutan	-0.1342
+-3.5567	kelas	-0.2971
+-4.3348	kelebihan	-0.1291
+-4.3348	kelebihannya	-0.1351
+-4.0338	kelemahannya	-0.2584
+-4.3348	kelengkapan	-0.1352
+-3.7328	kelereng	-0.1973
+-3.8577	keliatannya	-0.1274
+-3.8577	kelihatannya	-0.1330
+-4.3348	keliling	-0.1326
+-4.3348	kelima	-0.0988
+-3.8577	kelompok	-0.1347
+-3.7328	keluar	-0.2008
+-4.3348	kelulusan	-0.1352
+-4.0338	kemahasiswaan	-0.0922
+-3.6359	kemajuan	-0.1070
+-4.3348	kemajuannya	-0.0988
+-3.6359	kemampuan	-0.1793
+-4.3348	kemanusiaan	-0.1291
+-4.0338	kemaren	-0.0981
+-3.1044	kemarin	-0.1576
+-4.0338	kemasan	-0.0976
+-3.2209	kembali	-0.1410
+-4.0338	kembalikan	-0.2919
+-3.7328	kembangkan	-0.1196
+-4.0338	kemeja	-0.0886
+-4.0338	kemerdekaan	-0.1335
+-3.8577	kemudahan	-0.2335
+-2.9924	kemudian	-0.1666
+-3.6359	kemungkinan	-0.2612
+-3.1587	kenaikan	-0.3003
+-4.0338	kenal	-0.0913
+-3.5567	kenapa	-0.0869
+-3.4897	kendala	-0.1747
+-4.3348	kendalanya	-0.1351
+-4.3348	kendaraan	-0.1346
+-2.9731	kepada	-0.2631
+-3.8577	kepala	-0.2299
+-4.3348	kepastian	-0.0988
+-3.7328	kepengurusan	-0.3204
+-3.6359	kepercayaan	-0.2705
+-3.8577	keperluan	-0.2243
+-4.3348	kepopulerannya	-0.1326
+-4.3348	kepresidenan	-0.1348
+-3.4897	keputusan	-0.1019
+-4.3348	kerangka	-0.1347
+-4.0338	keras	-0.1237
+-4.3348	kerasnya	-0.1343
+-3.6359	keripik	-0.2685
+-2.8877	kerja	-0.1855
+-4.3348	kerjain	-0.1343
+-3.8577	kerjakan	-0.2306
+-3.8577	kerjanya	-0.0968
+-4.3348	kerjasama	-0.1310
+-3.8577	kerugian	-0.1197
+-3.7328	kerupuk	-0.2841
+-4.3348	kesaktian	-0.1352
+-3.8577	kesalahan	-0.1314
+-4.3348	kesatuan	-0.0988
+-4.0338	kesediaan	-0.1282
+-3.8577	kesejahteraan	-0.1258
+-3.4897	kesempatan	-0.1389
+-4.3348	kesepakatan	-0.1283
+-4.3348	kesepakatannya	-0.1331
+-4.3348	kesetiaan	-0.0988
+-3.8577	kesiapan	-0.2279
+-4.3348	kesiapannya	-0.0988
+-4.3348	kesimpan	-0.1323
+-4.0338	kesimpulan	-0.1196
+-4.3348	kesukaan	-0.1333
+-4.0338	kesulitan	-0.2854
+-4.0338	ketahui	-0.1345
+-4.0338	ketemu	-0.1334
+-4.3348	keterampilan	-0.1209
+-4.3348	keterbatasan	-0.1343
+-3.6359	keterlambatan	-0.0861
+-4.3348	ketersediaannya	-0.0988
+-4.3348	ketertarikan	-0.1349
+-4.3348	ketidakpastian	-0.0988
+-4.3348	ketidakpuasan	-0.1350
+-3.6359	ketiga	-0.0790
+-3.1887	ketika	-0.1608
+-4.3348	ketinggalan	-0.1315
+-3.1044	ketua	-0.5167
+-4.3348	ketujuh	-0.1314
+-2.8877	keuangan	-0.3218
+-4.3348	keunikan	-0.1333
+-3.1044	keuntungan	-0.2320
+-3.8577	kewirausahaan	-0.0930
+-3.8577	keyakinan	-0.4062
+-3.4317	khusus	-0.1754
+-3.3806	khususnya	-0.1963
+-3.2934	kinerja	-0.1503
+-4.3348	kinerja-kinerja	-0.1209
+-4.3348	kinerjanya	-0.1350
+-3.6359	kira	-0.1331
+-2.8297	kira-kira	-0.1066
+-3.6359	kirim	-0.1880
+-1.7360	kita	-0.2881
+-4.3348	klarifikasi	-0.1343
+-3.4897	klien	-0.1158
+-4.3348	klik	-0.1350
+-4.3348	kode	-0.1258
+-4.3348	koding	-0.1291
+-4.0338	kok	-0.1342
+-4.0338	kolom	-0.2947
+-4.0338	komentar	-0.1325
+-4.3348	kompeten	-0.1315
+-4.3348	kompetitif	-0.1315
+-4.0338	kompetitor	-0.1197
+-4.0338	kompetitormu	-0.0975
+-3.8577	kompleks	-0.0832
+-4.0338	komputasi	-0.0971
+-3.8577	komputer	-0.0986
+-3.8577	komulatif	-0.2304
+-3.7328	komunikasi	-0.0788
+-4.3348	komunikasikan	-0.1336
+-4.3348	komunitas	-0.1209
+-3.2209	kondisi	-0.2443
+-4.3348	koneksi	-0.1323
+-3.6359	konfirmasi	-0.1857
+-4.3348	konflik	-0.1209
+-3.8577	konsep	-0.1351
+-4.3348	konsepnya	-0.1317
+-3.7328	konstruksi	-0.2059
+-4.3348	konsultan	-0.0988
+-3.2934	konsumen	-0.2788
+-3.1044	konsumsi	-0.1347
+-4.3348	konsumsinya	-0.1336
+-4.3348	kontak	-0.1344
+-3.3348	konten	-0.1316
+-4.3348	kontinu	-0.1339
+-3.8577	kontrak	-0.1939
+-3.8577	kontraktor	-0.0987
+-4.3348	kontribusi	-0.1351
+-3.7328	koordinasi	-0.1285
+-4.3348	koordinasikan	-0.1310
+-4.3348	koordinator	-0.1315
+-3.8577	korea	-0.1918
+-4.3348	korporasi	-0.0988
+-4.3348	korupsi	-0.1325
+-4.3348	kosong	-0.0988
+-3.8577	kostum	-0.1909
+-3.7328	kotak	-0.3213
+-4.3348	kotaknya	-0.1342
+-4.3348	kriteria	-0.1351
+-4.3348	kriteria-kriteria	-0.1266
+-3.7328	kritik	-0.3151
+-3.6359	ktp	-0.1501
+-3.7328	kualitas	-0.1185
+-4.0338	kuantitas	-0.1332
+-3.7328	kuliah	-0.0775
+-4.3348	kultur	-0.1350
+-4.3348	kumpulin	-0.1351
+-3.5567	kunjungan	-0.2892
+-3.5567	kupon	-0.1359
+-2.9924	kurang	-0.1701
+-4.0338	kurangnya	-0.1336
+-4.0338	kurikulum	-0.1321
+-4.0338	kursi	-0.1264
+-3.4897	kusni	-0.2521
+-2.4264	lagi	-0.2471
+-4.3348	lagipula	-0.1341
+-3.8577	lah	-0.0893
+-2.5567	lain	-0.3069
+-3.6359	lain-lain	-0.3435
+-3.0561	lainnya	-0.4042
+-4.3348	lajur	-0.1351
+-4.0338	laki	-0.1258
+-3.4317	lakukan	-0.1165
+-2.6816	lalu	-0.4411
+-3.5567	lama	-0.0660
+-3.3348	lancar	-0.4067
+-4.3348	landasan	-0.1350
+-4.0338	langkah	-0.2939
+-4.0338	langkah-langkah	-0.1269
+-3.3348	langsung	-0.1840
+-2.8297	lanjut	-0.2791
+-3.3348	lanjutkan	-0.1818
+-4.3348	lanjutnya	-0.1336
+-3.8577	lantai	-0.4061
+-4.3348	lapak	-0.1351
+-3.2934	lapangan	-0.3950
+-4.3348	lapisan	-0.1349
+-3.0796	laporan	-0.1765
+-4.3348	laporannnya	-0.1325
+-3.7328	laporannya	-0.4362
+-4.3348	larangan	-0.1209
+-3.0561	lari	-1.4136
+-4.3348	latar	-0.1352
+-4.0338	latian	-0.2947
+-3.7328	latihan	-0.1172
+-4.3348	laut	-0.1345
+-3.8577	layak	-0.1257
+-3.7328	layanan	-0.1220
+-4.0338	layar	-0.1258
+-4.3348	lebar	-0.1352
+-4.3348	lebi	-0.1350
+-2.3758	lebih	-0.3838
+-4.3348	leluasa	-0.1342
+-4.3348	lemari	-0.1209
+-4.3348	lembaga	-0.1352
+-3.8577	lengkap	-0.0941
+-4.3348	lepas	-0.1283
+-4.3348	letak	-0.1348
+-3.4897	level	-0.1590
+-4.3348	levelnya	-0.0988
+-3.4317	lewat	-0.1652
+-4.3348	lho	-0.0988
+-4.3348	liat-liat	-0.1344
+-4.0338	libur	-0.2947
+-3.8577	liburan	-0.1962
+-4.3348	lif	-0.1350
+-3.8577	lihat	-0.1255
+-3.0796	lima	-0.2517
+-4.0338	limited	-0.1351
+-4.3348	line	-0.1343
+-3.7328	lingkungan	-0.1188
+-4.3348	link	-0.1209
+-4.3348	lintas	-0.1315
+-4.3348	lisensi	-0.1352
+-4.3348	literasi	-0.1351
+-4.0338	lk	-0.0985
+-4.0338	lkm	-0.1290
+-2.7785	logistik	-0.2844
+-4.0338	logo	-0.2948
+-4.3348	logonya	-0.1336
+-3.4897	lokasi	-0.4607
+-4.3348	lokasinya	-0.1351
+-2.7014	lomba	-0.3441
+-3.6359	lomba-lomba	-0.1178
+-3.7328	lombanya	-0.1661
+-4.3348	lompat	-0.1352
+-4.3348	lonjakan	-0.1350
+-4.3348	loyal	-0.1350
+-3.8577	lpj	-0.1272
+-4.0338	lpk	-0.1247
+-3.8577	lu	-0.1292
+-3.5567	luar	-0.1382
+-4.0338	luas	-0.0886
+-3.8577	lulus	-0.0912
+-4.3348	lulusan-lulusannya	-0.1344
+-4.3348	lumayan	-0.1351
+-4.3348	lunasi	-0.0988
+-3.4317	lupa	-0.1302
+-3.7328	maaf	-0.1303
+-4.3348	macam	-0.1352
+-4.3348	macemnya	-0.1331
+-4.0338	mading	-0.1287
+-4.0338	magang	-0.1343
+-4.0338	mahal	-0.1243
+-3.0126	mahasiswa	-0.2133
+-4.0338	mahasiswa-mahasiswa	-0.1208
+-4.3348	mainstream	-0.1351
+-4.3348	maju	-0.1339
+-3.1044	maka	-0.1762
+-3.1887	makan	-0.2852
+-3.7328	makanan	-0.1143
+-4.3348	makanya	-0.1272
+-4.3348	makasih	-0.1352
+-4.0338	makin	-0.1351
+-4.3348	maksakan	-0.1350
+-3.6359	maksimal	-0.2389
+-3.5567	maksud	-0.1408
+-3.8577	maksudnya	-0.1336
+-3.8577	malah	-0.1338
+-3.6359	malam	-0.1228
+-4.3348	malamnya	-0.1346
+-4.0338	mampu	-0.1351
+-3.1587	mana	-0.1618
+-4.3348	mana-mana	-0.0988
+-3.6359	manajemen	-0.1204
+-4.3348	manfaat	-0.1350
+-4.3348	mangkok	-0.0988
+-3.4897	manusia	-0.2518
+-4.0338	maret	-0.1291
+-2.9924	mari	-1.4686
+-3.7328	marilah	-0.4646
+-4.3348	market	-0.1350
+-3.2209	mas	-0.8313
+-3.7328	masa	-0.1344
+-2.5424	masalah	-0.3323
+-4.3348	masalah-masalah	-0.1209
+-3.8577	masalahnya	-0.1255
+-2.5714	masih	-0.3056
+-4.0338	masing	-0.0988
+-2.8724	masing-masing	-0.4261
+-3.3806	massa	-0.2322
+-4.3348	mastiin	-0.1336
+-2.7785	masuk	-0.3426
+-3.4897	masukan	-0.1698
+-4.0338	masukannya	-0.2584
+-3.6359	masukin	-0.1888
+-4.3348	masukkan	-0.1350
+-3.0796	masyarakat	-0.4065
+-3.6359	mata	-0.3445
+-3.8577	matematika	-0.1984
+-3.7328	materi	-0.1315
+-3.8577	materinya	-0.1320
+-4.0338	mati	-0.2906
+-2.6446	mau	-0.1807
+-4.3348	maulana	-0.1352
+-3.2934	maupun	-0.1745
+-3.3806	media	-0.4964
+-4.3348	media-media	-0.1352
+-3.4317	medis	-0.2231
+-3.3806	meeting	-0.0967
+-4.3348	megang	-0.1209
+-3.8577	mekanisme	-0.0825
+-4.3348	melainkan	-0.1290
+-3.8577	melaksanakan	-0.1341
+-2.7438	melakukan	-0.1858
+-3.3806	melalui	-0.1648
+-4.3348	melampaui	-0.1351
+-3.7328	melanjutkan	-0.3182
+-3.3348	melaporkan	-0.2194
+-4.3348	melatar	-0.1352
+-4.0338	melebihi	-0.2942
+-4.3348	melegakan	-0.1336
+-4.3348	melekat	-0.1325
+-4.3348	melewati	-0.1352
+-3.4897	melihat	-0.1282
+-4.3348	melingkupi	-0.1352
+-4.3348	melonjak	-0.0988
+-4.0338	meluangkan	-0.1342
+-4.3348	meluncurkan	-0.1348
+-4.3348	memacu	-0.1351
+-4.3348	memadai	-0.1258
+-3.7328	memahami	-0.2063
+-4.3348	memakai	-0.1347
+-4.3348	memakan	-0.1344
+-4.3348	memaksimalkan	-0.1348
+-4.3348	memanfaatkannya	-0.1291
+-3.0338	memang	-0.1137
+-4.3348	memanjakan	-0.1345
+-4.3348	memantau	-0.1337
+-3.8577	memaparkan	-0.1338
+-4.0338	memastikan	-0.1351
+-4.3348	memasukan	-0.1351
+-3.7328	memasukkan	-0.4725
+-3.6359	membaca	-0.3804
+-3.8577	membagi	-0.1317
+-4.0338	membagikan	-0.1351
+-2.7785	membahas	-0.3875
+-4.3348	membalas	-0.1291
+-4.3348	membandingkan	-0.1310
+-3.6359	membangun	-0.3574
+-3.4897	membantu	-0.1197
+-4.0338	membawa	-0.1271
+-3.6359	membayar	-0.0895
+-4.0338	membebani	-0.2942
+-4.3348	membeli	-0.1341
+-4.3348	membenarkan	-0.1209
+-4.3348	membentuk	-0.1351
+-4.3348	memberatkan	-0.1351
+-3.3806	memberi	-0.1317
+-3.1044	memberikan	-0.1469
+-4.3348	memberitahukan	-0.1352
+-4.0338	membicarakan	-0.1349
+-4.3348	membuahkan	-0.1348
+-2.9731	membuat	-0.1370
+-4.3348	membuatnya	-0.1352
+-4.0338	membuka	-0.1350
+-4.3348	memburuk	-0.1283
+-3.2934	membutuhkan	-0.1152
+-4.3348	memegang	-0.1348
+-3.8577	memenuhi	-0.1345
+-4.3348	memeriahkan	-0.1352
+-4.3348	memeriksa	-0.1352
+-4.0338	memerlukan	-0.1346
+-3.5567	memikirkan	-0.1334
+-4.0338	memikirkannya	-0.2932
+-3.3806	memilih	-0.1632
+-3.1307	memiliki	-0.2045
+-4.3348	meminjamkan	-0.1350
+-3.5567	meminta	-0.1729
+-4.3348	memotivasi	-0.1351
+-4.3348	mempengaruhi	-0.1352
+-4.0338	memperbaiki	-0.1348
+-3.7328	memperhatikan	-0.1291
+-4.3348	memperingati	-0.1336
+-4.3348	memperjelas	-0.1336
+-3.5567	memperkenalkan	-0.1772
+-4.3348	mempermudah	-0.1333
+-4.0338	memperoleh	-0.1349
+-4.3348	mempersiapkan	-0.1348
+-4.3348	mempertimbangkan	-0.1350
+-4.3348	mempresentasikan	-0.1352
+-4.3348	mempromosikan	-0.1352
+-3.8577	mempunyai	-0.1341
+-3.2934	memulai	-0.1980
+-4.3348	memungkinkan	-0.1258
+-4.3348	memutuskan	-0.1351
+-4.3348	memvalidasi	-0.1349
+-4.3348	memvisualisasikan	-0.1352
+-4.3348	menaik	-0.0988
+-4.3348	menaikkan	-0.1349
+-3.8577	menambah	-0.2348
+-4.0338	menambahkan	-0.1339
+-4.3348	menampilkan	-0.1351
+-4.0338	menampung	-0.1347
+-4.0338	menangani	-0.1348
+-3.5567	menarik	-0.0966
+-3.8577	menawarkan	-0.1339
+-4.3348	mencakup	-0.1349
+-3.4897	mencapai	-0.1740
+-3.5567	mencari	-0.1809
+-4.3348	mencatat	-0.1352
+-4.3348	mencegah	-0.1352
+-4.3348	menceritakan	-0.1352
+-4.3348	mencermati	-0.1342
+-4.3348	menciptakan	-0.1350
+-4.3348	mencitrakan	-0.1341
+-3.7328	mencoba	-0.1253
+-4.3348	mendadak	-0.1342
+-4.3348	mendaftarkan	-0.1352
+-3.0796	mendaki	-0.2496
+-4.3348	mendakinya	-0.1350
+-4.3348	mendalam	-0.0988
+-4.3348	mendanai	-0.1349
+-3.5567	mendapat	-0.1326
+-3.7328	mendapatkan	-0.1350
+-4.3348	mendapatkannya	-0.0988
+-4.3348	mendata	-0.1350
+-3.7328	mendatang	-0.1651
+-4.3348	mendatangi	-0.1323
+-4.3348	mendefinisikan	-0.1350
+-4.3348	mendemonstrasikan	-0.1348
+-4.3348	mendengar	-0.1351
+-4.3348	mendengarkan	-0.1352
+-4.3348	mendesak	-0.0988
+-4.3348	mendetail	-0.1346
+-3.8577	mendirikan	-0.4062
+-4.0338	mendiskusikan	-0.1340
+-4.3348	mendorong	-0.1350
+-3.5567	mendukung	-0.0982
+-4.3348	menegaskan	-0.1336
+-4.3348	menekan	-0.1351
+-4.3348	menekankan	-0.1351
+-4.3348	menekuni	-0.1349
+-4.3348	menempati	-0.1352
+-4.3348	menemukan	-0.1345
+-4.3348	menengah	-0.1344
+-4.3348	menentu	-0.0988
+-3.3348	menentukan	-0.1884
+-4.3348	menerapkan	-0.1340
+-4.3348	menerima	-0.1346
+-4.3348	menetapkan	-0.1350
+-4.3348	meng	-0.1344
+-3.3348	mengadakan	-0.1896
+-4.3348	mengadopsi	-0.1350
+-4.3348	mengajak	-0.1351
+-4.3348	mengajarkan	-0.1351
+-3.8577	mengajukan	-0.1322
+-4.3348	mengakhirinya	-0.1310
+-3.7328	mengakses	-0.1282
+-3.3806	mengalami	-0.1649
+-4.3348	mengamati	-0.1351
+-3.8577	mengambil	-0.2348
+-4.3348	mengandalkan	-0.1352
+-4.3348	menganggap	-0.1352
+-4.3348	menganjurkan	-0.1345
+-4.0338	mengapa	-0.0987
+-4.3348	mengatasi	-0.1345
+-4.0338	mengatur	-0.1349
+-4.3348	mengawali	-0.1350
+-4.3348	mengecek	-0.1352
+-4.3348	mengejar	-0.1351
+-3.7328	mengembangkan	-0.1332
+-4.3348	mengen	-0.1291
+-2.6721	mengenai	-0.1738
+-4.0338	mengenal	-0.1349
+-4.3348	mengenali	-0.1334
+-3.8577	mengenalkan	-0.1344
+-3.2934	mengerjakan	-0.1817
+-4.0338	mengerti	-0.1331
+-4.0338	mengetahui	-0.1346
+-4.3348	mengevaluasi	-0.1351
+-4.3348	menggabungkan	-0.1337
+-4.3348	menggalang	-0.1346
+-3.8577	mengganggu	-0.1347
+-4.3348	mengganti	-0.1352
+-4.0338	menggantikan	-0.1343
+-3.4317	menggunakan	-0.1312
+-4.3348	menghadapi	-0.1351
+-4.0338	menghadiri	-0.1318
+-4.0338	menghampiri	-0.1322
+-4.3348	menghancurkan	-0.1348
+-3.6359	menghasilkan	-0.1346
+-4.3348	menghilang	-0.0988
+-4.3348	menghimpun	-0.1347
+-3.8577	menghubungi	-0.1312
+-4.3348	menghubungkan	-0.1350
+-3.7328	mengikuti	-0.1314
+-3.7328	mengingat	-0.1334
+-4.3348	mengingatkan	-0.1336
+-4.0338	menginginkan	-0.1349
+-4.3348	menginspirasi	-0.1272
+-4.3348	mengirim	-0.1351
+-4.0338	mengirimkan	-0.1338
+-3.6359	mengisi	-0.1335
+-4.3348	mengolah	-0.1351
+-4.0338	mengontak	-0.1280
+-4.3348	mengtrack	-0.1348
+-4.0338	menguasai	-0.2946
+-4.0338	mengubah	-0.1350
+-4.3348	mengucapkan	-0.1347
+-4.3348	mengumpulkan	-0.1346
+-4.3348	mengundang	-0.1351
+-4.3348	mengungguli	-0.1352
+-4.3348	mengunjungi	-0.1351
+-4.3348	mengurangi	-0.1350
+-4.0338	mengurus	-0.1351
+-4.3348	mengurusi	-0.1350
+-4.0338	mengusulkan	-0.1337
+-4.3348	menilai	-0.1291
+-4.0338	menimbulkan	-0.1340
+-3.7328	meningkat	-0.0884
+-3.4317	meningkatkan	-0.2582
+-4.3348	menit	-0.1336
+-4.0338	menjabarkan	-0.1352
+-4.3348	menjabat	-0.1351
+-2.8297	menjadi	-0.1851
+-4.0338	menjadwalkan	-0.2946
+-4.0338	menjaga	-0.1351
+-4.3348	menjalani	-0.1351
+-4.3348	menjalankan	-0.1350
+-4.0338	menjawab	-0.0988
+-3.4317	menjelaskan	-0.2130
+-4.3348	menjembatani	-0.1350
+-4.3348	menjual	-0.1351
+-4.3348	menolong	-0.1272
+-4.3348	mensejahterakan	-0.1352
+-4.0338	mensupport	-0.1352
+-3.8577	mental	-0.1130
+-4.0338	menu	-0.1348
+-4.0338	menuju	-0.1350
+-4.3348	menulis	-0.1349
+-3.7328	menunggu	-0.1337
+-4.3348	menunjukan	-0.1352
+-3.8577	menunjukkan	-0.1345
+-3.8577	menurun	-0.0982
+-2.8724	menurut	-0.5127
+-3.4897	menurutku	-0.1188
+-3.8577	menutup	-0.1309
+-4.3348	menutupi	-0.1351
+-4.3348	menyalurkan	-0.1343
+-3.6359	menyampaikan	-0.1336
+-4.3348	menyangkut	-0.1343
+-4.0338	menyarankan	-0.1263
+-3.6359	menyebabkan	-0.1894
+-4.0338	menyebar	-0.1349
+-4.3348	menyebarkan	-0.1352
+-4.3348	menyebutkan	-0.1294
+-3.6359	menyediakan	-0.1913
+-3.4317	menyelesaikan	-0.1668
+-4.3348	menyelinap	-0.1352
+-4.3348	menyiapkan	-0.1342
+-4.3348	menyukai	-0.1352
+-4.3348	menyukseskan	-0.1334
+-4.0338	menyusun	-0.1349
+-4.0338	mepet	-0.1344
+-3.8577	mera	-0.1320
+-4.3348	merahasiakan	-0.1345
+-4.0338	meramaikan	-0.1271
+-4.3348	merangkum	-0.1339
+-4.3348	merapikannya	-0.1332
+-3.8577	merasa	-0.1264
+-4.0338	merasakan	-0.1352
+-4.3348	meraup	-0.1350
+-4.3348	merchandise	-0.1209
+-4.3348	mercurial	-0.0988
+-4.3348	merebut	-0.1350
+-2.3526	mereka	-0.2332
+-3.8577	merekrut	-0.1349
+-4.3348	meresearch	-0.1336
+-4.3348	mereview	-0.1346
+-4.3348	merevisi	-0.1291
+-4.3348	merujuk	-0.1325
+-3.3806	merupakan	-0.1333
+-4.3348	mesennya	-0.1317
+-4.3348	mesjid	-0.1352
+-4.0338	meskipun	-0.1331
+-4.3348	mewah	-0.1334
+-3.8577	mewakili	-0.1299
+-4.3348	mi	-0.1352
+-4.3348	miliar	-0.1352
+-3.8577	milih	-0.2345
+-3.6359	minat	-0.1849
+-4.3348	mindahin	-0.1352
+-2.6721	minggu	-0.6191
+-3.6359	mingguan	-0.0713
+-4.3348	mingguannya	-0.0988
+-4.3348	minim	-0.1352
+-4.3348	minimal	-0.1350
+-3.1307	minta	-0.1413
+-4.3348	mintanya	-0.1342
+-4.3348	minuman	-0.1345
+-4.3348	mirip	-0.1345
+-4.0338	misal	-0.1340
+-3.5567	misalkan	-0.1667
+-3.2934	misalnya	-0.1153
+-3.7328	mobile	-0.1282
+-3.5567	modal	-0.1253
+-4.0338	modalnya	-0.1279
+-3.2934	model	-0.2657
+-3.3348	moderator	-0.4036
+-4.3348	modern	-0.1209
+-4.3348	mohon	-0.1352
+-4.3348	momen	-0.1209
+-4.0338	moral	-0.1208
+-4.3348	motong	-0.0988
+-4.3348	motor	-0.1349
+-4.3348	mover	-0.1339
+-4.3348	muda	-0.1334
+-3.5567	mudah	-0.1383
+-2.6536	mulai	-0.2841
+-4.3348	muncul	-0.1349
+-2.4715	mungkin	-0.0712
+-4.3348	murah	-0.0988
+-4.3348	murni	-0.1352
+-4.3348	musim	-0.1347
+-4.3348	mustahil	-0.1351
+-4.3348	nadia	-0.1291
+-2.6536	nah	-0.1883
+-3.6359	naik	-0.1235
+-3.5567	nama	-0.1673
+-3.7328	namanya	-0.0921
+-4.3348	nambah	-0.1349
+-4.3348	nambahin	-0.1349
+-4.3348	nampilin	-0.1350
+-3.0338	namun	-0.1690
+-2.4210	nanti	-0.2501
+-3.2557	nantinya	-0.2701
+-3.7328	nanya	-0.2068
+-4.3348	nanya-nanya	-0.1351
+-4.3348	nanya-nanyain	-0.1347
+-3.6359	nasi	-0.2771
+-3.6359	nasional	-0.1623
+-4.3348	nda	-0.0988
+-3.4897	negara	-0.2144
+-4.3348	negeri	-0.1266
+-4.3348	negosiasi	-0.1310
+-4.3348	netral	-0.0988
+-4.3348	networking	-0.0988
+-4.3348	ngajuin	-0.1352
+-4.3348	ngapa-ngapain	-0.1343
+-3.8577	ngapain	-0.4059
+-4.3348	ngapainlah	-0.1350
+-3.7328	ngasih	-0.1335
+-4.3348	ngebagi	-0.0988
+-3.8577	ngebahas	-0.1258
+-4.3348	ngecek	-0.1350
+-4.3348	ngedata	-0.1344
+-4.3348	ngegantiin	-0.1349
+-4.3348	ngerjain	-0.1339
+-3.4317	nggak	-0.1282
+-4.3348	ngingetin	-0.1336
+-4.3348	ngisi	-0.1349
+-4.3348	ngobrol	-0.1326
+-4.3348	ngobrol-ngobrol	-0.1344
+-4.0338	ngomong	-0.1335
+-4.3348	ngopi-ngopi	-0.1310
+-4.3348	ngumpul	-0.1352
+-4.3348	ngumpulin	-0.1346
+-4.3348	ngundang	-0.1351
+-4.3348	ni	-0.1349
+-3.1307	nih	-0.1157
+-3.2557	nilai	-0.1851
+-3.2934	nomer	-0.3382
+-4.3348	nominal	-0.1348
+-4.3348	nomor	-0.1351
+-4.3348	nonton	-0.1340
+-4.3348	normal	-0.1352
+-4.3348	normalnya	-0.0988
+-4.3348	notifikasiin	-0.1349
+-4.3348	notul	-0.1283
+-4.3348	notulen	-0.1349
+-4.3348	notulensi	-0.0988
+-4.3348	notulis	-0.0988
+-3.8577	november	-0.0968
+-4.3348	novian	-0.1315
+-4.3348	ntar	-0.1350
+-4.3348	number	-0.1352
+-4.3348	nunjukin	-0.1209
+-3.8577	nya	-0.0980
+-4.3348	nyampaikan	-0.1340
+-4.3348	nyaranin	-0.1323
+-4.0338	nyari	-0.1247
+-4.0338	nyata	-0.1208
+-4.3348	nyatanya	-0.1272
+-4.3348	nyimpan	-0.1351
+-4.3348	obrolin	-0.1347
+-4.0338	of	-0.1351
+-3.8577	official	-0.4067
+-3.0338	oh	-0.2428
+-3.4897	ojek	-0.1347
+-3.4317	ok	-0.0968
+-2.6446	oke	-0.2501
+-3.8577	oktober	-0.1981
+-4.0338	olahraga	-0.1348
+-2.5424	oleh	-0.3560
+-4.3348	online	-0.1334
+-4.0338	oo	-0.1347
+-4.3348	ooh	-0.1350
+-4.3348	operasi	-0.1272
+-4.0338	operasional	-0.1210
+-4.3348	opsi	-0.1209
+-4.3348	opsional	-0.1343
+-4.3348	optimal	-0.1258
+-2.8435	orang	-0.3464
+-3.5567	orang-orang	-1.0019
+-3.8577	orangtua	-0.1281
+-4.3348	order	-0.1347
+-3.8577	organisasi	-0.1250
+-4.3348	otomatis	-0.0988
+-4.3348	outputnya	-0.1346
+-4.0338	owner	-0.1272
+-4.3348	ownernya	-0.1266
+-4.0338	pabrik	-0.1336
+-4.3348	pacar	-0.1348
+-2.2013	pada	-0.2978
+-3.6359	padahal	-0.1338
+-4.0338	pagar	-0.0922
+-3.2209	pagi	-0.3020
+-3.8577	paham	-0.0986
+-3.2209	pak	-0.3181
+-3.6359	pakai	-0.0915
+-4.3348	pake	-0.1341
+-3.3348	paket	-0.1774
+-3.2209	paling	-0.1963
+-4.3348	pancasila	-0.1291
+-4.3348	pandang	-0.1317
+-4.3348	panduan	-0.1266
+-4.3348	panel	-0.1209
+-4.0338	pangkalan	-0.2947
+-3.2934	panitia	-0.1775
+-4.3348	panjang	-0.1351
+-4.3348	pantas	-0.0988
+-4.0338	panti	-0.2948
+-4.3348	papa	-0.0988
+-3.1887	para	-0.1512
+-3.8577	parameter	-0.4067
+-4.3348	part	-0.1352
+-4.3348	partisipasi	-0.1350
+-3.6359	pas	-0.1326
+-4.3348	pasang	-0.0988
+-3.2934	pasar	-0.2481
+-3.8577	pasaran	-0.0987
+-4.3348	pasarnya	-0.0988
+-4.3348	pasca	-0.1348
+-4.0338	pasifik	-0.2584
+-3.4897	pasti	-0.0776
+-4.0338	pastinya	-0.1322
+-4.3348	patut	-0.1352
+-4.3348	pdfnya	-0.1323
+-4.3348	pecahkan	-0.1345
+-4.3348	peduli	-0.1325
+-3.5567	pegawai	-0.1711
+-3.8577	pejantan	-0.0922
+-3.7328	pekerja	-0.1881
+-3.2209	pekerjaan	-0.2027
+-3.8577	pekerjaannya	-0.1302
+-3.6359	pelajaran	-0.1773
+-4.3348	pelajari	-0.1348
+-3.4317	pelaksanaan	-0.5845
+-4.0338	pelaksanaannya	-0.1310
+-3.5567	pelanggan	-0.1946
+-4.3348	pelanggannya	-0.1350
+-4.3348	pelantikan	-0.1349
+-4.0338	pelaporan	-0.1208
+-3.2934	pelatihan	-0.1970
+-4.0338	peluang	-0.1170
+-4.3348	pemain	-0.1345
+-4.3348	pemandu	-0.1339
+-4.0338	pemaparan	-0.1290
+-3.4897	pemasaran	-0.2574
+-3.5567	pemasukan	-0.1324
+-3.7328	pemateri	-0.1246
+-4.0338	pematerinya	-0.1344
+-4.3348	pembacaan	-0.1347
+-3.7328	pembagian	-0.2908
+-4.3348	pembaharuan	-0.1350
+-3.0561	pembahasan	-0.2890
+-4.3348	pembahasannya	-0.0988
+-4.0338	pembangunan	-0.1331
+-4.3348	pembatas	-0.1350
+-4.3348	pembawa	-0.1334
+-4.0338	pembayaran	-0.1345
+-4.3348	pembayarannya	-0.1331
+-4.3348	pembeli	-0.1336
+-3.5567	pembelian	-0.2919
+-3.5567	pembentukan	-1.0156
+-4.3348	pemberi	-0.1351
+-4.0338	pemberitahuan	-0.2879
+-3.1587	pembicara	-0.2133
+-4.3348	pembicaraan	-0.1346
+-3.4897	pembuatan	-0.2816
+-4.3348	pembuka	-0.0988
+-4.3348	pemenangnya	-0.1350
+-4.3348	pemeriksaan	-0.1347
+-4.3348	pemerintah	-0.1291
+-3.2934	pemesanan	-0.1550
+-4.3348	pemetaan	-0.1209
+-3.8577	pemikiran	-0.4055
+-4.3348	pemilihan	-0.1352
+-4.0338	pemilik	-0.1335
+-4.3348	pemimpin	-0.1345
+-4.3348	pemindahan	-0.1323
+-4.0338	peminjaman	-0.0986
+-4.0338	pemrograman	-0.1348
+-3.1307	pemrosesan	-0.0716
+-4.3348	pemutus	-0.1351
+-4.3348	penanda	-0.1352
+-3.6359	penanggung	-0.7229
+-4.3348	penanya	-0.1347
+-4.3348	pencairan	-0.1352
+-4.3348	pencapaian	-0.1266
+-4.0338	pencarian	-0.1348
+-4.3348	pendaftaran	-0.1283
+-4.3348	pendampingan	-0.1258
+-3.4897	pendanaan	-0.2561
+-4.3348	pendanaannya	-0.1348
+-3.1044	pendapat	-0.4947
+-3.3806	pendapatan	-0.1325
+-4.3348	pendapatannya	-0.0988
+-4.0338	pendapatnya	-0.0886
+-4.0338	pendek	-0.0987
+-2.8163	pendidikan	-0.2584
+-4.3348	pendiriannya	-0.1346
+-4.0338	penelitian	-0.2887
+-4.0338	penempatan	-0.1350
+-3.8577	pengabdian	-0.2264
+-2.9369	pengadaan	-0.2688
+-4.3348	pengajuan	-0.1351
+-4.3348	pengalaman	-0.1291
+-4.3348	pengaruh	-0.1350
+-4.3348	pengecekan	-0.1352
+-4.3348	pengeditan	-0.1258
+-3.8577	pengelolaan	-0.4065
+-3.5567	pengeluaran	-0.0446
+-3.2934	pengembangan	-0.1592
+-3.5567	pengemudi	-0.2064
+-4.3348	pengen	-0.1351
+-3.2209	pengerjaan	-0.0931
+-4.3348	pengerjaannya	-0.0988
+-4.3348	pengetahuan	-0.1291
+-4.0338	penggalangan	-0.2942
+-3.2209	pengguna	-0.1610
+-3.4897	penggunaan	-0.4261
+-4.3348	penggunaannya	-0.1315
+-4.3348	penghargaan	-0.1258
+-4.3348	penghasilannya	-0.1323
+-4.3348	penghubung	-0.1350
+-3.7328	pengiriman	-0.1337
+-4.3348	pengirimannya	-0.1209
+-4.3348	pengisian	-0.1346
+-3.8577	pengmas	-0.1944
+-3.8577	pengumpulan	-0.2344
+-4.3348	pengunjung	-0.1209
+-3.6359	pengurus	-0.2430
+-4.3348	pengurutan	-0.1350
+-4.0338	penilaian	-0.1349
+-4.3348	peninggalan	-0.1351
+-3.1587	peningkatan	-0.3245
+-4.0338	penjabaran	-0.1257
+-4.3348	penjabarannya	-0.0988
+-4.3348	penjadwalan	-0.1348
+-3.6359	penjelasan	-0.1488
+-4.0338	penjelasannya	-0.0985
+-4.3348	penjemputan	-0.0988
+-3.4317	penjual	-0.2621
+-2.9924	penjualan	-0.2498
+-3.3806	penting	-0.2178
+-3.4897	penuh	-0.1121
+-4.0338	penulis	-0.2946
+-4.3348	penulisan	-0.0988
+-3.6359	penumpang	-0.1172
+-3.8577	penurunan	-0.0983
+-4.3348	penutup	-0.0988
+-4.3348	penutupan	-0.1334
+-4.3348	penyampaian	-0.1352
+-4.3348	penyebab	-0.1350
+-4.3348	penyebaran	-0.1351
+-3.5567	penyedia	-0.3287
+-3.7328	penyelesaian	-0.2942
+-4.3348	penyerahan	-0.1352
+-4.0338	penyesuaian	-0.1345
+-4.0338	penyimpanan	-0.1348
+-4.3348	penyumbang	-0.1352
+-3.5567	per	-0.1338
+-4.0338	perak	-0.0987
+-4.3348	peralatan	-0.1352
+-3.7328	peran	-0.2848
+-3.5567	peraturan	-0.3167
+-4.3348	perawatan	-0.1348
+-3.7328	perbaikan	-0.1222
+-4.0338	perbandingan	-0.1310
+-4.3348	perbankan	-0.1350
+-4.3348	perbelanjaan	-0.1291
+-4.0338	percakapan	-0.0894
+-4.0338	percaya	-0.1291
+-4.0338	percobaan	-0.1196
+-4.3348	percuma	-0.1352
+-3.8577	perdana	-0.4051
+-4.3348	perekrutan	-0.1345
+-3.8577	perempuan	-0.1256
+-4.0338	perencanaan	-0.1256
+-3.7328	performa	-0.1260
+-4.3348	performanya	-0.1325
+-4.0338	pergi	-0.2919
+-4.0338	perhatian	-0.2942
+-3.7328	perhatikan	-0.1305
+-3.4317	perhitungan	-0.1597
+-3.8577	perihal	-0.1351
+-4.3348	peringkat	-0.1323
+-3.0796	periode	-0.2423
+-3.4317	perizinan	-0.0929
+-4.3348	perkelas	-0.1350
+-3.3348	perkembangan	-0.2555
+-3.6359	perkembangannya	-0.1513
+-3.6359	perkenalkan	-0.3546
+-4.0338	perkiraan	-0.0976
+-4.3348	perkuliahan	-0.1315
+-4.3348	perlahan	-0.1351
+-4.0338	perlengkapan	-0.1314
+-2.6627	perlu	-0.1506
+-4.0338	perluasan	-0.1314
+-4.0338	perlukan	-0.1268
+-3.8577	permainan	-0.0884
+-3.1587	permasalahan	-0.1517
+-3.2934	permintaan	-0.1658
+-4.3348	permintaannya	-0.0988
+-4.3348	permodalan	-0.0988
+-3.8577	permohonan	-0.2342
+-3.6359	pernah	-0.1812
+-4.3348	persaingan	-0.0988
+-3.2934	persen	-0.4893
+-3.6359	persetujuan	-0.2332
+-3.4317	persiapan	-0.1606
+-3.8577	persilahkan	-0.1980
+-4.3348	persoalan	-0.1352
+-4.3348	person	-0.1272
+-2.7438	pertama	-0.1218
+-3.7328	pertama-tama	-0.1961
+-4.0338	pertamanya	-0.0988
+-4.3348	pertandingan	-0.1291
+-4.3348	pertanggungjawaban	-0.1352
+-2.7438	pertanyaan	-0.4516
+-4.0338	pertanyaan-pertanyaan	-0.1195
+-3.4897	pertanyaannya	-0.6896
+-2.7221	pertemuan	-0.6213
+-4.3348	pertengahan	-0.1338
+-4.0338	pertimbangan	-0.1335
+-4.3348	pertimbangkan	-0.1339
+-3.8577	pertolongan	-0.2340
+-4.0338	pertumbuhan	-0.1207
+-3.3806	perubahan	-0.1916
+-2.4210	perusahaan	-0.4903
+-3.8577	perusahaan-perusahaan	-0.2341
+-4.3348	perusahaannya	-0.1352
+-3.8577	perwakilan	-0.2278
+-4.3348	perwakilannya	-0.1349
+-4.3348	pesaing	-0.1326
+-4.3348	pesaingnya	-0.1352
+-3.7328	pesan	-0.1348
+-3.5567	pesanan	-0.2257
+-4.3348	pesat	-0.1266
+-3.4897	peserta	-0.1569
+-4.3348	pesertanya	-0.1352
+-4.3348	peta	-0.1283
+-4.3348	peter	-0.1352
+-3.4897	pihak	-0.1724
+-4.0338	pihak-pihak	-0.1206
+-4.0338	pikir	-0.1258
+-4.3348	pikiran	-0.1351
+-3.8577	pikirkan	-0.1301
+-4.3348	pilar	-0.1352
+-3.2557	pilihan	-0.1986
+-3.8577	pimpinan	-0.1272
+-3.7328	pindah	-0.4697
+-4.3348	pinggir	-0.1352
+-3.7328	pinjam	-0.0889
+-4.0338	pinjaman	-0.1253
+-4.3348	pinjamannya	-0.0988
+-4.3348	pintar-pintar	-0.1352
+-4.3348	pintu	-0.1345
+-4.3348	pintu-pintu	-0.1325
+-4.3348	pisa	-0.1209
+-4.0338	pj	-0.1281
+-3.5567	plan	-0.1254
+-4.3348	platform	-0.1209
+-4.3348	playstore	-0.0988
+-2.8435	poin	-0.2448
+-4.0338	poinnya	-0.1336
+-4.3348	pokoknya	-0.1325
+-4.3348	polban	-0.0988
+-4.3348	poling	-0.1315
+-4.3348	pondasi	-0.1348
+-4.3348	pondok-pondok	-0.1209
+-4.3348	ponsel	-0.1331
+-4.0338	populer	-0.1220
+-4.3348	porsi	-0.1209
+-4.0338	posisi	-0.1334
+-3.6359	positif	-0.1292
+-4.3348	postingan	-0.1336
+-4.3348	pot	-0.1346
+-3.8577	potensi	-0.1249
+-4.3348	potong	-0.1351
+-4.3348	potongan	-0.1349
+-4.3348	pr	-0.1345
+-4.3348	pra	-0.1350
+-4.3348	prasarana	-0.0988
+-4.3348	pre-launching	-0.0988
+-4.3348	premium	-0.1350
+-4.3348	presentasi	-0.1283
+-3.8577	presentasinya	-0.1979
+-4.3348	presiden	-0.1348
+-3.4897	pribadi	-0.1253
+-4.3348	pribadiku	-0.1351
+-4.0338	prinsip	-0.1282
+-4.0338	printer	-0.2805
+-4.3348	problem	-0.1352
+-4.3348	problematika	-0.1209
+-3.7328	product	-0.1205
+-4.3348	product-product	-0.0988
+-2.5714	produk	-0.5114
+-3.6359	produk-produk	-0.2763
+-4.3348	produknya	-0.1209
+-3.4897	produksi	-0.1740
+-4.0338	produksinya	-0.0973
+-4.3348	produktif	-0.1336
+-3.4897	produktivitas	-0.1785
+-4.3348	profesional	-0.1310
+-4.3348	profit	-0.0988
+-3.0796	program	-0.3798
+-3.8577	programmer	-0.2203
+-4.3348	progres	-0.1258
+-4.0338	progress	-0.1276
+-4.3348	project-project	-0.1352
+-3.6359	proker	-0.1281
+-4.3348	promo	-0.1209
+-4.0338	promosi	-0.1207
+-3.2934	proposal	-0.1596
+-4.3348	proposalnya	-0.0988
+-4.3348	proposition	-0.0988
+-3.2209	proses	-0.1622
+-4.0338	prosesnya	-0.1329
+-4.3348	prospek	-0.1347
+-3.0338	proyek	-0.3429
+-4.3348	proyekan	-0.1348
+-4.0338	proyektor	-0.2584
+-4.3348	puas	-0.1346
+-3.4897	pubdok	-0.0666
+-4.3348	public	-0.1352
+-4.3348	publik	-0.1326
+-3.2934	publikasi	-0.2065
+-4.3348	publikasinya	-0.1341
+-3.6359	pukul	-0.1332
+-4.3348	pula	-0.1338
+-3.0338	puluh	-0.2008
+-3.4317	puma	-0.2174
+-4.0338	pun	-0.1317
+-3.1887	punya	-0.1933
+-3.8577	rabu	-0.1296
+-4.3348	ragam	-0.1350
+-3.8577	rahasia	-0.1315
+-4.3348	rakor	-0.1346
+-4.3348	rampung	-0.1348
+-4.3348	rancangan	-0.1346
+-4.3348	rangkaian	-0.1334
+-2.4540	rapat	-0.4876
+-4.3348	rapi	-0.0988
+-4.3348	rapikan	-0.1347
+-3.2209	rasa	-0.3070
+-4.0338	rasanya	-0.1302
+-4.0338	rata-rata	-0.1281
+-4.3348	rating	-0.1339
+-3.4897	ratus	-0.2163
+-4.3348	referral	-0.1352
+-3.5567	registrasi	-0.2754
+-3.7328	rekan	-0.2056
+-4.3348	rekan-rekan	-0.1345
+-4.3348	rekrutmen	-0.1339
+-4.0338	rektor	-0.1349
+-3.8577	relasi	-0.2341
+-4.3348	relatif	-0.1351
+-3.6359	relawan	-0.1677
+-4.3348	relevan	-0.1323
+-4.3348	remote	-0.1349
+-3.1307	rencana	-0.2086
+-4.3348	rencanain	-0.1343
+-3.3348	rencananya	-0.1456
+-4.3348	rendah	-0.1317
+-4.3348	rentang	-0.1343
+-4.0338	repositorinya	-0.1343
+-3.7328	repository	-0.1707
+-4.3348	requirement	-0.1345
+-4.3348	requirementnya	-0.1317
+-4.0338	research	-0.2930
+-4.3348	resminya	-0.1351
+-4.3348	respon	-0.1351
+-4.3348	retrospektif	-0.1291
+-3.5567	revenue	-0.3273
+-4.3348	review	-0.1339
+-4.0338	revisi	-0.1344
+-3.8577	revolusi	-0.4067
+-3.2209	ribu	-0.2699
+-4.0338	ribuan	-0.0966
+-4.0338	ride	-0.2948
+-3.7328	rifo	-0.2847
+-4.3348	rilis	-0.1341
+-3.7328	rincian	-0.2060
+-4.3348	rinciannya	-0.1345
+-4.3348	rincinya	-0.1290
+-4.3348	ringan	-0.1209
+-3.8577	riset	-0.4056
+-4.0338	risiko	-0.1249
+-4.3348	risk	-0.1209
+-4.0338	riwayat	-0.1349
+-3.7328	ruang	-0.1959
+-3.6359	ruangan	-0.1208
+-4.3348	ruangannya	-0.1325
+-3.2557	rumah	-0.1760
+-4.3348	rumit	-0.0988
+-3.8577	rupiah	-0.3704
+-4.3348	rusak	-0.1345
+-3.7328	rutin	-0.0821
+-2.7908	saat	-0.5124
+-3.6359	saatnya	-0.1213
+-4.0338	saham	-0.2868
+-4.3348	saingan	-0.1326
+-3.7328	sains	-0.1249
+-2.5424	saja	-0.2740
+-3.1887	salah	-0.6393
+-3.7328	salam	-0.4725
+-3.8577	saling	-0.1351
+-4.0338	sam	-0.1273
+-2.7328	sama	-0.0921
+-4.3348	sama-sama	-0.0988
+-4.3348	samanya	-0.1283
+-4.3348	sambutan	-0.1283
+-2.8724	sampai	-0.2819
+-4.0338	sampaikan	-0.1315
+-4.0338	samsek	-0.0985
+-4.0338	sana	-0.0988
+-4.3348	sananya	-0.1350
+-2.9199	sangat	-0.1538
+-4.3348	sapi	-0.0988
+-4.3348	saputra	-0.1315
+-3.0561	saran	-0.2087
+-3.8577	sarana	-0.2348
+-4.3348	sarannya	-0.0988
+-2.5023	satu	-0.1664
+-4.3348	satuan	-0.1352
+-4.0338	satunya	-0.2932
+-3.4897	saudara	-0.2140
+-2.0607	saya	-0.2721
+-4.3348	sayangnya	-0.0988
+-4.3348	sayur	-0.1352
+-4.3348	sayuran	-0.1352
+-3.7328	sbmptn	-0.1542
+-4.3348	scalable	-0.0988
+-4.0338	science	-0.2948
+-4.3348	scm	-0.1291
+-4.3348	scrum	-0.1209
+-4.3348	sd	-0.1291
+-4.3348	sdm-sdm	-0.1209
+-4.3348	se-asia	-0.1352
+-4.3348	seadil-adilnya	-0.0988
+-2.6359	sebagai	-0.2271
+-4.3348	sebagaimana	-0.1351
+-4.3348	sebagainya	-0.0988
+-3.7328	sebagian	-0.3197
+-4.0338	sebaiknya	-0.1351
+-4.3348	sebaliknya	-0.1333
+-3.8577	sebanyak	-0.2333
+-4.3348	sebarkan	-0.0988
+-4.3348	sebelas	-0.1348
+-3.0126	sebelum	-0.3425
+-2.8163	sebelumnya	-0.2520
+-3.1307	sebenarnya	-0.0923
+-4.3348	sebenernya	-0.1352
+-4.3348	sebentar	-0.1315
+-3.8577	seberapa	-0.0973
+-3.6359	sebesar	-0.1897
+-4.3348	sebetulnya	-0.1272
+-4.0338	sebisa	-0.2933
+-2.9731	sebuah	-0.1556
+-2.8877	secara	-0.2945
+-4.3348	secepat	-0.1338
+-4.3348	secepatnya	-0.1325
+-3.0796	sedang	-0.1307
+-3.6359	sedangkan	-0.2595
+-4.3348	sedemikian	-0.1352
+-4.3348	sederajat	-0.1348
+-3.7328	sederhana	-0.1665
+-4.3348	sedia	-0.1352
+-4.3348	sediain	-0.1272
+-4.0338	sediakan	-0.1310
+-3.8577	sedikit	-0.0944
+-4.3348	seduh	-0.0988
+-4.0338	segala	-0.1350
+-4.3348	segalanya	-0.1325
+-4.3348	segan	-0.1336
+-3.6359	segera	-0.1816
+-3.7328	segi	-0.2064
+-3.4317	segmen	-0.3097
+-4.0338	segmentasi	-0.1349
+-4.3348	sehabis	-0.1344
+-3.8577	sehari	-0.1966
+-4.3348	sehari-hari	-0.0988
+-3.4317	seharusnya	-0.0553
+-2.8034	sehingga	-0.1879
+-4.3348	seihlasnya	-0.1283
+-4.3348	seimbang	-0.0988
+-4.3348	seingetku	-0.1294
+-4.3348	seiring	-0.1352
+-3.7328	sejahtera	-0.1603
+-3.8577	sejak	-0.1322
+-4.3348	sejarah	-0.1349
+-3.6359	sejauh	-0.3720
+-4.0338	sejenis	-0.0942
+-3.2557	sekali	-0.4286
+-3.2934	sekalian	-0.1140
+-4.3348	sekaligus	-0.1352
+-4.3348	sekalipun	-0.0988
+-2.7785	sekarang	-0.2772
+-4.3348	sekedar	-0.1343
+-2.7908	sekian	-0.4807
+-4.3348	sekilas	-0.1343
+-3.0561	sekitar	-0.1319
+-4.3348	sekitarnya	-0.0988
+-3.3348	sekolah	-0.2106
+-3.7328	sekre	-0.1282
+-4.0338	sekretaris	-0.2944
+-2.5866	seksi	-0.7366
+-4.3348	seksinya	-0.0988
+-4.0338	sektor	-0.1345
+-3.0126	selain	-0.8498
+-3.6359	selaku	-0.2572
+-3.8577	selalu	-0.1349
+-2.9924	selama	-0.2614
+-2.7908	selamat	-0.8424
+-2.6914	selanjutnya	-0.2255
+-4.3348	selebihnya	-0.1349
+-4.3348	selenggarakan	-0.0988
+-3.8577	selera	-0.2343
+-2.8163	selesai	-0.3475
+-3.0338	seluruh	-0.1922
+-4.3348	seluruhnya	-0.1352
+-3.4317	semacam	-0.1576
+-3.8577	semakin	-0.1344
+-3.6359	semangat	-0.1522
+-4.3348	semata-mata	-0.1352
+-3.1887	sembilan	-0.3204
+-3.3806	sementara	-0.1379
+-3.3348	seminggu	-0.1254
+-4.3348	seminim	-0.1338
+-3.5567	semoga	-0.1229
+-4.3348	sempurna	-0.1346
+-2.8034	semua	-0.1780
+-2.8724	semuanya	-0.3130
+-4.0338	senang	-0.0983
+-3.1044	sendiri	-0.1120
+-4.0338	sendirinya	-0.2584
+-4.3348	sendok	-0.1323
+-4.0338	seni	-0.1351
+-3.8577	senin	-0.0899
+-4.0338	seorang	-0.1257
+-4.3348	sepakati	-0.1350
+-4.3348	sepanjang	-0.1352
+-4.3348	sepenuhnya	-0.1348
+-2.5153	seperti	-0.2864
+-3.1044	sepertinya	-0.1697
+-3.4897	sepuluh	-0.1328
+-3.7328	seputar	-0.1346
+-4.3348	serabutan	-0.1310
+-4.3348	serahkan	-0.1323
+-4.3348	seratus	-0.1349
+-4.3348	serbaguna	-0.1352
+-4.3348	serikat	-0.1339
+-3.6359	sering	-0.1917
+-3.4317	serta	-0.1318
+-4.3348	servicenya	-0.0988
+-4.3348	sesama	-0.1345
+-3.3348	sesi	-0.2552
+-3.0338	sesuai	-0.6469
+-3.2934	sesuatu	-0.1115
+-4.3348	setauku	-0.0988
+-2.8577	setelah	-0.3366
+-4.3348	setelahnya	-0.1272
+-4.0338	setempat	-0.2584
+-4.3348	setengah	-0.1340
+-4.0338	seti	-0.1288
+-2.8034	setiap	-0.2464
+-3.7328	setidaknya	-0.1190
+-2.8297	setuju	-0.5713
+-4.3348	seusia	-0.1317
+-4.0338	sewa	-0.1350
+-4.3348	sewajibnya	-0.1323
+-4.3348	sewaktu-waktu	-0.1348
+-3.1307	si	-0.3682
+-2.9035	siang	-0.3399
+-3.7328	siap	-0.1661
+-3.2934	siapa	-0.1669
+-4.3348	siapa-siapa	-0.1340
+-4.3348	siapkan	-0.0988
+-4.0338	sibuk	-0.0985
+-3.7328	signifikan	-0.1693
+-2.8034	sih	-0.1395
+-3.5567	silahkan	-0.1450
+-2.9199	silakan	-0.2365
+-4.3348	simpang	-0.1352
+-4.3348	simpulkan	-0.0988
+-4.0338	simulasi	-0.1255
+-3.7328	singkat	-0.1259
+-4.3348	singkatan	-0.1283
+-3.4317	sini	-0.0883
+-4.3348	sinterklas	-0.0988
+-4.0338	sip	-0.0984
+-4.3348	sirup	-0.1258
+-4.0338	sisanya	-0.1245
+-4.0338	sisi	-0.1349
+-3.1307	sistem	-0.3308
+-4.3348	sistemnya	-0.1347
+-4.3348	sistus	-0.1209
+-3.3806	siswa	-0.0899
+-4.3348	siswa-siswa	-0.1209
+-4.0338	siswa-siswi	-0.1347
+-4.3348	siswanya	-0.0988
+-3.4317	siti	-0.2746
+-3.7328	situ	-0.2836
+-3.8577	situasi	-0.0880
+-4.0338	situs	-0.1351
+-4.3348	siur	-0.1291
+-4.3348	skala	-0.1209
+-4.0338	skema	-0.1352
+-4.3348	skill	-0.1272
+-4.3348	skor	-0.1351
+-4.3348	slain	-0.1317
+-3.0796	sma	-0.2407
+-4.0338	smartphone	-0.1146
+-4.0338	smp	-0.1290
+-4.3348	snmptn	-0.1350
+-3.1044	soal	-0.0890
+-3.8577	soal-soal	-0.1220
+-3.2557	soalnya	-0.0700
+-4.3348	sociopreneurship	-0.1209
+-3.3806	software	-0.2462
+-3.2209	solusi	-0.3161
+-4.0338	solusinya	-0.0886
+-4.3348	solution	-0.1346
+-4.3348	solving	-0.1258
+-4.3348	sop	-0.1352
+-3.7328	sore	-0.1705
+-3.3348	sosial	-0.1721
+-4.0338	sosmed	-0.1252
+-4.3348	spesifik	-0.1291
+-4.3348	spesifikasi	-0.1334
+-2.9924	sponsor	-0.2035
+-4.3348	sponsorship	-0.0988
+-3.7328	sprint	-0.1557
+-3.8577	stabil	-0.0983
+-4.3348	stabilitas	-0.1350
+-4.3348	stagnan	-0.1347
+-4.0338	stand	-0.1290
+-3.5567	standar	-0.1663
+-4.3348	standardnya	-0.1258
+-3.5567	start	-1.0161
+-2.8435	startup	-0.2725
+-3.8577	statistik	-0.1345
+-4.3348	status	-0.1350
+-4.3348	statusnya	-0.1345
+-4.0338	stiker	-0.1333
+-3.6359	strategi	-0.1241
+-4.3348	strategis	-0.1326
+-3.7328	streams	-0.1604
+-4.3348	struktur	-0.1333
+-4.3348	struktural	-0.1352
+-4.3348	strukturnya	-0.1352
+-3.7328	studi	-0.0883
+-4.3348	suasana	-0.0988
+-3.4897	suatu	-0.1716
+-4.3348	subsidi	-0.1258
+-2.2013	sudah	-0.1609
+-4.0338	sudahi	-0.1339
+-4.3348	sudut	-0.1352
+-4.3348	suka	-0.1349
+-3.7328	sukses	-0.0908
+-4.0338	sukwis	-0.1351
+-4.3348	sul	-0.0988
+-3.8577	sulit	-0.0970
+-3.7328	sumbangan	-0.0939
+-4.3348	sumbangkan	-0.1343
+-3.1307	sumber	-0.4672
+-4.3348	sungguh	-0.1347
+-3.4317	supaya	-0.1229
+-4.3348	suplai	-0.1347
+-4.3348	surat	-0.1349
+-4.3348	surplus	-0.1351
+-3.4897	survei	-0.1493
+-4.3348	susah	-0.1351
+-3.7328	susan	-0.2573
+-4.3348	sustain	-0.0988
+-4.3348	swasta	-0.1348
+-4.3348	syarat	-0.1350
+-4.3348	sync	-0.1350
+-4.3348	tabelnya	-0.0988
+-2.9924	tadi	-0.2115
+-4.3348	tadinya	-0.1352
+-3.7328	tahap	-0.1201
+-3.4897	tahu	-0.1353
+-2.6721	tahun	-0.4844
+-3.7328	tahun-tahun	-0.3202
+-4.3348	tahunan	-0.1332
+-4.0338	takutnya	-0.1277
+-4.3348	talenta	-0.1340
+-4.0338	tambah	-0.1335
+-3.3348	tambahan	-0.1104
+-4.3348	tampak	-0.1334
+-3.0561	tampilan	-0.1579
+-4.3348	tampung	-0.1347
+-3.5567	tamu	-0.1109
+-3.6359	tanda	-0.7231
+-3.4897	tangan	-0.1628
+-4.3348	tanganan	-0.1352
+-4.3348	tangga	-0.1334
+-3.2209	tanggal	-0.2205
+-3.4317	tanggapan	-0.1700
+-3.7328	tanggung	-0.3211
+-3.3806	tanpa	-0.1586
+-3.5567	tanya	-0.2318
+-4.3348	tanyakan	-0.1323
+-2.8163	tapi	-0.1526
+-3.6359	target	-0.1124
+-4.3348	targetkan	-0.1352
+-4.3348	tata	-0.1350
+-3.2557	tau	-0.1097
+-4.0338	tawaran	-0.1348
+-4.3348	tawarkan	-0.1337
+-3.6359	teh	-0.7231
+-3.2934	teknis	-0.1479
+-4.3348	teknisnya	-0.1344
+-3.2557	teknologi	-0.1842
+-4.3348	teks	-0.1352
+-2.6446	telah	-0.2471
+-3.8577	telekomunikasi	-0.0878
+-4.3348	televisi	-0.1291
+-3.5567	teman	-0.1819
+-3.0338	teman-teman	-0.4026
+-4.3348	temen	-0.1258
+-4.3348	temen-temen	-0.1337
+-3.0338	tempat	-0.1620
+-4.3348	tempat-tempat	-0.1352
+-4.3348	template	-0.1351
+-4.3348	temui	-0.1291
+-4.3348	tenaga	-0.1347
+-3.8577	tenang	-0.0921
+-4.0338	tenda	-0.2887
+-4.3348	tengah	-0.1349
+-4.3348	tenggat	-0.1343
+-4.3348	tentan	-0.1352
+-3.1587	tentang	-0.1298
+-3.3806	tentu	-0.7028
+-3.1587	tentunya	-0.1237
+-3.6359	tepat	-0.2471
+-4.3348	tepatnya	-0.1333
+-4.0338	tepung	-0.0922
+-2.9546	terakhir	-0.1943
+-4.3348	terasa	-0.1350
+-3.5567	terbaik	-0.1669
+-4.3348	terbatas	-0.1347
+-4.0338	terbayang	-0.0988
+-4.3348	terbengkalai	-0.0988
+-4.3348	terbentuk	-0.1344
+-4.3348	terbesar	-0.1349
+-4.3348	terbesarnya	-0.0988
+-4.0338	terbuka	-0.1303
+-4.3348	terburu-buru	-0.1291
+-4.3348	terburuk	-0.1343
+-3.8577	tercapai	-0.0935
+-4.3348	tercatat	-0.1351
+-3.0126	terdapat	-0.3064
+-4.3348	terdesak	-0.0988
+-3.8577	terdiri	-0.3998
+-4.3348	tergambar	-0.1349
+-4.0338	tergantung	-0.1346
+-3.2934	terhadap	-0.1306
+-4.3348	terhalang	-0.0988
+-3.8577	terhambat	-0.1967
+-2.3095	terima	-1.5194
+-4.3348	terimakasih	-0.1346
+-4.3348	terisi	-0.1349
+-3.1307	terjadi	-0.2417
+-4.3348	terjangkau	-0.0988
+-4.3348	terjatuh	-0.0988
+-3.2934	terkait	-0.4139
+-3.1587	terlalu	-0.1941
+-3.2557	terlebih	-0.1349
+-4.3348	terlewatkan	-0.1339
+-4.3348	terlihat	-0.1352
+-4.3348	termaksimalkan	-0.1310
+-4.3348	termanage	-0.0988
+-4.0338	termasuk	-0.1326
+-4.3348	termotivasi	-0.1290
+-3.8577	ternyata	-0.1332
+-4.0338	terpenting	-0.1282
+-4.3348	terpikir	-0.1340
+-4.3348	tersampaikan	-0.1331
+-4.3348	tersebar	-0.1315
+-2.7221	tersebut	-0.2594
+-3.6359	tersedia	-0.1849
+-4.3348	terserah	-0.1352
+-3.6359	tertentu	-0.2382
+-4.0338	tertulis	-0.1320
+-4.3348	terulang	-0.1336
+-4.3348	terurus	-0.0988
+-3.0126	terus	-0.1500
+-4.3348	terutama	-0.1352
+-3.0796	tes	-0.4155
+-3.2934	tetap	-0.1297
+-3.0126	tetapi	-0.1282
+-4.3348	tetep	-0.1340
+-3.2934	tiap	-0.1508
+-4.0338	tiba	-0.1348
+-2.1795	tidak	-0.3531
+-2.7785	tiga	-0.2469
+-4.3348	tikar	-0.0988
+-3.0561	tim	-0.2455
+-4.3348	timbul	-0.1336
+-4.3348	time	-0.1348
+-4.3348	timur	-0.1291
+-3.4897	tinggal	-0.1342
+-3.7328	tinggi	-0.0810
+-3.2209	tingkat	-0.2215
+-4.3348	tingkatnya	-0.1332
+-3.8577	tipe	-0.2331
+-4.3348	tipis	-0.1331
+-4.0338	tips	-0.1282
+-4.3348	titipkan	-0.1323
+-4.3348	to	-0.1352
+-4.3348	tokopedia	-0.1291
+-4.3348	tolok	-0.1352
+-3.1887	tolong	-0.1285
+-4.3348	tool	-0.1209
+-3.4897	topik	-0.2143
+-4.3348	topik-topik	-0.1209
+-3.5567	total	-0.1737
+-4.0338	tpb	-0.0921
+-4.0338	training	-0.1339
+-4.3348	transaksi	-0.1352
+-4.3348	transportasi	-0.1352
+-4.0338	traveloka	-0.0974
+-4.3348	tren	-0.1333
+-4.3348	trip	-0.1345
+-4.3348	trisemester	-0.1346
+-3.6359	tryout	-0.2427
+-3.7328	tu	-0.1313
+-3.2209	tugas	-0.0926
+-4.0338	tugasnya	-0.1295
+-3.2557	tuh	-0.1197
+-4.3348	tuju	-0.0988
+-3.3806	tujuan	-0.1005
+-4.3348	tujuannya	-0.1258
+-3.0126	tujuh	-0.6482
+-4.3348	tuk	-0.1338
+-4.3348	tukang	-0.1351
+-4.3348	tumbang	-0.0988
+-3.8577	tumpeng	-0.1301
+-4.3348	tunggal	-0.1348
+-3.6359	tunggu	-0.0837
+-3.8577	turun	-0.1964
+-4.3348	turut	-0.1346
+-4.3348	tutorial	-0.1339
+-3.4897	tutup	-0.3004
+-3.4317	uang	-0.1226
+-4.3348	uas	-0.0988
+-4.0338	ucapkan	-0.2927
+-2.7116	udah	-0.1630
+-3.3806	ujian	-0.2592
+-4.3348	ukm	-0.1283
+-4.3348	ukur	-0.1351
+-4.0338	ukuran	-0.1352
+-3.8577	ulang	-0.2338
+-4.3348	ulangan	-0.1334
+-4.3348	ultimate	-0.1352
+-3.8577	umpan	-0.4067
+-3.5567	umum	-0.1554
+-3.8577	unggah	-0.2319
+-4.0338	unit	-0.0832
+-4.3348	univ	-0.1340
+-3.6359	universitas	-0.1384
+-4.3348	universitas-universitas	-0.1340
+-4.0338	unpad	-0.0978
+-1.6693	untuk	-0.1564
+-4.3348	untung	-0.1345
+-3.4317	up	-0.1467
+-3.7328	upah	-0.1674
+-4.3348	upahnya	-0.1283
+-4.0338	update	-0.1302
+-4.3348	urutan	-0.1315
+-4.3348	urutannya	-0.1343
+-3.7328	usah	-0.1700
+-3.8577	usaha	-0.0830
+-4.0338	usahakan	-0.0986
+-3.6359	user	-0.2243
+-3.4317	usia	-0.2694
+-3.0796	usulan	-0.1716
+-4.3348	usulannya	-0.1347
+-4.3348	usulnya	-0.1352
+-3.6359	utama	-0.1282
+-4.0338	validasi	-0.2887
+-4.3348	valuasi	-0.1347
+-4.3348	value	-0.1352
+-4.3348	varian	-0.1351
+-3.7328	vendor	-0.3042
+-4.3348	versi	-0.1352
+-4.3348	version	-0.1352
+-4.3348	versioning	-0.1352
+-4.0338	video	-0.1278
+-4.3348	visual	-0.0988
+-4.3348	wafer	-0.1352
+-4.3348	wah	-0.1272
+-4.3348	wahabi	-0.1291
+-3.6359	wajib	-0.0806
+-3.5567	wakil	-0.3050
+-2.6816	waktu	-0.1587
+-3.4317	waktunya	-0.1622
+-3.6359	walaupun	-0.1320
+-4.3348	warga	-0.0988
+-4.3348	warganya	-0.1350
+-4.3348	warung	-0.1291
+-4.3348	wawasan	-0.1323
+-3.6359	web	-0.1423
+-3.5567	website	-0.1120
+-4.3348	weekly	-0.1350
+-4.3348	well-off	-0.1350
+-4.3348	win-win	-0.1352
+-4.3348	wirausahawan	-0.1351
+-4.0338	wisuda	-0.1335
+-4.3348	wodadi	-0.0988
+-4.0338	workflow	-0.0832
+-4.3348	workshop	-0.1209
+-4.3348	workshop-nya	-0.1351
+-2.3262	ya	-0.3439
+-4.0338	yah	-0.0886
+-2.7221	yaitu	-0.1137
+-4.0338	yakin	-0.1319
+-3.5567	yakni	-0.1304
+-1.4879	yang	-0.3760
+-3.3806	yanto	-0.3736
+-4.3348	yaudah	-0.0988
+-4.3348	yayasan	-0.1331
+-3.8577	yel-yel	-0.1918
+-4.0338	yeyen	-0.2945
+-4.0338	yoi	-0.2947
+-4.3348	zaman	-0.1345
+
+\2-grams:
+ ¿•A   ¿¢Âz í ¿¢Âz 2 ¿41 ¿ ¿¢Âz  ¿•A z ¿•A ° ¿•A ¾ ¿•A K ¿•A ; ÀxP  * ÀxP  ¢ ¿Üt¿  ¾ ÀxP  ÀxP z ÀxP ª ÀxP Å ÀxP Î ÀxP ì ÀxP $ ÀxP × ÀxP P ÀxP ª ÀxP · ¿º;D ¿ ÀxP  ¿Üt¿ ¶ ¿Üt¿ Ì ÀxP  ÀxP G ÀxP Í ÀxP è ÀxP  ÀxP “ ÀxP  ÀxP a ÀxP e ÀxP § ÀxP ô ÀxP S ÀxP a ÀxP Û ÀxP å ÀxP ú ¿Üt¿ 	! ÀxP 	1 ÀxP 	9 ÀxP 	v ÀxP 	£ ¿Üt¿ 	ê ¿º;D 
+‘ ÀxP 
+· ÀxP 
+È ¿µvÍ 	¤ ¿Yõ× 	¿ ¿µvÍ 	¶ ¿µvÍ 	ë ¿µvÍ 	
+˜ ¿µvÍ 	
+È ¿†\ð 
+ « ¿†\ð 
+^ ¿†\ð 
+ ¿•A - ¿•A  ¿•A 
+È ¿•A [ ¿•A © ¿•A  ¿•A Ã ¿Yõ×  ô ¿µvÍ º ¿Yõ×  ¿µvÍ 
+Ã ¿µvÍ 
+Ê ¿•A Ã Àt¥   Àt¥   Àt¥   ÀmU   ÀOÔµ  	 À>·÷  
+ Àt¥   À<   Àt¥   Àt¥   ¿ãªÏ   ÀOÔµ  * À4O‰  , Àt¥  . À<  9 Àt¥  = À,  C ÀOÔµ  K Àt¥  Y Àt¥  j À<  o À(…G  q ¿Ó2©  r ÀOÔµ  s Àt¥  t Àt¥  u Àt¥  € Àt¥  … À>·÷  ‹ À[  ¡ À>·÷  ¢ À4O‰  £ Àt¥  © ¿¿
+  « À"|  ¬ À<  Á ÀOÔµ  Ä Àt¥  Ê À4O‰  Ô Àt¥  Õ Àt¥  à À(…G  â À4O‰  ô Àt¥  ø À4O‰   ¿ëêø  Àt¥  Àt¥  Àt¥ A Àt¥ T ÀOÔµ V À>·÷ W Àt¥ [ À>·÷ ` À4O‰ f ÀOÔµ g À4O‰ h À4O‰ m À(…G w À pÉ z ÀOÔµ ‚ Àt¥ ƒ ÀOÔµ „ ÀOÔµ † ÀOÔµ ‹ Àt¥ £ ÀOÔµ ¦ Àt¥ ¬ À< ° Àt¥ » Àt¥ ¼ À>·÷ ¾ ¿û,x À ÀOÔµ Ã ¿ëêø Æ Àt¥ È À
+\ Þ À pÉ â Àt¥ å Àt¥ æ À pÉ ì Àt¥ ñ Àt¥ û Àt¥  Àt¥ ) Àt¥ 7 Àt¥ X ÀOÔµ d Àt¥ { Àt¥ € Àt¥  À>·÷ ¨ Àt¥ ² À¡ × À< Ü Àt¥ ã Àt¥ æ À>·÷ é Àt¥ î Àt¥  Àt¥  ÀOÔµ  ÀOÔµ  Àt¥ + Àt¥ - Àt¥ 1 Àt¥ A Àt¥ C Àt¥ I Àt¥ O À>·÷ P Àt¥ T À] [ ÀOÔµ \ Àt¥ _ Àt¥ a À>·÷ g À>·÷ i Àt¥ j À4O‰ n Àt¥ s ÀOÔµ t Àt¥ ƒ À4O‰ † Àt¥ ˆ Àt¥ Ÿ Àt¥   Àt¥ ® À¡ · À[ º Àt¥ ¼ Àt¥ ½ ¿»@5 ¿ À< Ò Àt¥ Ô Àt¥ Þ Àt¥ ã ÀÇ( ë Àt¥ ó Àt¥ ô Àt¥ û ÀOÔµ   ¿Ï  Àt¥  À(…G  À< 
+ Àt¥  ¿ëêø  ÀOÔµ  ÀOÔµ   ÀOÔµ ) Àt¥ , Àt¥ - Àt¥ 9 Àt¥ @ Àt¥ A Àt¥ C Àt¥ D Àt¥ N Àt¥ ^ Àt¥ j Àt¥ q À"| r Àt¥ s Àt¥ t À(…G v Àt¥ x ÀOÔµ ‚ Àt¥ † Àt¥  ÀOÔµ § Àt¥ ­ ÀOÔµ ± À(…G ¶ ¿î/ç ¸ Àt¥ Ð Àt¥ Ò Àt¥ è Àt¥ ë Àt¥ ø Àt¥ ú ¿û,x   Àt¥  Àt¥  Àt¥  À>·÷  Àt¥ + À4O‰ ; ÀOÔµ < ÀmU U ÀOÔµ V À>·÷ ] ÀOÔµ ^ Àt¥ _ À[ j Àt¥ m ÀÇ( o ÀOÔµ q À4O‰ r ÀOÔµ t Àt¥ u Àt¥ z À>·÷ ‚ Àt¥ … Àt¥ ˆ Àt¥ — À4O‰ £ Àt¥ Ê Àt¥ Ü Àt¥ $ Àt¥ D À] t À4O‰ u ÀmU “ ÀOÔµ œ Àt¥ ® À4O‰ ¯ Àt¥ ² Àt¥ ³ ÀOÔµ ¾ ¿û,x À ¿Ðj÷ Æ À ­¨ Í ÀmU Î Àt¥ Ï Àt¥ Ó Àt¥ ß Àt¥ ì Àt¥ î Àt¥ ò Àt¥ û ¿þ-æ  À¡  ¿ÍÅ,  À<  ÀOÔµ  Àt¥  Àt¥  Àt¥  À
+\ ' À>·÷ ( ÀOÔµ / Àt¥ 0 Àt¥ 3 À>·÷ 6 Àt¥ ] Àt¥ e Àt¥ z Àt¥ „ Àt¥ ‡ À>·÷  ÀOÔµ ’ Àt¥ — Àt¥ Ÿ À>·÷ ¶ Àt¥ ¿ Àt¥ Ã Àt¥ Ò Àt¥ Ó ÀOÔµ Ô Àt¥ Ú Àt¥ Ý Àt¥ è Àt¥ ï Àt¥ ð ÀOÔµ ô Àt¥ ø À]  ÀOÔµ  Àt¥  Àt¥  Àt¥  Àt¥  ÀOÔµ  Àt¥  Àt¥ ! Àt¥ " Àt¥ % Àt¥ , Àt¥ 7 Àt¥ R ÀOÔµ X À>·÷ Y Àt¥ ^ ÀOÔµ a Àt¥ h Àt¥ l Àt¥ o Àt¥ v Àt¥ x À(…G … Àt¥ ˆ Àt¥ Š Àt¥ ˜ À4O‰ š ÀOÔµ ¥ À(…G ¾ ÀOÔµ ¿ ÀOÔµ Ä ÀOÔµ Å À< È Àt¥ É ÀOÔµ Ì À>·÷ Ô À4O‰ × ¿Ù6¥ Û À>·÷ è Àt¥ í À[ ñ ÀOÔµ ò ÀOÔµ ó Àt¥ õ Àt¥ ö ÀOÔµ û Àt¥ þ À4O‰ ÿ Àt¥ 	 ÀOÔµ 	 À
+\ 	 Àt¥ 	 ÀOÔµ 	 À
+\ 	! À] 	# Àt¥ 	% Àt¥ 	' ÀOÔµ 	* ¿þ-æ 	- ¿î/ç 	1 ¿þ-æ 	2 Àt¥ 	3 Àt¥ 	5 ÀOÔµ 	6 Àt¥ 	: Àt¥ 	; À>·÷ 	> Àt¥ 	? À>·÷ 	A Àt¥ 	C À¡ 	O À[ 	P Àt¥ 	Y Àt¥ 	^ À(A 	` ÀOÔµ 	e Àt¥ 	f ÀOÔµ 	m ÀOÔµ 	o ÀOÔµ 	u À¡ 	v Àt¥ 	~ À>·÷ 	‚ Àt¥ 	’ Àt¥ 	— ÀOÔµ 	™ ÀOÔµ 	œ ÀOÔµ 	° Àt¥ 	´ À(…G 	¿ ÀOÔµ 	Ë Àt¥ 	Þ ÀOÔµ 	ê Àt¥ 	ì À] 	ð Àt¥ 	ú Àt¥ 
+	 À>·÷ 
+ À>·÷ 
+ À>·÷ 
+! ¿¾) 
+) Àt¥ 
+? ÀmU 
+D Àt¥ 
+E Àt¥ 
+F Àt¥ 
+G À¡ 
+H ÀOÔµ 
+J ÀÇ( 
+L ÀOÔµ 
+^ ÀOÔµ 
+` ÀOÔµ 
+m ÀOÔµ 
+q À4O‰ 
+y ÀOÔµ 
+ ¿Ã4« 
+‘ ÀOÔµ 
+ž Àt¥ 
+­ Àt¥ 
+³ Àt¥ 
+Â ¿ãªÏ 
+Ã ÀOÔµ 
+Å Àt¥ 
+Æ À>·÷ 
+Ç À] 
+È ÀOÔµ 
+Î ¿•A   ¿•A 
+s ¿•A  Á ¿•A  ¿Óm=  ! ¿Óm=  Õ ¿'Î - ¿Óm=  ¿Óm= ÷ ¿Óm= ( ¿Šñ\ 
+‘ ¿Óm= 
+È ¾[˜ · ¿eG   À"T   ¿ü,&  9 À"T  o À"T  ‹ À"T  À"T * À"T Q ¿Ùò« z ¿Ùò« À À"T Ã ¿ü,& Æ À"T ì À"T c À"T  À"T Ÿ ¿Ùò«   À"T ¦ À"T ð À"T  À"T j ¿ü,&  ¿Å!Î Î ¿ü,& ¨ ¿ü,& · À"T á À"T ë À"T ò À"T 	* À"T 	D À"T 	O ¿Ùò« 	¿ À"T 	Ä À"T 	ü À"T 
+G À"T 
+H À"T 
+L À"T 
+^ ¿‡Äò 
+s ¿ü,& 
+‘ À"T 
+Å ¿Å!Î 
+È ¿•A × ¿•A ¼ ¿†\ð   ¾÷„9   ¿¬.   ÀAó@   ÀAó@  ! ÀAó@  C ÀAó@  I ÀAó@  J ÀAó@  Q ÀAó@  \ ÀAó@  x ÀAó@  • ÀAó@  « ¿ìËÃ  ­ ÀAó@  ¾ ÀµO  Á ÀAó@  Î ¿Ü¢È  Ô ÀAó@  á ÀAó@  â ÀµO  æ ÀµO  ô ÀAó@ Z ÀAó@ f ÀAó@ › ÀAó@ ª ÀAó@ ° ÀAó@ À ÀAó@ Ã ÀAó@ Æ ÀAó@ Î ÀAó@ Ò ÀAó@ Ú ¿† ì ÀAó@  ÀAó@ ¨ ÀAó@ × À0$ é ÀAó@   ÀAó@  ÀAó@ " ÀAó@ % ÀAó@ 1 ÀAó@ 3 ÀAó@ U ÀAó@ W À˜’ [ ÀAó@ d ÀµO † ÀAó@ ˆ ÀAó@ š ÀAó@ ³ ÀAó@ Ñ ÀAó@ ð ÀAó@ û ÀAó@  ÀAó@  ÀAó@ , ÀAó@ = ÀAó@ D ÀAó@ Z À˜’ w À˜’ ¸ ÀAó@ Ø ÀAó@ â ÀAó@ ð ¿ÀwA ÷ ÀAó@  À0$ , ÀAó@ ; ÀAó@ U ÀAó@ j ¿Çl o À˜’ x ÀAó@  ÀAó@ ± ÀAó@ À ÀµO  ÀµO ' ÀAó@ , ÀAó@ _ ÀAó@ e ÀAó@ p À˜’  ÀAó@ º ÀAó@ ç À˜’ ø ¿pzk 
+ ÀµO  ÀAó@ H ÀAó@ a ÀµO … ÀµO ® ÀAó@ ³ À˜’ ¾ ÀAó@ Ä ¿Ü¢È Ô À0$ × À0$ 	# ÀAó@ 	Q À˜’ 	\ ÀAó@ 	l ÀAó@ 	v ÀAó@ 	¥ ÀAó@ 	½ ÀAó@ 	Û ÀAó@ 	å ÀAó@ 	ê ¿Ú9[ 	ë ÀAó@ 	ÿ ÀAó@ 
+  ÀµO 
+) ÀAó@ 
+L À˜’ 
+M ÀAó@ 
+m ÀAó@ 
+ ÀAó@ 
+‘ À˜’ 
+ž ÀAó@ 
+¦ ÀAó@ 
+± ÀAó@ 
+º ÀAó@ 
+Ã ¿{! 
+È ¿†\ð  º ¿†\ð  	á ¿†\ð  
+È À !  À ! \ ¿ñ? ! ¡ À ! £ À ! ¦ À ! Á À ! À !N À !g À !‹ À !¨ À !¾ ¿ñ? !Æ ¿ñ? !Þ À !; ¿zL !× À !Õ À ! À !‚ À !ƒ À ! À !‘ À !— À !Ò À !; À !m À !o À !« À !­ À !º À !¾ À !" À !$ ¿ÏSÄ !, À !À À !È À !q À !ƒ À !Ä À !Ô À ! À !W À !Ä À !Ñ À !× À !Û ¿ñ? !è ¿ÏSÄ !ú À !	* À !	^ À !	l À !	{ À !	‚ À !	— À !
+ ¿’Åh !
+‘ ¿¢Âz " u ¿¢Âz " Ô ¿¢Âz "n ¿¢Âz "˜ ¿¢Âz "	‚ ¿•A #  ¿•A $W ¿HÒj %W ¿HÒj %¸ ¿HÒj %	“ ¿•A &  ¿•A 'À ¿¬å (F ¿¬å (Q ¿¬å (Å ¿¬å (º ¿¬å (	r ¿¬å (
+( ¾6¥© )t ¿ïÒÇ * % ¿ïÒÇ * d ¿…k *f ¿ïÒÇ *	 ¿ïÒÇ *é ¿ïÒÇ *  ¿ïÒÇ *O ¿ïÒÇ * ¿ïÒÇ *> ¿ïÒÇ *` ¿§Væ *“ ¿ïÒÇ *S ¿ïÒÇ *	e ¿ïÒÇ *
+G ¿§Væ *
+L ¿ïÒÇ *
+f ¿•A +À ¿HÒj ,¸ ¿¬å ,' ¿_t ,… ¿–Zî - 9 ¿–Zî -j ¿–Zî -
+‘ ¿–Zî -
+È ¿•A .Û ¿•A /· ¿ó¶ 0  ÀsŒ 0  ÀsŒ 0  ÀsŒ 0 ‹ ÀsŒ 0 â ÀsŒ 0W ÀsŒ 0z ÀsŒ 0° ÀsŒ 0À ÀsŒ 01 ÀsŒ 0C ¿Ôk7 0 ÀsŒ 0- ¿Ôk7 0. ÀsŒ 0r ÀsŒ 0t ÀsŒ 0À ÀsŒ 0æ ÀsŒ 0È ÀsŒ 0	O ¿…Ì[ 0	t ÀsŒ 0
+‘ ÀsŒ 0
+Ã ¿…Ì[ 0
+È ¿•A 1  ¿•A 2 ¾[˜ 3 Ê ¿–Zî 4  ¿–Zî 4 9 ¿–Zî 4Æ ¿–Zî 4è ¿41 5  ¿41 5× ¿¢Âz 5
+È ¿_¥Ž 6“ ¿_¥Ž 6¦ ¿•A 7	O ¿•A 8  À}o 9  ¿Ä€ 9  ÀC»` 9 ; ÀC»` 9 ž ÀC»` 9 Ø ÀC»` 9 Û ÀC»` 9 û ÀC»` 9 ü ÀC»` 9 þ À}o 9
+ ÀC»` 9 À`² 9 ÀC»` 9 ÀC»` 9 À}o 9* À}o 9+ À}o 95 ÀC»` 98 ÀC»` 9C À}o 9_ ÀC»` 9f À`² 9z À}o 9€ ÀC»` 9Á À`² 9Ñ ÀC»` 9î ¿à3 9ï ÀC»` 9ý ÀøC 9þ ÀC»` 9 ÀC»` 9 À}o 9 ÀC»` 9 ÀC»` 9 ÀC»` 9 ÀC»` 9 ÀC»` 9 ÀC»` 9" À`² 9) ÀC»` 9/ ÀC»` 91 ÀC»` 93 ÀC»` 95 ÀC»` 9; ÀC»` 9= ÀC»` 9> ÀC»` 9@ À}o 9K À`² 9M ¿ð\ 9T ¿ð\ 9U ÀC»` 9W À}o 9f ÀC»` 9o ÀC»` 9€ À`² 9‚ ÀøC 9† ÀC»` 9‹ ÀC»` 9 ÀC»` 9  ÀC»` 9¡ À`² 9µ À`² 9½ ÀC»` 9À ÀC»` 9Á À}o 9È ÀC»` 9Î ÀC»` 9Ï ÀC»` 9Ú ÀC»` 9 ÀC»` 9Y ÀC»` 9· ÀC»` 9Â ÀC»` 9å ÀC»` 9 ÀC»` 9
+ À}o 9. ÀC»` 9_ ÀC»` 9‡ ÀC»` 9¨ ÀC»` 9¶ ¿—£ø 9¸ À}o 9ò ÀC»` 9 ÀC»` 9 ÀC»` 9 ÀC»` 9 ÀC»` 9\ À}o 9 ÀC»` 9Œ À`² 9 À}o 9 ¿à3 9‘ ÀC»` 9™ ÀC»` 9¦ ÀC»` 9« ¿’W 9­ ÀC»` 9² À}o 9´ ÀC»` 9µ ÀC»` 9¸ À}o 9º ÀøC 9¾ À}o 9Â À}o 9É ÀC»` 9Ê ÀC»` 9Ñ À}o 9Ô ÀC»` 9Õ ÀC»` 9Ù À}o 9Ü À}o 9ã À}o 9ú ÀC»` 9û ÀC»` 9 ÀC»` 9 ÀC»` 9# ÀC»` 94 À}o 99 ÀC»` 9< ÀC»` 9J ÀC»` 9Q ÀC»` 9Z ÀC»` 9[ À}o 9\ ÀC»` 9^ ¿à3 9` À}o 9a ÀøC 9f ÀC»` 9q ÀC»` 9y ÀC»` 9€ ÀC»` 9Ž ÀC»` 9– À}o 9ž ÀøC 9¾ ÀC»` 9Ç ÀC»` 9Î ÀC»` 9Ï ÀC»` 9â ÀC»` 9Ä ÀC»` 9* ÀC»` 9Ñ ¿Ä€ 9Û ÀC»` 9	% À`² 9	6 ÀC»` 9	E ÀC»` 9	Q ÀC»` 9	e ÀC»` 9	Ò À}o 9
+# ÀC»` 9
+, ÀC»` 9
+/ ÀC»` 9
+0 À`² 9
+D ¿à3 9
+H ÀC»` 9
+z ¾âDC :† ¿ßÔÉ :ì ¿ßÔÉ :c ¿ßÔÉ :ð ¿ßÔÉ :¤ ¿ßÔÉ :ê ¿ßÔÉ :… ¿ßÔÉ :	¨ ¿—Xè :	Û ¿_¥Ž ; ¿_¥Ž ;… ¿•A <¸ ¿•A =  ¿•A >è ¿•A ?Þ ¿–Zî @À ¿–Zî @· ¿–Zî @. ¿–Zî @
+È ¿¾ Aì ¿–Zî A' ¿–Zî A	O ¿–Zî B ¿–Zî B ¿–Zî Bb ¿–Zî BO ¿Ï>s C ¢ ¿Ï>s C â ÀÝ* Cz ¿­ø C— ÀÝ* C™ ÀÝ* Cš ÀÝ* C± ÀÝ* C² ¿Ï>s C ÀÝ* Cä ÀÝ* Cð ÀÝ* C- ÀÝ* C· ÀÝ* C' ¿Ï>s C+ ÀÝ* Cz ¿­ø C‚ ¿Ï>s C© ¿­ø C¾ ÀÝ* CÐ ÀÝ* C‡ ÀÝ* C	D ¿­ø C	¿ ÀÝ* C	ä ÀÝ* C	ï ÀÝ* C
+L ¿Ï>s C
+‹ ¿•A D· ¿•A E  ¿•A FÆ ¿•A Gì ¿•A H
+‘ ¿•A I
+^ ¿¢Âz J  ¿¢Âz J ¢ ¿¢Âz J¼ ¿¢Âz JÒ ¿¢Âz Jü ¿†\ð K ! ¿†\ð K ¿†\ð KÈ ¿Ò L » ¿Ão? L° ¿Ão? L ¿Ão? LÛ ¿uæ» L
+È ¿–Zî M o ¾®–F M
+È ¿•A N  ¿•A Ov ¿•A P
+‘ ¿_¥Ž Q
+ ¿_¥Ž Q	O ¿–Zî R  ¿–Zî R	“ ¿–Zî R
+‘ ¿–Zî R
+È ¾à4w S  ¿41 Se ¿•A T	O ¿•A U ¢ ¿•A VÆ ¿•A W	Í ¿•A X	W ¿ò‰ Y  ¿ò‰ Y  ¿ò‰ Y 9 ¿6Ü¾ Y Y ¿ò‰ Y ¿ò‰ Y ¿ò‰ YU ¿ò‰ Yw ¿ò‰ Yë ¿ò‰ Y' ¿ª; Y
+= ¿6Ü¾ Y
+ ¿¼ã Z  ¿¼ã Z ‹ ¿¼ã Z ¿¼ã Z‚ ¿¼ã Z¯ ¿¼ã Z	“ ¿¼ã Z
+È ¿¼ã Z
+Ï ¿†\ð [² ¾÷„9 [	Ï ¿_¥Ž \$ ¿_¥Ž \' ¿•A ]  ¿ÉJ¡ ^  ¿ÉJ¡ ^ r ¿ÉJ¡ ^% ¿ÉJ¡ ^7 ¿ÉJ¡ ^« ¿ÉJ¡ ^° ¿ÉJ¡ ^( ¿ÉJ¡ ^¸ ¿ÉJ¡ ^	C ¿ÉJ¡ ^
+0 ¿•A _À ¿•A `ÿ ¿•A aÃ ¿•A b* ¿¾ c  ¿–Zî cÃ ¿–Zî c
+‘ ¿•A dÃ ¿ãk; e o ¿ãk; e ‹ ¿šïZ e Ê ¿ãk; eÆ ¿ãk; eã ¿ãk; eì ¿šïZ e× ¿ãk; eä ¿ãk; eü ¿ãk; e ¿šïZ e
+O ¿šïZ e
+È ¿_¥Ž f ¾ ¿_¥Ž f
+L ¿•A g> ¿•A h	ç ¿_¥Ž ié ¿_¥Ž i
+È ¿•A j  ¿•A k ø ¿¾ l e ¿–Zî lW ¿–Zî l¥ ¿Óm= m Ã ¿Óm= mé ¿Óm= mn ¿Óm= m¶ ¿Óm= m¸ ¾ñIÿ mú ¿Óm= m  ¿Óm= m	7 ¿•A n  ¿Æ¢Ð o  ¿±Ñó o  ¿‡« o 0 À¬ oÀ À¬ oÆ À¬ o À¬ oÃ À¬ o À¬ o1 À¬ oÈ À¬ oû À¬ oü ¿èÜK o­ À¬ o À¬ of À¬ ox À¬ oÎ ¿2ï³ oÃ ¿èÜK o	t À¬ o	‚ À¬ o
+! ¿èÜK o
+L À¬ o
+Ã ¿Ùâ o
+È ¿•A p  ¿† q  ¿Î–û qZ ¿Î–û q} ¿Î–û qŸ ¿GÃ? q£ ¿Î–û q	6 ¿Î–û q	¿ ¿Î–û q
+L ¾<óù r  À½d r J À½d r ½ À½d rZ À½d rÁ À½d rÞ À½d r À½d rµ À½d r¶ À½d r¸ À½d r À½d rr À½d rt À½d rË À½d r“ À½d rÀ À½d rò À½d rø À½d rù ¿òþç rÌ À½d r	7 À½d r	g À½d r	œ À½d r	¿ À½d r	É À½d r
+G À½d r
+~ ¿_¥Ž sé ¿_¥Ž s
+‘ ¿•A t € ¿ˆ©Y u  ÀÉ u 9 ÀÉ u ‹ ÀÉ uÀ ÀÉ uE ÀÉ uŸ ¿A×² u  ÀÉ u· ÀÉ uç ÀÉ u¸ ÀÉ uü ¿¿³° u“ ÀÉ u ÀÉ u> ¿¿³° u	 ÀÉ u	” ÀÉ u
+k ¿¿³° u
+‘ ÀÉ u
+¸ ÀÉ u
+È ¿•A v Ê ¿•A w
+1 ¿•A xC ¿•A yÀ ¿•A z¾ ¿•A {  ¾÷„9 |  ¿†\ð |ì ¿•A }  ¿•A ~  ¿•A è ¿_¥Ž €  ¿_¥Ž €h ¿_¥Ž   ¿_¥Ž 
+ƒ ¿•A ‚E ¿•A ƒl ¿•A „Æ ¿•A …  ¾[˜ †  ¿•A ‡¸ À© ˆ } À© ˆ¡ À© ˆÝ À© ˆÞ À© ˆ? ¿ÄÖ@ ˆ‡ À© ˆ¡ À© ˆØ ¿ÄÖ@ ˆ ¿ÄÖ@ ˆ À© ˆX ¿Ëè ˆe ¿ÄÖ@ ˆ· À© ˆ» ¿LÑ ˆ ¿¢œÅ ˆ
+± ¿Ëè ˆ
+² ¿_¥Ž ‰  ¿_¥Ž ‰
+È ¿_¥Ž Š ‰ ¿_¥Ž ŠÆ À" ð ‹  ¿ÚŒ„ ‹  À" ð ‹ & À" ð ‹ u À" ð ‹ { À" ð ‹ – À" ð ‹ œ À" ð ‹ ¡ À" ð ‹ £ À" ð ‹ © À" ð ‹ â À" ð ‹ ì À" ð ‹k À" ð ‹v À" ð ‹¾ ¿üÅÿ ‹Ã ¿ÚŒ„ ‹Æ À" ð ‹Ç À" ð ‹% À" ð ‹Š À" ð ‹› À" ð ‹´ À" ð ‹é À" ð ‹ ¿üÅÿ ‹ À" ð ‹> À" ð ‹B À" ð ‹W À" ð ‹r À" ð ‹t À" ð ‹ À" ð ‹Ÿ À" ð ‹¨ À" ð ‹¼ À" ð ‹Æ À" ð ‹Ø À" ð ‹ñ À" ð ‹ÿ À" ð ‹} À" ð ‹ë ¿üÅÿ ‹ ¿ÚŒ„ ‹ ¿üÅÿ ‹_ À" ð ‹w À" ð ‹‚ À" ð ‹¤ À" ð ‹* À" ð ‹` À" ð ‹ À" ð ‹¯ ¿Å»¨ ‹À À" ð ‹Î À" ð ‹ß À" ð ‹- À" ð ‹/ À" ð ‹O ¿üÅÿ ‹ À" ð ‹’ À" ð ‹ô À" ð ‹  À" ð ‹K À" ð ‹£ À" ð ‹	 À" ð ‹	) À" ð ‹	l À" ð ‹	¢ À" ð ‹	« À" ð ‹	´ À" ð ‹	ú À" ð ‹
+% À" ð ‹
+) ¿ÚŒ„ ‹
+L À" ð ‹
+U À" ð ‹
+‚ ¿üÅÿ ‹
+¹ À" ð ‹
+È ¿¬å Œ] ¿¬å Œ{ ¿¬å Œ ¿¬å Œo ¿¬å Œ¾ ¿¬å Œ
+L ¿•A “ ¿•A Ž¸ ¿†\ð  Ê ¾÷„9   ¿•A 
+È ¿•A ‘  ¿•A ’	V ¿•A “F ¿•A ”¦ ¿•A •w ¿ÉJ¡ –  ¿ÉJ¡ –  ¿ÉJ¡ –† ¿ÉJ¡ –À ¿ÉJ¡ –ì ¿ÉJ¡ –v ¿ÉJ¡ –¸ ¿ÉJ¡ –“ ¿ÉJ¡ –ê ¿ÉJ¡ –	‚ ¿•A —  ¿•A ˜Æ ¿•A ™Ë ¿_¥Ž š ‹ ¿_¥Ž š
+‘ ¿•A ›H ¿–Zî œÆ ¿–Zî œ· ¿–Zî œ÷ ¿–Zî œ
+È ¿•A  ¿•A ž
+— ¿†\ð Ÿ  ¿†\ð Ÿ 9 ¿†\ð ŸÀ ¿•A  ¹ ¿ˆ©Y ¡  ÀÉ ¡ r ÀÉ ¡ ¿¿³° ¡” ÀÉ ¡Î ¿¿³° ¡Þ ÀÉ ¡l ÀÉ ¡ ÀÉ ¡ ÀÉ ¡q ÀÉ ¡¸ ÀÉ ¡% ¿¿³° ¡t ÀÉ ¡y ÀÉ ¡ ÀÉ ¡ ÀÉ ¡š ÀÉ ¡× ¿¿³° ¡X ÀÉ ¡	 ¿¿³° ¡	œ ÀÉ ¡	° ÀÉ ¡
+‘ ¿È« ¢  ¿È« ¢ Z À?Æ ¢ ^ À?Æ ¢z À?Æ ¢× À?Æ ¢
+ À?Æ ¢Ô À?Æ ¢o À?Æ ¢“ ¿È« ¢; À?Æ ¢I À?Æ ¢L À?Æ ¢u ¿ùT ¢ À?Æ ¢• À?Æ ¢Û À?Æ ¢	* À?Æ ¢	2 ¿¥Ê0 ¢	7 À?Æ ¢	° ¿È« ¢
+O À?Æ ¢
+m ¿rÉž ¢
+È ¿áA £ 9 ¿¿UÆ £h À‘ £â ¿’ðe £  À‘ £ À‘ £0 À‘ £« À‘ £À À‘ £t À‘ £0 À‘ £x ¿^ £ À‘ £Ÿ À‘ £¢ À‘ £ ¿áA £[ ¿áA £l ¿áA £“ À‘ £µ À‘ £þ À‘ £	¿ ¿M7Ç £	ã ¿áA £
+Å ¿áA £
+È ¿† ¤  ¿Î–û ¤À ¿Î–û ¤Þ ¿Î–û ¤ð ¿Î–û ¤  ¿Î–û ¤Î ¿Î–û ¤	ð ¿GÃ? ¤
+‘ ½ã1E ¥ ³ ¿µvÍ ¥ × ¿•A ¦
+È ¿ÉJ¡ § ! ¿ÉJ¡ §: ¿ÉJ¡ §¾ ¿ÉJ¡ §Æ ¿ÉJ¡ §\ ¿ÉJ¡ §l ¿ÉJ¡ § ¿ÉJ¡ §, ¿ÉJ¡ §Î ¿ÉJ¡ §
+ ¿•A ¨' ¿¢Âz © â ¿¢Âz ©g ¿¢Âz ©§ ¿¢Âz ©[ ¿¢Âz ©
+L ¿Óm= ª Ô ¿Óm= ªâ ¿Óm= ªé ¿Óm= ª¸ ¿Óm= ª; ¿Óm= ª< ¿Óm= ªy ¿Óm= ªˆ ¿Óm= ªú ¿Óm= ª	7 ¿Óm= ª	e ¿Óm= ª
+q ¿*Šœ «  À%28 «  À%28 « ! À ôG « C À%28 « q À ôG « r À ôG « « À%28 « Á À ôG «À À ôG «Ë À%28 «Þ À%28 «ì À%28 «  À%28 «  À%28 «  ¿ÊÞ7 «· À%28 «¿ À%28 «ë À%28 «ð À%28 « À ôG « À ôG «z À%28 «¸ À ôG «÷ À%28 « À%28 «; À%28 «< À%28 «ñ À%28 «t À%28 «¶ À%28 «À ¿ß¯ «, À%28 «’ À%28 « À%28 «¬ À ôG «Û À%28 «ñ À%28 «	! À ôG «	# À ôG «	1 À%28 «	2 À%28 «	Y À%28 «	u À%28 «	– À%28 «	— À%28 «	¿ À%28 «	í ¿Ï «
+) À%28 «
+D À%28 «
+L À%28 «
+U À%28 «
+‘ À%28 «
+š À ôG «
+ž À%28 «
+È ¿×àS ¬ r ¿×àS ¬ Â ¿×àS ¬ë ¿0´4 ¬ ¿×àS ¬ ¿ZUí ¬j ¿dq ¬
+) ¿¬å ­  ¿¬å ­ë ¿¬å ­ó ¿¬å ­ ¿¬å ­¸ ¿¬å ­ñ ¿•A ® * ¿ª=F ¯  À
+yQ ¯ § À
+yQ ¯ ¯ À
+yQ ¯c ¿ÌvÀ ¯ì À
+yQ ¯ À
+yQ ¯& À
+yQ ¯: ¿ÌvÀ ¯_ À
+yQ ¯` À
+yQ ¯n ¿ª=F ¯t À
+yQ ¯… À
+yQ ¯– À
+yQ ¯5 À
+yQ ¯> À
+yQ ¯¿ À
+yQ ¯‡ À
+yQ ¯ À
+yQ ¯ À
+yQ ¯‡ À
+yQ ¯© À
+yQ ¯Ñ À
+yQ ¯Ò ¿ÌvÀ ¯Ý À
+yQ ¯á À
+yQ ¯ã À
+yQ ¯ù À
+yQ ¯	
+ À
+yQ ¯	% À
+yQ ¯	ô À
+yQ ¯
+I ¿•A °  ¿–Zî ±Æ ¾®–F ±“ ¿•A ²	¢ ¿‚á ³  ¿µvÍ ³ ¿µvÍ ³  ¿Yõ× ³
+È ¿_¥Ž ´Ç ¿_¥Ž ´	ü ¿†\ð µÃ ¿†\ð µB ¿†\ð µ
+È ¿•A ¶  ¾÷„9 ·  ¿†\ð · ¿•A ¸À ¿•A ¹h ¿•A º	— ¿¬å »  ¿¬å »Þ ¿¬å »  ¿¬å »
+‘ ¿HÒj »
+È ¿•A ¼¸ ¿†\ð ½  ¿†\ð ½ ˆ ¿†\ð ½
+È ¿Ë ¾  À	À} ¾  À	À} ¾ e À	À} ¾ © ¿Ë ¾  À	À} ¾” ¿Ë ¾À À	À} ¾Æ À	À} ¾) À	À} ¾i À	À} ¾¯ À	À} ¾& À	À} ¾s À	À} ¾Ë À	À} ¾R À	À} ¾V ¿Ë ¾ À	À} ¾( À	À} ¾X À	À} ¾‹ À	À} ¾ž À	À} ¾¶ À	À} ¾	— ¿Ë ¾
+m À	À} ¾
+~ ¿Ë ¾
+‘ À	À} ¾
+¨ ¿xÌy ¾
+È ¿_¥Ž ¿  ¿_¥Ž ¿¿ ¿_¥Ž À} ¿_¥Ž À
+œ ¿þhy Á  ¿}Ä Á 4 ¿þhy Á 9 ¿þhy Á  ¿þhy Á Á ¿“³ Á~ ¿µì˜ ÁÀ ¿þhy Á? ¿µì˜ Áf ¿þhy Á† ¿þhy Á  ¿þhy Áá ¿þhy Á, ¿þhy Á] ¿þhy ÁD ¿þhy Á) ¿µì˜ ÁÇ ¿þhy Á
+É ¾[˜ ÂÀ ¿•A Ã
+È ¿•Ì2 Ä  À @Ç Ä ‹ À @Ç Ä × À @Ç Ä  À @Ç ÄÞ À @Ç Ä² À @Ç Äç ¿¸­ Äð À @Ç Äb À @Ç Ä' À @Ç Äñ À @Ç Ä	C À @Ç Ä	Û À @Ç Ä	ê À @Ç Ä
+W À @Ç Ä
+‘ ¿<ó Ä
+È ¿–Zî Å` ¿–Zî Åµ ¿–Zî Å
+= ¿–Zî Å
+È ¿•A Æü ¿•A ÇÞ ¿•A È  ¿_¥Ž É0 ¿_¥Ž É
+[ ¿E‚a Ê  À¬ Ê  ¿èÜK Ê 9 À¬ Ê ‹ À¬ Ê ¢ À¬ Ê â À¬ Ê î À¬ Êz ¿èÜK Ê† À¬ Ê¾ À¬ ÊÃ ¿èÜK ÊÆ À¬ ÊØ À¬ Ê	 À¬ Ê\ À¬ Ê
+ À¬ Ê] ¿š=o Ê  À¬ Ê, À¬ Ê¶ À¬ Ê¸ À¬ Êj À¬ Êr ¿Æ¢Ð Êw À¬ Ê¿ À¬ Ê' À¬ Ê‰ À¬ Ê½ À¬ Ê« À¬ ÊÃ À¬ Êù À¬ Ê	t À¬ Ê
+! ¿èÜK Ê
+= À¬ Ê
+M À¬ Ê
+‘ À¬ Ê
+Ã ¿hê/ Ê
+È ¿•A Ë  ¿•A Ì	¿ ½º{Ì ÍÎ ¾[˜ Î
+± ¿–Zî Ï. ¿¾ Ïi ¿–Zî ÏÌ ¿•A Ð  ¿•A Ñ  ¿•A Ò
+È ¿–Zî Ó  ¿–Zî Ó0 ¿–Zî Ó	t ¿–Zî Ó
+  ÀÿÙ Ô G ÀÿÙ Ô L ÀÿÙ Ô ¥ ÀÿÙ Ô Ä ¿»JW Ô† ÀÿÙ Ô” ÀÿÙ ÔÆ ¿ÝƒÑ Ô× ÀÿÙ Ôå ¿¦yz Ô[ ÀÿÙ Ôn ÀÿÙ Ô ÀÿÙ Ô ¿ÝƒÑ Ô  ÀÿÙ Ôw ÀÿÙ Ô ÀÿÙ ÔQ ¿¦yz Ôo ÀÿÙ Ô… ¿»JW Ô ÀÿÙ ÔÖ ÀÿÙ Ôó ÀÿÙ Ô
+ ÀÿÙ Ô ÀÿÙ Ô7 ÀÿÙ ÔA ÀÿÙ ÔD ÀÿÙ ÔR ¿ÝƒÑ ÔX ÀÿÙ Ôo ÀÿÙ Ô˜ ÀÿÙ Ô	… ÀÿÙ Ô	“ ÀÿÙ Ô	Û ÀÿÙ Ô	ã ÀÿÙ Ô
+ ÀÿÙ Ô
+m ÀÿÙ Ô
+œ ÀÿÙ Ô
+¦ ÀÿÙ Ô
+È ¿ŠÈ Õ  ¿ò‰ ÕÃ ¿ò‰ Õ5 ¿ò‰ Õ ¿fÆ Õ¸ ¿ò‰ ÕÌ ¿‡ÓÀ ÕÛ ¿ò‰ Õø ¿ò‰ Õ	Ë ¿ò‰ Õ
+^ ¿ò‰ Õ
+È ¿•A Öù ¾[˜ ×  ¿Õ( Ø  ¿÷—¹ Ø¾ ¿¯Ø ØÀ ¿Œâ] ØÞ ¿p# Øì ¿÷—¹ Ø„ ¿÷—¹ Ø\ ¿÷—¹ ØC ¿÷—¹ Ø' ¿÷—¹ ØÈ ¿÷—¹ Ø
+‘ ¿•A Ù l ¿•A ÚÆ ¿¢Âz Û o ¿41 ÛŽ ¿¢Âz Û
+k ¿¢Âz Û
+‘ ¿_¥Ž Üì ¿_¥Ž Üi ¿•A Ýa ¿¤|ò Þ  ¿‚Cw Þ - ¿ìøÓ Þì ¿ìøÓ Þé ¿ìøÓ Þ ¿ìøÓ Þ  ¿ìøÓ ÞÎ ¿ìøÓ ÞÖ ¿ìøÓ Þ
+ ¿ìøÓ ÞÀ ¿¤|ò Þþ ¿ìøÓ Þ ¿¤|ò Þÿ ¿ìøÓ ÞÌ ¿=*‰ ß  ¿ÉJ¡ ßr ¿ÉJ¡ ß  ¿ÉJ¡ ß	O ¿ÉJ¡ ß
+‘ ¿ÉJ¡ ß
+Å ¿€Î¿ ß
+È ¿†\ð à ! ¿†\ð à¾ ¿†\ð à
+‘ ¿†\ð áÓ ¿†\ð á	n ¿†\ð á	t ÀÓ¤ â  ¿hÇ! â  ÀÓ¤ â ? ÀÓ¤ â C ¿Ó+h â â ÀÓ¤ â ¿Ó+h âf ÀÓ¤ â° ÀÓ¤ âÃ ¿Ó+h âþ ÀÓ¤ â ÀÓ¤ â ÀÓ¤ âM ÀÓ¤ â„ ÀÓ¤ â ÀÓ¤ â ÀÓ¤ â¤ ÀÓ¤ â ÀÓ¤ â¸ ÀÓ¤ â ÀÓ¤ âº ÀÓ¤ â ÀÓ¤ â¾ ÀÓ¤ âF ÀÓ¤ â} ÀÓ¤ â¿ ÀÓ¤ âÎ ÀÓ¤ â	6 ÀÓ¤ â	n ÀÓ¤ â	t ¿Ó+h â	Ú ÀÓ¤ â	ô ÀÓ¤ â
+ ÀÓ¤ â
+ ÀÓ¤ â
+Ã ¿•A ã“ ¿•A ä
+! ¿_¥Ž å ¤ ¿_¥Ž åÁ ¾[˜ æ  ¿•A ç * ¿_¥Ž èˆ ¿_¥Ž è
+l ¿•A éŸ ¿•A ê ] ¿•A ëÈ ¿Yõ× ì o ¿µvÍ ì u ¿µvÍ ìŸ ¿µvÍ ìÆ ¿µvÍ ì( ¿µvÍ ì ¿HÒj íì ¿¬å í× ¿_t í' ¿•A î  ¿•A ï  ¿_¥Ž ðì ¿_¥Ž ð	¿ ¿•A ñ. ¿•A ò. ¿é÷e ó ¯ ¿é÷e ó  ¿é÷e óÀ ¿é÷e ó[ ¿é÷e óô ¿é÷e óù ¿é÷e ó¶ ¿é÷e óÔ ¿é÷e ó“ ¿é÷e ó  ¿gZ ó7 ¿é÷e ó
+ ¿é÷e ó
+Ã ¿ìøÓ ô  ¿ìøÓ ô  ¿ìøÓ ô‚ ¿ìøÓ ô° ¿ìøÓ ôì ¿¤|ò ôí ¿ìøÓ ô ¿¤|ò ô ¿ìøÓ ô? ¿ìøÓ ôË ¿ìøÓ ô¿ ¿¤|ò ô× ¿ìøÓ ôà ¿ìøÓ ô	O ¿ìøÓ ô
+‘ ¿ìøÓ ô
+È ¿Ão? õ[ ¿Ão? õç ¿Ão? õL ¿Ão? õo ¿Ão? õÖ ¿Ão? õ ¿Ão? õ( ¿Ão? õX ¿Ão? õ
+ ¿•A öÌ ¿_¥Ž ÷ ¢ ¿_¥Ž ÷ë ¿Yõ× ø  ¿µvÍ øÀ ¿Yõ× øÞ ¿µvÍ ø` ¿µvÍ ø¸ ¿•A ù	 ¿•A úå ¿•A û, ¿•A ü ¿_¥Ž ý  ¿_¥Ž ýÆ ¿•A þ  ¿_¥Ž ÿQ ¿_¥Ž ÿ' ¿Óm=  [ ¿Óm= ˜ ¿Šñ\ t ¿Óm=  ¿Óm= ç ¿Óm= x ¿Óm= ¢ ¿Óm= ò ¿Óm= Ž ¿Óm= 	* ¿Óm= 
+£ ¿•AÞ ¿•A	F À.x * ¿^„e ¿9_”f ¿>2o¾ ¿^„e	6 ¿›§”	] À.x
+1 ¿½á
+L ¿†\ð$ ¿†\ðt ¿†\ðè ¿•A' ¾÷„9 9 ¿†\ð
+‘ ¿•A
+ ¿•A' ¿_¥Ž	Þ ¿_¥Ž	§ ¿–Zî
+¾ ¿–Zî
+À ¿–Zî
+“ ¿–Zî
+	ê ¿–ZîÞ ¾®–F' ¿_¥Ž ¢ ¿_¥Ž
+‘ ¿¼ã 9 ¿¼ãf ¿¼ãÃ ¿¼ãØ ¿¼ã[ ¿¼ã ¿¼ã´ ¿¼ã¶ ¿hÎfU ¿¼ã¦ ¿¼ã ¿¼ã ¿¼ã± ¿¼ãú ¿¼ã” ¿•AÞ ¿•AÞ ¿•AÈ ¿¬åÁ ¿¬å. ¿¬å; ¿¬åŽ ¿¬åÔ ¿¬å	f ¾.RÊ  ¿¬åÞ ¾«ìñ  ¿N›x 9 ¿þhy ¿þhy ¿þhy  ¿þhyÍ ¿µì˜Û ¿þhy
+‘ ¿þhy
+¤ ¿þhy
+È ¿¢Âz o ¿¢Âz, ¿41Ó ¿¢ÂzY ¿•AQ ¿†\ðò ¿†\ð
+ ¿†\ð
+È ¾µ{vì ¿¬åÎ ¿¬å
+‘ ¿—Xè  ¿ßÔÉÀ ¾ØžÞ ¿ßÔÉ. ¿ßÔÉl ¿ßÔÉÌ ¿ßÔÉ	0 ¿ßÔÉ
+s ¿•A
+± ¿_¥Žì ¿_¥Žð ¾[˜Þ ¿•A‡ ¿•A' ¿•A„ ¿Ão?   ¿Ão? ¾ ¿Ão? À ¿Ão?  ¿Ão?  ¿Ão? È ¿Ão? ó ¿Ão? 	  ¿Ão? 	 ¿•A!
+L ¿•A"Y ¿•A# m ¿•A$E ¿•A%Þ ¿•A&. ¿•A'÷ ¾[˜(
+‘ ¿•A)L ¿†\ð*  ¿†\ð*Æ ¿†\ð*
+M ¾]<œ+. ¿•A, ‹ ¿•A-¾ ¿•A.  ¿•A/Š ¿•A0Õ ¿•A1  ¿•A2û ¿•A3  ¿†\ð4Q ¿†\ð4. ¿†\ð4' ¾[˜5è ¿•A6 ¿¢Âz7Þ ¿¢Âz7X ¿417û ¿¢Âz7	O ¿_¥Ž8 ¿_¥Ž8. ¿•A9$ ¿ÉJ¡: ¡ ¿ÉJ¡:Þ ¿ÉJ¡:' ¿€Î¿:q ¿ÉJ¡:Ú ¿ÉJ¡:	7 ¿€Î¿:	` ¿ÉJ¡:
+° ¿•A;  ¿¼ã<ö ¿hÎf<Y ¿¼ã<š ¿¼ã<Ì ¿¼ã<, ¿hÎf<
+‘ ¿•A=
+‘ ¿•A>
+‘ ¿_¥Ž? ¿_¥Ž?
+L ¿•A@× ¾]<œA	( ¿_¥ŽBÀ ¿_¥ŽB
+± ¿•AC  ¾]<œDÜ ¾#ˆE  ¿×àSE ‹ ¿×àSE¿ ¿×àSE÷ ¿×àSE
+‘ ¿•AF  ¿•AG% ¿•AHÎ ¿•AI	! ¾÷„9Jè ¿†\ðJ	v ¿_¥ŽK	¢ ¿_¥ŽK
+‘ ¿†\ðL  ¿†\ðLÆ ¿†\ðL  ¿•AM
+‘ ¿¬åNª ¿¬åN ¿¬åN ¿¬åN] ¿¬åNa ¿¬åN	æ ¿†\ðOž ¾÷„9O
+‘ ¿_¥ŽPy ¿_¥ŽP
+‘ ¿ ÞQ  À©Q  À©Q 9 À©Q ¢ ¿ËèQÀ À©QÆ ¿¢œÅQì À©Q· À©Q À©Q. À©Q÷ À©Q À©Q	 À©Q	0 À©Q	O ¿ÄÖ@Q	t À©Q	ð À©Q
+` À©Q
+‘ À©Q
+• À©Q
+È ¿_¥ŽR	 ¿_¥ŽR	É ¿•AS
+ ¿_¥ŽT“ ¿_¥ŽT
+Å ¿•AU ‹ ¾à4wV  ¿¢ÂzV
+ ¿¢ÂzV	t ¿¼ãW f ¿¼ãW¤ ¿¼ãWÎ ¿¼ãW§ ¿¼ãW¸ ¿¼ãW ¿¼ãW' ¿¼ãW	f ¿†\ðX¸ ¿†\ðXñ ¿†\ðX ¿†\ðY  ¿†\ðY¸ ¿†\ðY ¿ìøÓZJ ¿ìøÓZ¶ ¿¤|òZ= ¿ìøÓZ ¿¤|òZ’ ¿ìøÓZ[ ¿ìøÓZ	e ¿ìøÓZ	á ¿ìøÓZ
+H ¿ìøÓZ
+L ¿—[Z
+È ¿•A[	— ¿_¥Ž\  ¿_¥Ž\ * ¿ãk;]  ¿ãk;] 5 ¿ãk;]À ¿ãk;]› ¿šïZ]¦ ¿ãk;]ý ¿ãk;]d ¿ãk;]6 ¿ãk;]t ¿ãk;] ¿ãk;]Â ¿ãk;]	I ¿qk¾]	ú ¿_¥Ž^  ¿_¥Ž^t ¿–Zî_Y ¿–Zî_Š ¿–Zî_; ¿–Zî_a ¿–Zî`	^ ¾®–F`
+L ¿_¥Ža	¿ ¿_¥Ža	× ¿_¥Žb: ¿_¥Žb÷ ¿•Ac ¿_¥Ždd ¿_¥Žd« ¿_¥Že  ¿_¥Že§ À%w£f  À%w£f ‹ À9³f » À9³f Ø À%w£f ÷ À%w£f2 À%w£f4 À%w£fr À%w£f– À%w£fÑ À%w£fÞ À%w£fþ À%w£f À%w£f ¿³ÔŠf) À%w£f0 À%w£fC À%w£fF À%w£fM À9³fO À%w£fY À9³fZ À%w£f^ À9³ff À%w£fm À%w£fs À%w£fœ À%w£fŸ À%w£fÉ À%w£f¿ À%w£fÐ À%w£fð À%w£f À%w£f¶ ¿¡B!f¸ À%w£f ¿à9ëf À%w£f! À%w£f\ À9³f À%w£fŽ À%w£f— À%w£f¡ À%w£f¢ À%w£f¹ À%w£f» À9³fË À%w£fÑ À%w£fã À%w£fó À%w£f À%w£f À%w£f ¿à9ëf À%w£f- À%w£f0 À%w£f9 À%w£f= À%w£f> À%w£fA À%w£fG À9³f` À%w£fw À%w£f“ À9³f¾ À%w£f­ ¿à9ëfÃ À%w£fÛ À9³f	6 À%w£f	Ã À%w£f	ô À%w£f
+0 ¿à9ëf
+^ À%w£f
+‘ À%w£f
+’ ¿¢Âzg ú ¾à4wgK ¿¢Âzg
+‘ ¿›§”h  À.xh * À.xh Ê À.xh ø À.xhì À.xh( À.xh„ À.xh À.xh  À.xh À.xhž ¿½áh ¿>2oh4 À.xhX À.xh	° À.xh	í À.xh
+L À.xh
+‘ À.xh
+Ç ¿›§”h
+È ¿_¥Ži ‹ ¿_¥Žií ¿_¥Žj 0 ¿_¥Žjd ¿•Ak
+‘ ¿•Al
+È ¿¢Âzm  ¿¢Âzm C ¿¢Âzm$ ¿¢ÂzmŠ ¿¢ÂzmÛ ¿•An
+‘ ¿•Ao ¿¢Âzp  ¿¢Âzp ¯ ¿¢Âzp¸ ¿¢ÂzpÆ ¿¢Âzp
+È ¿•Aq ¯ ¿•Ar  ¿•As ‹ ¿•AtÀ ¿•Au  ¿†\ðv  ¿†\ðv· ¿†\ðv¾ ¾´QDw ¿¡{„w ¾´QDw	‰ ¿•Ax
+ž ¿•Ay
+~ ¿ÚF™z  ¿ÚF™z  Àa=z ² Àa=z Å Àa=zE Àa=zù Àa=zL Àa=zÞ Àa=z& Àa=z+ Àa=z4 Àa=z] Àa=z Àa=z  Àa=z  Àa=zÝ Àa=zð Àa=z Àa=z; Àa=zA ¿¸zu Àa=zš Àa=z¡ Àa=zÜ Àa=zè Àa=zú Àa=z Àa=zŒ Àa=z¯ ¿ÚF™z Àa=zf ¿ÚF™zi Àa=z… Àa=z	7 Àa=z	? Àa=z	y Àa=z	­ Àa=z	É Àa=z	Û Àa=z
+J Àa=z
+‘ ¿¸z
+È ¿•A{p ¿•A|
+1 ¿•A}  ¿†\ð~  ¿†\ð~ ¿†\ð~	v ¿–ZîÃ ¿–Zî} ¿¾
+È ¿hÎf€Þ ¿¼ã€ì ¿¼ã€“ ¿¼ã€	9 ¿¼ã€	: ¿hÎf€
+1 ¿•A
+\ ¿Î–û‚ ô ¿†‚g ¿Î–û‚Ä ¿†‚' ¿Î–û‚€ ¿Î–û‚× ¿Î–û‚	} ¿†‚	í ¿•Aƒ[ ¾[˜„¤ ¿•A…ï ¿íÄÈ†  À U† - À U† ¿íÄÈ†Æ ¾ú£¾†à ¿¶ºp†æ À U† ¿OS[†  ¿íÄÈ†Ö À U†. À U†j À U†² ¿íÄÈ†÷ ¿Ë‹M†  ¿íÄÈ†i À U†þ À U†þ À U† À U†Ü À U†ò À U†	 ¿Œ“ƒ†
+ À U†
+È ¿•A‡ ¿•Aˆë ¿•A‰7 ¿_¥ŽŠ ¿_¥ŽŠ	O ½º{Ì‹³ ¿•AŒ	— ¿—[ ó ¿¤|òÚ ¿ìøÓ‚ ¿ìøÓ ¿ìøÓ— ¿ìøÓð ¿ìøÓ  ¿¤|ò	% ¿ìøÓ	à ¿¤|ò
+± ¿•AŽ ¿•A
+È ¿_¥Ž¦ ¿_¥Ž ¿•A‘ ê ¿•A’
+ ¿†\ð“  ¿†\ð“ ! ¿†\ð“' ¿×àS”6 ¿×àS”7 ¿dq”  ¿×àS”‡ ¿×àS”¸ ¿×àS”ú ¿×àS”z ¿×àS”¹ ¿×àS”¾ ¿×àS”ü ¿×àS”3 ¿×àS”
+È ¿_¥Ž•_ ¿_¥Ž•w ¿•A–× ¿–Zî—  ¿¾—ì ¿–Zî—y ¿†\ð˜  ¿†\ð˜« ¿†\ð˜Ö ¿•A™ì ¿_¥Žš 0 ¿_¥Žš1 ¿•A›¸ ¿_¥ŽœQ ¿_¥Žœ™ ¿•A ¿–Zîž  ¿–Zîž¾ ¿–ZîžÀ ¿–Zîž
+‘ ¿†\ðŸ  ¿†\ðŸ> ¿†\ðŸ¤ ¿•A 
+È ¿_¥Ž¡  ¿_¥Ž¡
+È ¿•A¢Ï ¿_¥Ž£  ¿_¥Ž£  ¾÷„9¤  ¿†\ð¤ò ¿•A¥
+È ¿¬å¦š ¿¬å¦ò ¿¬å¦Ÿ ¿¬å¦» ¿¬å¦ ¿¬å¦¸ ¿–Zî§ ¢ ¿–Zî§‰ ¿¾§
+‘ ¿•A¨
+R ¿•A© ¿†\ðªÖ ¿†\ðªi ¿†\ðª
+‘ ¿•A«	O ¿•A¬| ¿_¥Ž­	- ¿_¥Ž­
+ ¿•A®	Ð ¿•A¯
+È ¿~€a°  À-w° A ¿«¥’° ¾ ¿Íß°Q À-w°Æ À-w°b ¿«¥’°ã À-w°¸ À-w°  ¿Íß°P À-w°w À-w° À-w°º ¿Íß°Ì À-w°× ¿^.k°	# À-w°	r ¿Íß°	s À-w°	z À-w°	ð ¿«¥’°
+‘ ¿†\ð±… ¿†\ð±Ì ¿†\ð±
+‘ ¿¢Âz²¸ ¿¢Âz²‚ ¿41²© ¿¢Âz²	$ ¿¢Âz³ e ¿¢Âz³ ¿41³ì ¿¢Âz³Ê ¾[˜´H ¿†\ðµ	Z ¿†\ðµ	Ú ¿†\ðµ
+È ¿•A¶
+È ¿•A·z ¿•A¸¼ ¿¢Âz¹  ¿¢Âz¹Å ¿¢Âz¹^ ¿¢Âz¹	& ¿¢Âz¹
+@ ¿•Aº] ¿uæ»» e ¿Ão?» ¿Ão?»« ¿Ão?»[ ¿Ão?»; ¿Ão?»È ¿Ão?»O ¿Ão?»f ¿•A¼' ¾xÞö½  ¿Ûþó½ u ¿“ƒ½Þ ¿Ûþó½, ¿Ûþó½Ã ¿Ûþó½ñ À=Ä¾  À=Ä¾ Ô À=Ä¾ Ø ¿°õP¾ ì À=Ä¾ õ ¿ÅÆ,¾] À=Ä¾‘ ¿çÿ§¾× À=Ä¾: À=Ä¾O À=Ä¾[ ¿çÿ§¾Ó À=Ä¾ ¿çÿ§¾J À=Ä¾a À=Ä¾Ì ¿çÿ§¾/ À=Ä¾3 À=Ä¾g À=Ä¾n À=Ä¾t À=Ä¾Œ À=Ä¾ž À=Ä¾° ¿çÿ§¾ À=Ä¾: À=Ä¾J À=Ä¾" À=Ä¾S ¿çÿ§¾e ¿™`Ë¾’ ¿ÅÆ,¾ À=Ä¾ ¿°õP¾l ¿çÿ§¾× ¿çÿ§¾ú À=Ä¾	= À=Ä¾	e À=Ä¾	‚ À=Ä¾	Ï À=Ä¾	Ù À=Ä¾
+± ¿•A¿B ÀCF&À ( ÀëxÀ ) ¿ïqŽÀ 9 ÀCF&À : ÀCF&À M ÀCF&À R ÀCF&À S ÀCF&À o ÀëxÀ r ÀCF&À u ÀCF&À Ÿ ÀCF&À ¡ À5À ¢ ÀCF&À £ ÀCF&À © À5À ± ÀCF&À · ÀCF&À Ô ÀCF&À ÀCF&À ÀCF&À  ÀCF&À! ÀCF&À: ÀCF&ÀL ÀCF&ÀZ ÀCF&À] À5Àf À5Àh ÀëxÀw ÀCF&À‚ ÀCF&À¾ À5ÀÃ ÀCF&ÀÆ ÀCF&ÀÑ ÀCF&ÀÞ ÀCF&Àß ÀCF&Àç ÀëxÀì ÀCF&À ÀCF&À ÀCF&À! ÀCF&À+ ÀCF&ÀV ÀCF&À{ ÀCF&À| ÀCF&À° ÀCF&ÀÄ ¿ïqŽÀ× ÀëxÀÞ ÀCF&Àé ÀCF&Àë À5À ÀCF&À2 À5ÀO ÀCF&À[ ÀCF&À\ ÀCF&À] ÀCF&Àt ÀCF&Àu À5À† À5À‡ À5ÀÁ ÀCF&ÀÒ ¿™“xÀð ÀCF&Àó ÀCF&À÷ ÀCF&À ÀCF&À ÀCF&À1 ÀCF&À; ÀCF&ÀA ÀCF&ÀD ÀCF&ÀH ÀCF&ÀZ ÀCF&À] ÀCF&Àf ÀCF&Àq ÀCF&À† ÀCF&ÀŸ ÀCF&À© ÀCF&À¬ ÀCF&À¶ ÀëxÀ¸ ÀCF&ÀÀ ÀCF&ÀÌ ÀCF&ÀÎ ÀCF&Àé ÀCF&Àê À5Àò À5Àõ ÀCF&Àú ¿ïqŽÀû ÀCF&À ÀCF&À ÀëxÀ ÀCF&À6 ÀCF&À; ÀCF&À< ÀCF&ÀB ÀCF&ÀN ÀCF&À] ÀCF&Àc ÀCF&Àw ÀCF&À| ÀCF&À~ ÀCF&À… ¿ïqŽÀ‡ ÀCF&À” ÀCF&À— ÀCF&Àœ ÀCF&À° ÀCF&À½ ÀCF&À¾ ÀCF&ÀÖ ÀCF&Àó ÀCF&À ÀCF&À ÀCF&À ÀCF&À ÀCF&À0 ÀCF&À1 À5ÀO ÀCF&À[ ÀCF&À` ÀCF&Ào ÀCF&À| ÀCF&À€ ÀCF&À… À5Àˆ ÀCF&À‘ ÀCF&À’ ÀCF&À“ ÀCF&ÀŸ ÀCF&À¥ ÀCF&À² À5ÀÀ ÀCF&ÀÎ ÀCF&ÀÏ ÀCF&Àæ ÀCF&Àò À5Àó ÀCF&À0 ÀCF&À4 ÀCF&ÀF ÀCF&À€ À5À À5ÀŸ ÀCF&À  ÀCF&À¢ ÀCF&À¾ ÀCF&ÀÉ ÀCF&ÀÐ ÀCF&ÀÕ ÀCF&Àô ÀCF&Àù ÀCF&Àû ÀCF&À ÀCF&À ÀCF&Àa ÀCF&Àn ÀCF&À‚ ÀCF&Àƒ ÀCF&ÀŽ ÀCF&À· ÀCF&ÀÀ À5ÀÅ ÀCF&ÀÌ ÀëxÀÔ ÀëxÀÛ ÀCF&ÀÝ ÀCF&Àß ÀCF&À	 ÀCF&À	! ÀCF&À	, ÀCF&À	1 ÀCF&À	7 ÀCF&À	A À5À	\ À5À	] ÀCF&À	a ÀCF&À	€ ÀCF&À	… ÀCF&À	‹ ÀCF&À	“ ÀCF&À	• ÀCF&À	 ÀCF&À	  ÀCF&À	» ÀCF&À	¿ ÀCF&À	Ï ÀCF&À	Ú ÀCF&À	ß ÀCF&À	ì ÀCF&À	ü ÀëxÀ
+ ÀCF&À
+ ÀCF&À
+ À5À
+) ÀCF&À
+. ÀCF&À
+/ ÀCF&À
+9 À5À
+F Àƒ	À
+L ÀCF&À
+U ÀCF&À
+Y ÀCF&À
+† ÀëxÀ
+‘ ÀCF&À
+¬ ÀCF&À
+± ÀCF&À
+¸ ÀCF&À
+À ¿É©7À
+È ¿¿³°ÁÀ ÀÉÁÆ ÀÉÁÞ ¿¿³°Á· ÀÉÁð ÀÉÁú ¿¿³°Á. ¿¿³°ÁÈ ¿¿³°Á ÀÉÁr ÀÉÁÎ ÀÉÁ  ÀÉÁP ÀÉÁ	 ¿z5Á	á ¿¿³°Á
+‘ ÀÉÁ
+µ ¿A×²Á
+È ¾[˜Â  À%w£Ã  À%w£Ã Ó À9³Ã Ø À%w£Ã Û À%w£Ã ÿ À9³Ã	 À%w£Ã ¿à9ëÃ À%w£Ã+ À%w£Ãõ À9³Ã À%w£Ã	 À%w£Ã À%w£Ã À%w£Ã À%w£Ã! ¿ËiÃ) À%w£Ã/ À%w£Ã? À%w£Ã@ ¿ËiÃF À%w£ÃI À9³ÃP ¿à9ëÃU À%w£ÃW ¿³ÔŠÃZ À%w£Ã À%w£Ã… À%w£ÃŽ À%w£ÃŸ À9³Ã¡ À%w£Ã¥ À%w£Ã¸ À%w£ÃÀ À%w£Ãé À%w£Ã* À%w£Ã˜ ¿à9ëÃð À%w£Ã­ ¿ËiÃ¸ À%w£Ã À%w£Ã À9³Ã À9³Ã À%w£Ã— À%w£Ã± À%w£Ãº À%w£ÃÅ À%w£ÃÏ À%w£ÃÔ À%w£ÃÜ À%w£Ãæ À%w£Ã À%w£Ã À%w£Ã À%w£Ã1 À%w£Ã2 À%w£Ã8 À9³Ã> À%w£ÃV À%w£ÃZ À%w£Ã\ À%w£Ãf À%w£Ãi À%w£Ãx À%w£Ã¾ À%w£Ã  À9³Ã* À9³Ã× À%w£Ã	 À%w£Ã	æ À%w£Ã
+, À%w£Ã
+4 À%w£Ã
+S ¿•AÄ	0 ¿_¥ŽÅš ¿_¥ŽÅ ¿æ‹mÆ  ÀFç’Æ + ¿ö´hÆ C ÀFç’Æ S À"©¢Æ Y ÀFç’Æ Z ÀFç’Æ ^ ÀFç’Æ o ÀFç’Æ | ÀFç’Æ ‰ ÀFç’Æ – ¿¿8*Æ £ ÀFç’Æ ¥ ÀFç’Æ Ä À$vÆ Ô ÀFç’Æ à ÀFç’ÆZ ÀŒåÆ] ÀFç’Æp ÀFç’Æ ÀFç’Æ† À"©¢ÆÁ ÀFç’ÆÇ ÀFç’ÆÚ ¿ü^Æâ ¿VWÆ× ÀFç’ÆØ ÀFç’Æé ÀFç’Æí ¿ä!ÿÆñ ÀFç’Æø ÀFç’Æû ÀFç’Æ ÀFç’Æ ÀFç’ÆI ÀFç’Æ\ ÀŒåÆn À"©¢Æt À"©¢Æ{ ÀFç’Æ ÀFç’Æ ÀFç’Æ¡ ÀFç’Æ® À"©¢Æµ À"©¢Æ· ÀFç’ÆÉ ÀFç’ÆÎ ÀFç’Æ À"©¢Æ
+ ÀFç’Æ ÀFç’Æ ÀFç’Æ ÀFç’Æ  ÀFç’Æ" ÀFç’Æe ÀFç’Æ} ÀFç’Æ† ÀFç’Æ¸ ÀFç’Æº ÀFç’ÆØ ÀFç’Æå ÀFç’Æé ÀFç’Æð ÀFç’Æ ÀFç’Æ ÀFç’Æ4 ÀFç’Æ5 ÀFç’ÆC ÀFç’ÆD ÀŒåÆQ ÀŒåÆc ÀFç’Æm À"©¢Æt ÀFç’Æ| ÀŒåÆ“ ÀFç’Æ¤ ÀFç’Æ¾ ÀFç’Æ, ÀFç’Æ/ À$vÆ6 ÀŒåÆe ÀFç’Æi ÀFç’Æq ÀFç’Æw ÀFç’Æ ÀFç’Æ‹ ÀFç’ÆŽ ÀFç’Æ² À"©¢Æº ÀFç’Æ¾ ÀFç’ÆÊ ÀFç’ÆÔ ÀFç’Æê ÀŒåÆë ÀFç’Æí ÀŒåÆ ¿ö´hÆ ÀFç’Æ À$vÆ" ÀFç’Æ# ÀFç’ÆO ÀFç’ÆX ÀFç’Æf ÀFç’Æl À"©¢Æo ÀFç’Æx À"©¢Æ{ À"©¢Æ… ÀFç’Æ“ ÀFç’Æ ÀFç’ÆÄ ÀFç’ÆÐ ÀFç’ÆÔ À"©¢Æ× ÀFç’ÆÚ ¿Ê_æÆÛ ÀFç’Æá ÀFç’Æú À$vÆ	 ÀŒåÆ	! ÀFç’Æ	# ÀFç’Æ	% ¿µîÒÆ	* ÀFç’Æ	+ À$vÆ	7 ÀFç’Æ	= À"©¢Æ	C ÀFç’Æ	e ÀFç’Æ	l À"©¢Æ	| À"©¢Æ	 ÀFç’Æ	… ÀFç’Æ	† À"©¢Æ	Š ÀFç’Æ	“ ÀFç’Æ	› À"©¢Æ	¦ ÀŒåÆ	¯ ÀFç’Æ	° ÀFç’Æ	É À$vÆ	Û ÀFç’Æ	Ü ÀFç’Æ	ÿ ¿ö´hÆ
+  ÀFç’Æ
+ À"©¢Æ
+ ÀFç’Æ
+J ÀFç’Æ
+M À$vÆ
+O À"©¢Æ
+b ÀFç’Æ
+~ ÀFç’Æ
+‰ ÀFç’Æ
+° À"©¢Æ
+± ÀFç’Æ
+´ ÀŒåÆ
+È À"©¢Æ
+Í ¿_¥ŽÇ ‹ ¿_¥ŽÇ
+ ¿•AÈ	É ¿•AÉÀ ¿€Î¿Ê  ¿ÉJ¡ÊÀ ¿ÉJ¡ÊÉ ¿ÉJ¡Ê  ¿ÉJ¡Ê¦ ¿ÉJ¡Ê% ¿ÉJ¡Ê9 ¿ÉJ¡Êk ¿ÉJ¡Ê
+È ¿†\ðËë ¿†\ðË­ ¿†\ðË
+L ¿Zå5Ì  ¿ìøÓÌ ! ¿ìøÓÌ 9 ¿ìøÓÌ ‹ ¿¤|òÌÀ ¿ìøÓÌÌ ¿ìøÓÌò ¿ìøÓÌ” ¿ìøÓÌ· ¿ìøÓÌ. ¿ìøÓÌ` ¿ìøÓÌ	O ¿ìøÓÌ	… ¿ìøÓÌ
+‘ ¿ìøÓÌ
+È ¿_¥ŽÍ	¿ ¿_¥ŽÍ
+ ¿þhyÎ £ ¿þhyÎh ¿þhyÎÀ ¿µì˜ÎÎ ¿þhyÎ& ¿þhyÎ  ¿þhyÎ· ¿þhyÎ¾ ¿þhyÎt ¿þhyÎñ ¿þhyÎ¤ ¿µì˜Î ¿þhyÎx ¿þhyÎ¾ ¿þhyÎî ¿þhyÎ ¿þhyÎ€ ¿þhyÎ	 ¿þhyÎ	o ¿þhyÎ
+… ¿þhyÎ
+‘ ¿“³Î
+È ¿¬åÏ  ¿¬åÏC ¿¬åÏ. ¿¬åÏÆ ¿¬åÏ	o ¿¬åÏ	t ¿•AÐ, ¿tÑ  ¿ßÔÉÑ 9 ¿ßÔÉÑÆ ¿ßÔÉÑn ¿ßÔÉÑ ¿ßÔÉÑ. ¿ßÔÉÑj ¿—XèÑ' ¿ßÔÉÑ	A ¿ßÔÉÑ
+ ¿_¥ŽÒ ‹ ¿_¥ŽÒ§ ¿_¥ŽÓf ¿_¥ŽÓ§ ¿¼ãÔ B ¾¯vÔh ¿•AÕ ¿•AÖ‚ ¿•A×	z ¿–ZîØ  ¿–ZîØ £ ¿–ZîØ‰ ¿–ZîØ	™ ¿•AÙ
+È ¿ïÒÇÚ  ¿ïÒÇÚ… ¿ïÒÇÚÀ ¿ïÒÇÚù ¿ïÒÇÚ	 ¿ïÒÇÚ÷ ¿ïÒÇÚo ¿ïÒÇÚw ¿ïÒÇÚ¤ ¿ïÒÇÚ ¿ïÒÇÚ* ¿§VæÚÿ ¿…kÚz ¿ïÒÇÚ	­ ¿ïÒÇÚ	¿ ¿§VæÚ
+Å ¿_¥ŽÛ ð ¿_¥ŽÛ
+‘ ¿•AÜ ¿•AÝ	] À9"—Þ  ÀÇéÞ " À9"—Þ ) À9"—Þ L Àä¦Þ o À9"—Þ u À9"—Þ ‡ À9"—Þ £ ¿¨úŽÞ « À9"—Þ À À9"—Þ Õ À9"—Þ À9"—ÞZ À9"—Þh Àä¦Þ” À9"—Þ¥ À9"—Þ¶ À9"—Þ» À9"—ÞÁ À9"—ÞÎ Àä¦ÞÛ ¿µbÞ× ¿¨úŽÞÜ Àä¦Þí À9"—Þ
+ À9"—Þ À9"—Þ+ À9"—ÞE À9"—ÞW À9"—Þi Àä¦Þl Àä¦Þt À9"—Þ† À9"—Þ— ÀÇéÞ  À9"—Þ· Àä¦Þó À9"—Þö À9"—Þ	 À9"—Þ. À9"—Þ; À9"—ÞX À9"—Þt Àä¦Þ~ À9"—Þ© ÀÇéÞ¯ ÀÇéÞ² À9"—Þ¸ À9"—ÞÐ À9"—ÞÕ À9"—ÞÛ À9"—Þñ ¿È˜	Þ À9"—Þ ÀÇéÞ Àä¦Þ; À9"—ÞV À9"—Þm À9"—Þo À9"—Þq À9"—Þ| À9"—Þ~ À9"—Þ— ¿ò¾öÞª À9"—Þ¯ À9"—Þ± À9"—Þ³ Àä¦Þ¹ À9"—Þº À9"—ÞÊ À9"—ÞØ À9"—Þ À9"—Þ À9"—Þ9 À9"—ÞU À9"—Þ€ À9"—Þ† À9"—Þ³ À9"—ÞÃ À9"—ÞÉ À9"—ÞÖ À9"—Þò À9"—Þó À9"—ÞS À9"—ÞU À9"—ÞV À9"—Þ^ À9"—Þ` À9"—Þb À9"—Þq Àä¦Þz À9"—Þ| Àä¦Þ Àä¦ÞŽ À9"—Þ— À9"—ÞŸ À9"—ÞÆ À9"—ÞÊ À9"—ÞÔ À9"—Þß À9"—Þâ À9"—Þ ÀÇéÞ À9"—Þ À9"—Þ" Àä¦Þ( À9"—Þ0 À9"—Þ2 À9"—Þ@ À9"—ÞX À9"—Þ^ À9"—Þa À9"—Þ{ Àä¦Þ˜ À9"—Þ® À9"—ÞË À9"—ÞÑ À9"—ÞÔ À9"—ÞÛ À9"—Þé À9"—Þú À9"—Þ	' Àä¦Þ	5 À9"—Þ	B Àä¦Þ	G À9"—Þ	e À9"—Þ	‹ À9"—Þ	œ À9"—Þ	¦ À9"—Þ	Ì À9"—Þ	õ À9"—Þ	ÿ À9"—Þ
+ À9"—Þ
+F À9"—Þ
+h À9"—Þ
+i Àä¦Þ
+q À9"—Þ
+‚ À9"—Þ
+‰ À9"—Þ
+ À9"—Þ
+ Àä¦Þ
+ž Àä¦Þ
+È ¿_¥Žße ¿_¥Žß
+Ÿ ¾f·zà  Àˆ¡à ! ¿™‹
+à 9 Àˆ¡à â Àˆ¡àf Àˆ¡à† Àˆ¡àÀ Àˆ¡àì Àˆ¡à“ Àˆ¡à Àˆ¡àX Àˆ¡àš Àˆ¡àè Àˆ¡à	] Àˆ¡à
+Ã ¿_¥Žá× ¿_¥Žá
+ ¿ãzâ  Àúôâ ‹ Àúôâf ÀúôâÞ Àúôâø Àúôâ  ¿ãzâ¦ Àúôâ· ¿ãzâý ¿EVâ« Àúôâ° Àúôâ¸ Àúôâú ¿EVâ6 Àúôâc ¿¬o¯âe Àúôât ÀúôâË ÀúôâÛ Àúôâ	2 ¿Á@Œâ	› Àúôâ	ú Àúôâ	ü ¿Á@Œâ	ý ¿ãzâ
+= ¿”Û+â
+È ¿_¥Žã  ¿_¥Žã 0 ¿•Aä  ¿Ão?å  ¿Ão?åÌ ¿uæ»åÍ ¿uæ»åX ¿Ão?å	¿ ¿Ão?å
+L ¿Ão?å
+È ¿41æ  ¿¢Âzæ× ¿¢Âzæj ¿¢ÂzæÎ ¿•Aç  ¿¢Âzè M ¾à4wèÆ ¿¢Âzè, ¿•Aé> ¾[˜ê  ¿_¥Žë  ¿_¥Žë 9 ¿¨§ì  ¿¨§ì : À6+ì N À6+ì m À6+ì n À6+ì u À6+ì ˆ À6+ì ’ À6+ì “ À6+ì – À6+ì — ¿Ôû˜ì £ À6+ì ´ ÀÍ:ì · À6+ì Ô À6+ì õ ÀÍ:ì] À6+ì^ À6+ìj À6+ìs À6+ìv ÀÍ:ì† ÀÍ:ì¹ ¿Âi/ì¾ ÀÍ:ìà À6+ìr ¿Ôû˜ì× ÀÍ:ìè À °}ìí À6+ì ¿Ôû˜ì À6+ì ÀÍ:ìL À6+ìM ÀÍ:ìO À6+ìl ÀÍ:ìn ÀÍ:ì{ À6+ì– À6+ì  À6+ì¤ À6+ì¦ À °}ìµ ÀÍ:ìÅ À6+ìÏ À6+ìÛ ÀÍ:ìê ÀÍ:ìö À6+ì À °}ì À6+ìr À °}ìà ÀÍ:ì
+ À6+ì À6+ì ÀÍ:ì ÀÍ:ì/ ÀÍ:ìD À °}ìc ÀÍ:ìn ÀÍ:ì| À6+ì… À6+ì¾ ÀÍ:ì¤ À6+ìÖ À6+ì× À °}ìA ÀÍ:ìB À6+ìé ¿Ôû˜ì ¿¯3Aì À6+ì6 À6+ì7 À6+ìa ÀÍ:ìo À6+ì¶ ÀÍ:ì· ÀÍ:ìÏ À6+ì× À °}ì	% ÀÍ:ì	C À6+ì	M À6+ì	\ ÀÍ:ì	e À6+ì	y À °}ì	| ÀÍ:ì	Š À6+ì	“ À6+ì	­ À6+ì	½ À °}ì	Û À6+ì	þ À6+ì
+J À6+ì
+U À6+ì
+l À6+ì
+± À6+ì
+Ë ¿¡{„í ¯ ¿¡{„í¢ ¿é÷eí1 ¿é÷eíg ¿é÷eír ¿é÷eí· ¿é÷eí	 ¿é÷eí© ¿é÷eí¡ ¿é÷eíþ ¿¡{„í	¿ ¿é÷eí
+ ¿é÷eí
+l ¿é÷eí
+o ¿é÷eí
+p ¿•Aî· ¿Óm=ï 0 ¿Óm=ï† ¿Óm=ïì ¿Óm=ï ¿Óm=ï« ¿Óm=ï÷ ¿Óm=ï; ¿Óm=ï' ¿Óm=ï— ¿Óm=ï¯ ¿Óm=ï	e ¿Óm=ï
+‘ ¿•Að  ¿•AñÆ ¿•Aò' ¿•Aó' ¿•Aôñ ¿‚áõ  ¿µvÍõ 9 ¿µvÍõî ¿µvÍõ
+† ¿µvÍõ
+‘ ¿•Aö ¿•A÷Ä ¿_¥Žør ¿_¥Žø	¿ ¿•Aù  ¿•Aú. ¿•Aû  ¿_¥Žü ¿_¥Žü	“ ¿•Aý` ¿b“/þ  ¿Ûþóþ ! ¿ÛþóþÃ ¿ÛþóþÆ ¿Ûþóþl ¿“ƒþ ¿Ûþóþ ¿“ƒþ' ¿Ûþóþ	u ¿Ûþóþ
+‘ ¿–Zîÿ ¿–Zîÿò ¿¾ÿ
+È ¿¢Âz  Í ¿¢Âz † ¿41 Þ ¿¢Âz 
+j ¿_¥Ž ¿_¥Žº ¿•A ¿–ZîÆ ¾®–F. ¿•A  ¿•A
+‘ ¿•A ¿•A ó ¿¢Âz ¾ ¿¢Âz3 ¿¢Âzh ¿¢Âz	Ú ¿¢Âz	ì ¿ ü	  ¿ãk;	” ¿ãk;	Æ ¿ãk;	U ¿ãk;	z ¿ ü	 ¿ãk;	¶ ¿ãk;	
+L ¿•A
+ ¿_¥Žì ¿_¥Ž¾ ¿•AÞ ¿–Zî  ¿–ZîÞ ¿–Zîl ¿–Zî ¿•A	 ¿_¥Ž ! ¿_¥Ž
+L ¿•A
+U ¿_¥Ž 0 ¿_¥Ž· ¿¬å¾ ¿¬åé ¿¬å ¿¬åj ¿¬åç ¿¬å
+Ã ¾]<œÞ ¿–Zî¾ ¿–ZîÀ ¿–Zî ¿–Zî
+± ¿•A  ¿•AÀ ¿•A ! ¿†\ð Ä ¿†\ð÷ ¿†\ðq ¿•A
+‘ ¿•A  ½ã1E  ¿µvÍ	# ¿•A ¿•Aú ¿–Zî Ä ¿–ZîÆ ¿–ZîÞ ¿–ZîÇ ¿•A
+Ã ¿•A . ¿–Zî! ! ¿–Zî! È ¿–Zî!Þ ¿–Zî! ¿•A"' ¿•A#	` ¿†\ð$ 9 ¿†\ð$Þ ¿†\ð$	% ¿•A%  ¿•A&ì ¿•A'| ¿–Zî(  ¿–Zî( Œ ¿–Zî(  ¿–Zî(£ ¿¯Ø)  ¿÷—¹)À ¿÷—¹)Ã ¿÷—¹)Þ ¿¯Ø)ì ¿÷—¹)| ¿÷—¹)¾ ¿÷—¹)ñ ¿÷—¹)	k ¿÷—¹)
+ ¾¤ø)
+‘ ¿¾*  ¿–Zî*f ¿–Zî* ¿ÉJ¡+ 9 ¿ÉJ¡+f ¿ÉJ¡+Ã ¿ÉJ¡+¸ ¿ÉJ¡+¾ ¿ÉJ¡+“ ¿ÉJ¡+¾ ¿ÉJ¡+  ¿ÉJ¡+	/ ¿ÉJ¡+	n ¿•A,¾ ¿_¥Ž-w ¿_¥Ž-ä ¿•A.Ã ¾[˜/\ ¿•A0  ¿•A1  ¿•A2¾ ¿•A3 ¿•A4	 ¿•A5Î ¿_¥Ž6  ¿_¥Ž6 ª ¿•A7l ¿–Zî8  ¿–Zî8‚ ¿¾8 ¿•A9Þ ¿•A:. ¿41;À ¿¢Âz;Þ ¿¢Âz; ¿¢Âz;
+Ã ¿•A< ¿•A=è ¿•A>  ¿†\ð?( ¿†\ð? ¿†\ð?¾ ¾[˜@ ¿_¥ŽAÐ ¿_¥ŽAÈ ¿†\ðB 0 ¿†\ðBð ¿†\ðB
+Ã ¿•ACÆ ¿–ZîDl ¿–ZîDt ¿–ZîD© ¿–ZîD3 ¾÷„9E7 ¿†\ðE® ¿¬åF 9 ¿HÒjF ª ¿¬åF< ¿HÒjF
+L ¿•AG
+% ¿–ZîH  ¿–ZîH ¾ ¿–ZîH ó ¿–ZîH{ ¿_¥ŽI  ¿_¥ŽIÀ ¿_¥ŽJÀ ¿_¥ŽJÞ ¿–ZîK” ¿–ZîKì ¿¾K. ¿_¥ŽL  ¿_¥ŽL ¿ÉJ¡M  ¿ÉJ¡M m ¿ÉJ¡MÞ ¿€Î¿Mì ¿ÉJ¡Mð ¿ÉJ¡M„ ¿ÉJ¡M ¿€Î¿M
+È ¿†\ðN  ¿†\ðN Œ ¿†\ðNÀ ¿_¥ŽO ¿_¥ŽO% ¿_¥ŽP÷ ¿_¥ŽPÀ ¿•AQ 9 ¿•AR ¿•AS[ ¿¼ãT  ¿¼ãTÀ ¿¼ãTÞ ¿¼ãT' ¿hÎfT	% ¿hÎfT
+M ¿Œâ]U  ¿÷—¹UN ¿¯ØUÀ ¿÷—¹Uì ¿÷—¹Ué ¿÷—¹U ¿÷—¹Uð ¿¯ØUŽ ¿÷—¹U¤ ¿÷—¹UØ ¿÷—¹UY ¿÷—¹Uû ¿÷—¹Uý ¿¯ØU	 ¿÷—¹U	 ¿÷—¹U
+ ¿÷—¹U
+t ¿÷—¹U
+‘ ¿†\ðVÞ ¾÷„9V. ¿¼ãW  ¿$[pWÞ ¿¼ãWì ¿¼ãW× ¿¼ãW ¿¼ãWN ¿•AXÆ ¾[˜Y  ¿Ão?Z ¢ ¿Ão?Z ª ¿Ão?ZÆ ¿Ão?Z^ ¿Ão?ZÌ ¿ÒZè ¿_¥Ž[
+  ¿_¥Ž[
+‘ ¿•A\† ¿_¥Ž]A ¿_¥Ž]¸ ¿•A^ ¾]<œ_. ¿–Zî`  ¾®–F`. ¾[˜a ¿_¥Žb  ¿_¥Žbl ¿µvÍc ¿µvÍc» ¿µvÍcÀ ¿µvÍcð ¿µvÍcÎ ¿µvÍc ¿µvÍc® ¿†\ðdð ¿†\ðd
+  ¿†\ðd
+‘ ¿•AeÞ ¾±Ž"f  ¿1pfÆ ¿ïÒÇfÞ ¿ïÒÇfk ¿§Væft ¿ïÒÇf' ¿ïÒÇfN ¿•Ag  ¿¾h  ¿–Zîhì ¿–Zîhf ¿_¥ŽiÁ ¿_¥ŽiÑ ¿•Aj  ¿•AkÓ ¿•Al ¿_¥Žm
+‘ ¿_¥Žm
+Ç ¿_¥Žn  ¿_¥Žn  ¿•Ao. ¿•ApÀ ¿•Aq  ¿•Ar  ¿•As÷ ¾÷„9tì ¿†\ðt¨ ¿•Au ¿•Av ‹ ¿•Aw  ¿•Ax
+Ã ¿†\ðy  ¿†\ðyÆ ¿†\ðy ¿_¥Žz r ¿_¥Žz ¾÷„9{ 9 ¿†\ð{l ¾[˜|. ¿†\ð}Z ¿†\ð}Ý ¿†\ð}
+‘ ¿•A~Þ ¿†\ðÆ ¿†\ð ¿†\ð	í ¿†\ð€  ¿†\ð€z ¿†\ð€
+‘ ¿‚á  ¿µvÍ ¢ ¿‚á
+‘ ¿¢Âz‚  ¿¢Âz‚ð ¿¢Âz‚ì ¿¢Âz‚	ð ¿¢Âz‚
+‘ ¿•Aƒ  ¾÷„9„  ¿†\ð„ ¿–Zî… m ¿–Zî…  ¿–Zî… ¿–Zî…è ¾6¥©† ¿•A‡r ¿•AˆÃ ¿–Zî‰p ¿–Zî‰T ¿–Zî‰È ¿–Zî‰
+È ¿•AŠ 9 ¿_¥Ž‹ ¿_¥Ž‹	‚ ¿_¥ŽŒì ¿_¥ŽŒ ¿_¥ŽS ¿_¥Ž	Æ ¿•AŽ• ¿¢Âz  ¿¢Âzz ¿¢ÂzÞ ¿¢Âz	6 ¿¢Âz	¿ ¿•AÞ ¿–Zî‘ ¿¾‘t ¿–Zî‘“ ¿_¥Ž’Z ¿_¥Ž’< ¿•A“ ¿†\ð” ! ¿†\ð”À ¿†\ð”. ¿41•  ¿¢Âz•z ¿¢Âz• ¿¢Âz•	× ¿_¥Ž–ì ¿_¥Ž–ñ ¿•A—t ¿•A˜	O ¿•A™  ¿•Aš ¿•A›. ¿•Aœa ¿–Zî ! ¿–Zî' ¿–Zîò ¿–Zî	× ¿µvÍž ‹ ¿µvÍžì ¿Yõ×ž ¿Yõ×ž' ¿µvÍž
+‘ ¿–ZîŸR ¿–ZîŸÞ ¿–ZîŸ— ¿–ZîŸñ ¿•A ‹ ¿¾¡  ¿–Zî¡ 0 ¿–Zî¡  ¿–Zî¢  ¿–Zî¢ o ¿–Zî¢ ¿–Zî¢t ¿•A£  ¿•A¤ ¿†\ð¥Þ ¿†\ð¥ ¿†\ð¥	D ¿•A¦Þ ¿•A§
+o ¿ìøÓ¨  ¿ìøÓ¨  ¿ìøÓ¨ ! ¿ìøÓ¨ o ¿¤|ò¨ r ¿ìøÓ¨ ¯ ¿ìøÓ¨Ÿ ¿ìøÓ¨ð ¿ìøÓ¨± ¿ìøÓ¨  ¿¤|ò¨Ã ¿ìøÓ¨Û ¿ìøÓ¨è ¿ìøÓ¨ë ¿ìøÓ¨	1 ¿ìøÓ¨	¿ ¿ìøÓ¨	ü ¿•A©  ¿†\ðªÞ ¿†\ðª
+‘ ¿†\ðª
+È ¿•A«  ¿•A¬Ã ¿•A­ ¿–Zî®À ¿–Zî®  ¿–Zî®6 ¿–Zî®( ¿_¥Ž¯G ¿_¥Ž¯	 ¿•A°| ¿_¥Ž±  ¿_¥Ž±
+‘ ¿_¥Ž² 9 ¿_¥Ž²/ ¿•A³Þ ¿_¥Ž´  ¿_¥Ž´ì ¿¾µ  ¿–Zîµò ¿–Zîµ	˜ ¿•A¶	ç ¿•A·À ¿•A¸Þ ¿–Zî¹  ¿–Zî¹1 ¿¾¹÷ ¿•Aº
+‘ ¿†\ð»  ¿†\ð»z ¿†\ð»Ã ¿•A¼z ¿–Zî½  ¾®–F½' ¿•A¾ì ¿•A¿	Y ¿_¥ŽÀÞ ¿_¥ŽÀ ¿¢ÂzÁ  ¿41Á¾ ¿¢ÂzÁì ¿¢ÂzÁ' ¿•AÂ6 ¿_¥ŽÃì ¿_¥ŽÃ1 ¿•AÄ  ¿•AÅ ‹ ¿•AÆÀ ¿•AÇ ¾[˜È
+‘ ¿_¥ŽÉl ¿_¥ŽÉ
+‘ ¿_¥ŽÊÆ ¿_¥ŽÊè ¿•AË| ¿•AÌ
+‘ ¿•AÍf ¿•AÎÞ ¿†\ðÏ  ¿†\ðÏ¿ ¿†\ðÏ	Û ¿•AÐš ¿•AÑÌ ¿•AÒ' ¿_¥ŽÓ 	 ¿_¥ŽÓ ¿•AÔ ¿•AÕ ¿•AÖÀ ¿¯3A×  ¿ì×  À °}× 5 À6+× ‚ À6+× Ÿ À6+×   À6+×T À6+×f À6+×¾ ÀÍ:×À À6+×ë ÀÍ:×ì À °}× ÀÍ:× ¿¯3A×  ¿˜©×´ ¿Ôû˜×
+ À6+×A À6+×B ÀÍ:×R À6+×¦ ¿Âi/×« ÀÍ:×® ¿ÄÒ×Õ ÀÍ:×ú ¿Z×6 ¿Ôû˜×t À6+×„ À °}×… À6+×‘ ÀÍ:×“ À6+×° ÀÍ:×Î À6+×' ¿ì×^ ¿Ôû˜×m ÀÍ:×” ÀÍ:×– ¿ŒAŒ×— À °}× À °}×Ÿ ¿ÄÒ×¾ ÀÍ:×Á ÀÍ:×s À6+×v À °}×² À6+×Û À6+×þ À6+×	 ÀÍ:×	2 À6+×	› À °}×	¦ À6+×	§ À °}×	É ¿¯3A×	ø ÀÍ:×
+ ÀÍ:×
+ À6+×
+‘ À6+×
+¸ À6+×
+Å ¿ÄÒ×
+È ¿†\ðØ
+/ ¾÷„9Ø
+È ¿†\ðÙ  ¿†\ðÙ
+‘ ¿†\ðÙ
+Å ¿•AÚ ¿•AÛ Þ ¿%cWÜ  ¿±y‚Üf ¿ùõdÜ€ ¿±y‚Üð ¿ùõdÜU ¿±y‚Ük ¿ùõdÜt ¿ùõdÜÅ ¿±y‚Ü	6 ¿tÞVÜ	] ¿±y‚Ü
+1 ¿•AÝ  ¿ÒÞ  ¿Ão?Þ  ¿Ão?ÞÆ ¿Ão?ÞØ ¿Ão?Þ“ ¿Ão?Þ	× ¿_¥Žß  ¿_¥Žß
+Ã ¿•AàÆ ¿•Aá  ¿•Aâú ¿•Aã
+X ¿HÒjä  ¿¬åä r ¿¬åä* ¿¬åä
+‘ ¿¬åä
+È ¿•Aå) ¿•Aæ	¿ ¿•Aç  ¿–Zîè  ¿–ZîèQ ¿–Zîè	_ ¿–Zîè
+Œ ¿Á@Œé  Àúôé £ ¿Á@Œé Þ Àúôéx Àúôé† Àúôéõ Àúôéø Àúôé× Àúôéû Àúôé[ Àúôéç ¿ãzéù Àúôé ¿¬o¯é¤ Àúôé ¿„²0é7 ¿^%§éX Àúôéo ¿„²0éz ÀúôéŒ ¿QRé© ÀúôéÌ Àúôé	™ ¿ãzé	Û Àúôé	ê ¿•Aê  ¿•AëD ¿N›xì  ¿þhyì  ¿þhyì ¡ ¿þhyì Ô ¿þhyìW ¿þhyìÆ ¿þhyìØ ¿þhyì1 ¿þhyì¿ ¿µì˜ì. ¿þhyì ¿þhyìÎ ¿µì˜ì… ¿þhyìÛ ¿.I‚ì
+Ã ¿Yõ×í  ¿µvÍíê ¿µvÍíì ¿µvÍí½ ¿µvÍíD ¿µvÍí
+È ¿•Aî
+± ¿•Aïn ¿•Að	ð ¿µvÍñ  ¿µvÍñ  ¿µvÍñ ‹ ¿µvÍñC ¿µvÍñQ ¿µvÍñè ¿µvÍñ	F ¾[˜òG ¿•Aó  ¿¬åô  ¿¬åô ¿¬åôØ ¿HÒjô ¿¬åô0 ¿†\ðõÆ ¿†\ðõ‡ ¿†\ðõO ¿•Aö
+È ¿_¥Ž÷ « ¿_¥Ž÷
+& ¿–Zîø  ¿–Zîø r ¿–ZîøÀ ¿–Zîø± ¿•Aù÷ ¾[˜ú  ¿HÒjû ¿¬åû¢ ¿¬åû  ¿¬åû
+= ¿¬åû
+È ¿†\ðü  ¾÷„9üè ¿•Aý Á ¾÷„9þ  ¿†\ðþè ¿•AÿE ¿æÉú   ¿žN  Þ ¾ôsR † ¿æÉú c ¿æÉú Î ¿æÉú Ò ¿æÉú ò ¿æÉú Ð ¿æÉú z ¿æÉú Ì ¿–ZîÀ ¿–Zîz ¿–Zîÿ ¿–Zî	Û ¿•A” ¿_¥Ž  ¿_¥Ž
+U ¾×ÂP  ¿µvÍ¸ ¿µvÍ	t ¿µvÍ	¿ ¿†\ðÀ ¿†\ðs ¿†\ð` ¾[˜  ¿•A  ¿•A( ¿†\ð	  ¿†\ð	À ¿†\ð	
+Ì ¿_¥Ž
+
+ ¿_¥Ž
+Û ¿•AÀ ¿†\ð: ¿†\ð§ ¿†\ða ¿•A
+H ¿•A	t ¿•AÆ ¿_¥Ž  ¿_¥Ž
+È ¿_¥Ž  ¿_¥Ž	t ¿•Aì ¿•AÆ ¿¼ã  ¿hÎf r ¿¼ã ¡ ¿hÎfÆ ¿¼ã	g ¿¼ã
+‘ ¿•A  ¿•A
+œ ¿•Ar ¿b“/  ¿Ûþó © ¿ÛþóÃ ¿Ûþó÷ ¿ÛþóŒ ¿Ûþó ¿ÛþóË ¿Ûþóé ¿Ûþó	/ ¿“ƒ
+L ¿Ûþó
+‘ ¿•A» ¿•A  ¿é÷e 0 ¿é÷ep ¿é÷eÀ ¿¡{„ ¿é÷e ¿é÷e  ¿é÷ec ¿é÷eñ ¿¡{„x ¿é÷e
+k ¿¡{„
+¡ ¿TâZ
+È ¿•A 9 ¾[˜  ¿•A  ¿¾  ¿–Zî, ¿–Zî
+L ¿0´4 . ¿dq ¸ ¿×àS * ¿0´4 ' ¿×àS È ¿×àS 
+‘ ¿•A!z ¿•A"
+“ ¿•A# ¿_¥Ž$$ ¿_¥Ž$
+‘ ¿•A%
+È ¿¢Âz&À ¾Œñ&u ¿•A'ì ¿•A(
+‘ ¿_¥Ž)ä ¿_¥Ž)! ¿†\ð*Ò ¾÷„9*è ¿¬å+À ¿¬å+Ì ¿¬å+å ¿¬å+¬ ¿¬å+­ ¿¬å+
+‘ ¿$[p,  ¿¼ã, 9 ¿¼ã, r ¿¼ã,  ¿¼ã, ¿¼ã,
+L ¿÷—¹-  ¿÷—¹- 9 ¿÷—¹- Ó ¿÷—¹-f ¿÷—¹-Ñ ¿÷—¹- ¿÷—¹-) ¿÷—¹-Ú ¿÷—¹- ¿÷—¹-¶ ¿÷—¹- ¿@ùù-w ¿÷—¹-ô ¿Œâ]-	ô ¿¯Ø-
+™ ¿÷—¹-
+¯ ¿†\ð.  ¿†\ð.À ¿†\ð. ¿†\ð/ ¿†\ð/L ¿†\ð/
+‘ ¿•A0  ¿~„1  ¿~„1  ¿é÷e1Æ ¿é÷e1¢ ¿é÷e1) ¿é÷e1. ¿é÷e1	l ¿é÷e1	t ¿é÷e1	ô ¿é÷e1
+  ¿é÷e1
+‘ ¿¡{„1
+™ ¿é÷e1
+È ¿†\ð2  ¿†\ð2ì ¿†\ð2Z ¿†\ð3 â ¿†\ð3z ¿†\ð3, ¿_¥Ž4± ¿_¥Ž4. ¿_¥Ž5ì ¿_¥Ž5Û ¿•A6 $ ¿•A7Q ¿•A8	t ¿•A9é ¿•A: ¿•A;  ¿•A<U ¿_¥Ž= ¿_¥Ž=	* ¿^z>  ¿æÉú>” ¿žN>• ¿æÉú> ¿æÉú> ¿æÉú>¶ ¿æÉú>¸ ¿æÉú> ¿æÉú>	¦ ¿æÉú>
+o ¿žN>
+Ã ¿_¥Ž?  ¿_¥Ž?Æ ¿¾@  ¿–Zî@˜ ¿–Zî@· ¿HÒjA  ¿¬åA ! ¿HÒjA· ¿¬åA	F ¿•AB  ¾¤ùíC  ¿ò‰C ‹ ¿ò‰C ô ¿ò‰Cì ¿ò‰C  ¿ò‰C ¿ò‰C¶ ¿ò‰C¸ ¿ò‰C® ¿ò‰CÎ ¿ò‰C	 ¿ò‰C
+È ¿•AD  ¿¬åE  ¿¬åE ! ¿¬åEÞ ¿¬åE  ¿¬åEº ¿¬åE; ¿•AF  ¿_¥ŽG  ¿_¥ŽG
+È ¿–ZîH´ ¿–ZîHÞ ¿¾H
+ ¿†\ðIò ¾÷„9I
+È ¿•AJ ¿_¥ŽKÆ ¿_¥ŽK. ¿–ZîLâ ¿–ZîL  ¿–ZîL ¿–ZîL
+‘ ¿•AM 0 ¿•ANa ¿fÆO  ¿ò‰O  ¿ò‰Oð ¿ò‰O¸ ¿ò‰O` ¿·íOó ¿ò‰O× ¿ò‰O	¿ ¿ò‰O
+& ¿ò‰O
+= ¿ò‰O
+M ¿ò‰O
+È ¿ÉJ¡P  ¿ÉJ¡P— ¿ÉJ¡Pä ¿ÉJ¡P‚ ¿ÉJ¡PÐ ¿ÉJ¡P+ ¿ÉJ¡P	t ¿€Î¿P
+ ¿ÉJ¡P
+Ã ¿•AQ
+N ¿†\ðR  ¾÷„9R
+‘ ¿_¥ŽSô ¿_¥ŽS	• ¿_¥ŽTA ¿_¥ŽT» ¿•AU  ¿†\ðVÀ ¿†\ðVÏ ¿†\ðVê ¿ÉJ¡W  ¿ÉJ¡W ‹ ¿ÉJ¡W ¢ ¿ÉJ¡WC ¿ÉJ¡W· ¿ÉJ¡W; ¿ÉJ¡W® ¿ÉJ¡Wq ¿ÉJ¡W
+† ¿ÉJ¡W
+‘ ¿•AX  ¿ãk;Y  ¿ãk;Y¾ ¿qk¾Yì ¿ãk;Y¨ ¿ãk;Yn ¿ãk;Yð ¾æøUY' ¿ãk;Y¾ ¿_¥ŽZ  ¿_¥ŽZì À¨÷[  À¨÷[ 5 À¨÷[ m À¨÷[ À¨÷[½ ¾ïšÌ[  ¿pk[· ¿ÖÖ[ú À¨÷[ü À¨÷[è À¨÷[¿ ¿ˆ71[
+= ¿,›[
+È ¿¬å\ Ê ¿¬å\	9 ¿¬å\
+= ¿_t\
+È ¿ÉJ¡]z ¿ÉJ¡]ì ¿ÉJ¡]] ¿€Î¿]w ¿ÉJ¡]X ¿ÉJ¡]s ¿ÉJ¡] ¿ÉJ¡]Ž ¿ÉJ¡]
+È ¿•A^  ¿•A_	1 ¿•A`Þ ¿•Aa	D ¿_¥Žbè ¿_¥Žb	1 ¾÷„9c  ¿†\ðc â ¿•Ad
+Å ¿†\ðeÚ ¿†\ðe
+L ¿†\ðe
+z ¿_¥ŽfÆ ¿_¥Žfr ¿º9g  ¿º9g 9 ¿º9gf ÀCgÆ ¿º9g· ÀCg¸ ÀCgb ÀCg² ÀCg³ ÀCg	 ÀCgk ÀCgr ÀCg™ ¿º9g' ÀCgô ÀCgr ÀCg} ÀCgÃ ÀCg	% ÀCg
+! ÀCg
+L ÀCg
+S ÀCg
+‘ ¾]<œh
+ ¿41i
+ ¿41iÛ ¿¢Âzi
+, ¿†\ðj * ¿†\ðj Õ ¿†\ðj ¿•AkÆ ¿ßÔÉl ¥ ¿ßÔÉl ³ ¿—Xèl Ä ¿ßÔÉl Ñ ¿ßÔÉl Ô ¿ßÔÉl ó ¿ßÔÉlC ¿ßÔÉl  ¿ßÔÉlî ¿ßÔÉl ¿@!l
+È ¿•Am ¥ ¿¿hÂn  Àw}n š ¿ösnQ Àw}n† ¾adn  ¿ösn· Àw}nð Àw}nñ Àw}n ¿ösnp Àw}n‡ Àw}nŽ ¿ösn( Àw}n0 Àw}n; Àw}n£ Àw}nÐ Àw}n ¿Ô9žn~ Àw}nò Àw}n	' Àw}n	6 ¿Ô9žn	J ¿•Ao
+@ ¿_¥ŽpÀ ¿_¥Žp` ¿¾q  ¿–Zîqð ¿–Zîq Àa=r  Àa=r Àa=r9 Àa=rO ¿¸rf Àa=r Àa=r Àa=r	 Àa=rH Àa=rU Àa=rl Àa=r ¿ÚF™rž Àa=r¡ Àa=rÆ Àa=rÑ Àa=rA Àa=rg Àa=rž Àa=rž ¿£<Ar¸ Àa=r Àa=rw ¿£<Ar Àa=r³ Àa=rÊ Àa=rÍ ¿ÚF™rÑ Àa=rÜ Àa=rì Àa=r Àa=r Àa=r. Àa=r/ Àa=r	 Àa=r	/ Àa=r	6 Àa=r	ô Àa=r
+D Àa=r
+G ¿_¥Žsf ¿_¥Žs	t ¿õ"t  ¿¬£At [ ¿¬£AtÆ ¿õ"tï ¿õ"t. ¿õ"t” ¿õ"tˆ ¿õ"tê ¿õ"tO ¿õ"tP ¿õ"t¢ ¿õ"t¥ ¿õ"t¾ ¿ŠiÆtç ¿¬£At	Ï ¿¬£At
+È ¾]<œuc ¿•Avã ¿•Aw# ¿•AxB ¿HÒjy  ¿¬åy  ¿¬åy™ ¿¬åy	9 ¿¬åy	O ¿†\ðz q ¿†\ðzu ¿†\ðz( ¿`™{  ¿ïÒÇ{ 9 ¿ïÒÇ{ ‹ ¿§Væ{  ¿ïÒÇ{ ¿ïÒÇ{¸ ¿§Væ{ú ¿`™{Q ¿ïÒÇ{K ¿ïÒÇ{ê ¿ïÒÇ{	Ë ¿ïÒÇ{
+È ¿µvÍ|n ¿µvÍ| ¿Yõ×|, ¿µvÍ|` ¿µvÍ|	6 ¿µvÍ|
+M ¿•A}Þ ¿_¥Ž~Æ ¿_¥Ž~5 ¿¢Âz’ ¾à4w| ¿¢Âz
+È ¿•A€ ‹ ¿†\ðj ¿†\ð
+ ¿†\ð
+Ã ¿•A‚
+È ¿_¥Žƒ˜ ¿_¥Žƒ
+L ¿_¥Ž„	ü ¿_¥Ž„
+‘ ¿•A… ¿qk¾†ü ¿ãk;† ¿ãk;†n ¿ãk;†† ¿ãk;†Å ¿qk¾†	 ¿GÊ†	Ñ ¿šïZ†
+‘ ¾[˜‡	 ¿uæ»ˆ ¤ ¿Ão?ˆ Ê ¿Ão?ˆÀ ¿Ão?ˆ¸ ¿Ão?ˆC ¿Ão?ˆ ¿Ão?ˆX ¿Ão?ˆ
+‘ ¿_¥Ž‰¸ ¿_¥Ž‰ ¿•AŠ C ¿•A‹Ò ¿•AŒ	ð ¿_¥ŽÀ ¿_¥Ž
+ ¿•AŽH ¿Ão?  ¿Ão? 0 ¿Ão? ‹ ¿Ão?ì ¿1sÅ· ¿Ão?¸ ¿Ão?¾ ¿¢Âz¾ ¿¢Âzð ¿¢Âz0 ¿41Š ¿•A‘  ¿•A’
+® ¿•A“Î ¾6¥©”å ¿•A•À ¾6¥©–  ¿_¥Ž—« ¿_¥Ž—
+È ¿•A˜À ¿•A™	O ¿¬åš – ¿¬åš  ¿¬åš, ¿¬åšò ¿HÒjš
+È ¿–Zî›ê ¿–Zî›	ð ¿¾›
+‘ ¿•Aœ¸ ¿•Aî ¿•Až÷ À-wŸ  À-wŸ Ø À-wŸ Ú ¿Y[ŸE À-wŸí À-wŸ À-wŸw ¿ÍßŸ• À-wŸ™ À-wŸŸ ¿ÍßŸ¹ À-wŸ» À-wŸ À-wŸ À-wŸ‘ À-wŸ— À-wŸ¦ ¿ÍßŸ­ À-wŸ° À-wŸÍ À-wŸÜ À-wŸ À-wŸ
+ À-wŸ À-wŸ` ¿«¥’Ÿy À-wŸË À-wŸÛ À-wŸ
+» ¿Ña   ÀLí   À*s   ¿Ð~  ! ÀLí  ( ¿¶oä  9 ÀLí  A À(¯Ÿ  o À’á  r À(¯Ÿ  ‹ ÀLí  « À*s  ¯ ÀLí  â À(¯Ÿ  ÀLí  ÀLí  ÀLí ( ÀLí 1 ÀLí : ÀLí J À`1 f ÀLí ‚ ÀLí  À(¯Ÿ ° ÀLí ³ À’á À ¿Üø
+ Ã À(¯Ÿ Æ ¿ð-ù Þ À(¯Ÿ ì ÀLí   ÀLí 	 ÀLí ) À’á + ÀLí 9 ÀLí B ÀLí D À’á U ÀLí } ÀLí  ÀLí š ÀLí © ÀLí é ÀLí  ÀLí C ÀLí Ÿ ÀLí ¬ ÀLí ± À’á · À*s ¿ ÀLí È À(¯Ÿ ð ÀLí 
+ À*s  À(¯Ÿ . ÀLí ] ÀLí z À*s ¶ ¿¯ã¹ ¸ ÀLí Ì ÀLí ÷ ÀLí ù À`1  ÀLí U ÀLí m À’á r ÀLí ‚ ÀLí † ÀLí   À(¯Ÿ £ ÀLí Â ÀLí Ë ÀLí ê ÀLí  À’á , ÀLí 6 À(¯Ÿ D ÀLí r ÀLí z ÀLí | ÀLí € ÀLí ™ ÀLí ¾ À*s À À’á Î ÀLí Ï ÀLí ñ ÀLí ' ÀLí | ÀLí ª ÀLí ô ÀLí  ÀLí … ÀLí ” ÀLí ¾ ÀLí Ã ÀLí Ä À(¯Ÿ È ÀLí Ì À*s Ñ À(¯Ÿ × ¿Ökà Û ÀLí ñ À’á ó À(¯Ÿ û À(¯Ÿ þ ÀLí 		 ÀLí 	 ÀLí 	 À’á 	6 ÀLí 	C ÀLí 	O À(¯Ÿ 	P ÀLí 	f ÀLí 	¦ ¿Ökà 	¿ ÀLí 	Ê ÀLí 	Ë ÀLí 	ì À’á 	ü ÀLí 
+ À*s 
+ À(¯Ÿ 
+) À’á 
+, ÀLí 
+/ ÀLí 
+0 ÀLí 
+1 ÀLí 
+3 ¿ð-ù 
+L ÀLí 
+m ÀLí 
+n À*s 
+ À*s 
+‘ ÀLí 
+¥ À`1 
+Å ÀLí 
+Ç À*s 
+È ¿•A¡	° ¿_¥Ž¢ Ê ¿_¥Ž¢¸ ¿•A£
+T ¿•A¤· ¿•A¥Þ ¿ÉJ¡¦  ¿ÉJ¡¦ ¿ÉJ¡¦× ¿ÉJ¡¦ø ¿ÉJ¡¦> ¿ÉJ¡¦{ ¿ÉJ¡¦  ¿€Î¿¦ ¿ÉJ¡¦
+‘ ¿†\ð§  ¾÷„9§
+È ¿•A¨ q ¿_¥Ž©{ ¿_¥Ž©Å ¿•Aª ¿¾«  ¿–Zî«R ¿–Zî«Ý ¿•A¬“ ¿•A­
+& ¿–Zî®  ¿–Zî® 9 ¿–Zî®‚ ¿–Zî®º ¿_¥Ž¯  ¿_¥Ž¯ 9 ¿•A°… ¿–Zî± o ¿–Zî± ¿–Zî±ó ¿–Zî±
+# ¿_¥Ž²  ¿_¥Ž²÷ ¿•A³V ¿QoÂ´  ¿Óm=´  ¿Óm=´ 9 ¿Óm=´Ÿ ¿QoÂ´
+ ¿Óm=´	2 ¿Óm=´
+‘ ¿Óm=´
+È ¿Î–ûµ  ¿Î–ûµ  ¿Î–ûµ ‹ ¿Î–ûµ¿ ¿Î–ûµ. ¿Î–ûµz ¿Î–ûµr ¿Î–ûµ– ¿Î–ûµÃ ¿Î–ûµ	Ë ¿Î–ûµ
+o ¿•A¶
+È ¿«Ô‚·  ÀÚ·  ÀÚ· 	 À4[Ë·  À4[Ë·  ¿¥HW·  ¿¿
+p· ! ÀÚ· 0 ¿ÑœÙ· 9 À4[Ë· f ¿þ:· o À4[Ë· r ÀÚ· ‹ À4[Ë· Ž ÀÚ· ¯ À4[Ë· ¾ À4[Ë· õ À4[Ë· À4[Ë· À4[Ë·N ¿ÑœÙ·f ÀÚ·³ À4[Ë·Ã ¿é1]·Æ À4[Ë·Î À4[Ë·Ï À4[Ë·× À4[Ë·Þ À4[Ë·ì ¿þ:·í À4[Ë·ï À4[Ë·ô À4[Ë·) À4[Ë·* À4[Ë·B À4[Ë·E À4[Ë·é À4[Ë·- À4[Ë·> À4[Ë· À4[Ë·¢ À4[Ë·· ÀÚ·¿ ¿þ:·ð ¿þ:· À4[Ë·
+ ¿þ:· À4[Ë·, À4[Ë·™ À4[Ë·œ ¿þ:·¸ À4[Ë·Ø À4[Ë·ò ÀÚ· ÀÚ·Q À4[Ë·^ ÀÚ·r À4[Ë·u À4[Ë·‚ À4[Ë·£ À4[Ë·t À4[Ë·u À4[Ë·| ÀÚ·“ À4[Ë·½ À4[Ë·¾ À4[Ë·À À4[Ë·æ À4[Ë·  À4[Ë· À4[Ë·	 À4[Ë·/ À4[Ë·F À4[Ë·— À4[Ë·Ÿ À4[Ë·7 À4[Ë·m ¿«Ô‚·Ã À4[Ë·Ä À4[Ë·È ¿ÑœÙ·Û À4[Ë·ò À4[Ë·þ À4[Ë·	% À4[Ë·	* À4[Ë·	F À4[Ë·	e À4[Ë·	t À4[Ë·	¿ À4[Ë·
+! ¿þ:·
+L À4[Ë·
+l ÀÚ·
+o À4[Ë·
+ ¿ÑœÙ·
+‘ ÀÚ·
+¯ À4[Ë·
+± ÀÚ·
+Ã ¿þ:·
+È ¿_¥Ž¸  ¿_¥Ž¸
+È ¿_¥Ž¹† ¿_¥Ž¹
+È ¿dqº  ¿×àSº C ¿×àSº « ¿×àSº1 ¿×àSºr ¿×àSº¸ ¿×àSºJ ¿×àSºu ¿×àSº	1 ¿×àSº	t ¿dqº
+) ¿•A»V ¿N‡ƒ¼  ¿æÉú¼  ¿æÉú¼ 0 ¿æÉú¼ ‹ ¿æÉú¼f ¿æÉú¼¸ ¿æÉú¼Î ¿æÉú¼- ¿æÉú¼  ¿žN¼ð ¿æÉú¼‚ ¿æÉú¼Æ ¿æÉú¼Þ ¿•A½Û ¿†\ð¾ o ¾÷„9¾· À%¼c¿  ¿ËòŽ¿  À~s¿  À%¼c¿ , À%¼c¿ b À%¼c¿ ô À%¼c¿f À%¼c¿z À%¼c¿³ À~s¿Æ À%¼c¿í À%¼c¿` À%¼c¿q À%¼c¿¨ À%¼c¿é À%¼c¿- À%¼c¿> À%¼c¿j À%¼c¿r À%¼c¿Ò À%¼c¿ À~s¿ À~s¿ À%¼c¿ À%¼c¿ À%¼c¿) À%¼c¿A À%¼c¿s À%¼c¿š À%¼c¿¶ À~s¿¸ À%¼c¿Ó À%¼c¿ò À%¼c¿ À%¼c¿j À%¼c¿‚ À%¼c¿ˆ À%¼c¿¾ À%¼c¿t ¿àÃj¿“ À%¼c¿¤ ¿ËòŽ¿À ¿ËòŽ¿Î À%¼c¿ À%¼c¿' À%¼c¿„ À%¼c¿Ó À%¼c¿å À%¼c¿ À%¼c¿7 À~s¿V À%¼c¿œ À~s¿Û À%¼c¿ì À%¼c¿ñ À~s¿ò À~s¿ó À%¼c¿ú À%¼c¿û À%¼c¿	 ¿àÃj¿	* À%¼c¿	9 À%¼c¿	> À%¼c¿	C À%¼c¿	O À%¼c¿	w À~s¿	¯ À%¼c¿	¿ À%¼c¿
+) À~s¿
+L À%¼c¿
+b À~s¿
+‘ À%¼c¿
+ž À%¼c¿
+² À%¼c¿
+Ã ¿ËòŽ¿
+È ¿•AÀ_ ¿¼ãÁÀ ¿¼ãÁÃ ¿¼ãÁp ¿¼ãÁ  ¿¼ãÁD ¿¼ãÁÖ ¿¼ãÁ¢ ¿¼ãÁ
+ ¿†\ðÂ† ¿†\ðÂl ¿†\ðÂ… ¿•AÃ	¬ ¿•AÄ ° ¾÷„9Å  ¿†\ðÅÀ ¿•AÆ Õ ¿–ZîÇ o ¿¾ÇÇ ¿–ZîÇ	% ¿¢ÂzÈ  ¿¢ÂzÈ 9 ¿¢ÂzÈT ¿¢ÂzÈ. ¿¢ÂzÈþ ¿•AÉ  ¿•AÊ
+‘ ¿_¥ŽË© ¿_¥ŽË	1 ¿•AÌó ¿•AÍ
+È ¾§ ]Î‡ ¿Óm=ÎŠ ¿Šñ\Î	 ¿Óm=Î	= ¿Óm=Î	? ¿•AÏµ ¿•AÐ	t ¿•AÑÎ ¿ßÔÉÒ ¿ßÔÉÒy ¿ßÔÉÒ‰ ¿ßÔÉÒg ¾ØžÒJ ¿ßÔÉÒ ¿ßÔÉÒÌ ¿ßÔÉÒ	E ¿ßÔÉÒ
+U ¿_¥ŽÓ7 ¿_¥ŽÓ‘ ¿•AÔv ¿•AÕÆ ¿†\ðÖ  ¿†\ðÖü ¿†\ðÖÎ ¿•A×É ¿_¥ŽØs ¿_¥ŽØ
+È ¿•AÙf ¿¬åÚ  ¿¬åÚ V ¿¬åÚÿ ¿¬åÚÚ ¿¬åÚ ¿¬åÚl ¿•AÛ Ç ¿ÛþóÜÀ ¿ÛþóÜ× ¿ÛþóÜì ¿ÛþóÜO ¿ÛþóÜD ¿ÛþóÜY ¿ÛþóÜë ¿“ƒÜû ¿ÛþóÜ
+& ¿ÛþóÜ
+Š ¿b“/Ü
+‘ ¿•AÝ
+È ¿_¥ŽÞ  ¿_¥ŽÞ ! ¿•Aß ! ¿_¥Žà ¿_¥Žà™ ¿•Aá
+¿ ¿•Aâ  ¿=*‰ã  ¿ÉJ¡ãÆ ¿ÉJ¡ã[ ¿ÉJ¡ã ¿ÉJ¡ã¾ ¿ÉJ¡ãº ¿ÉJ¡ã
+Ã ¿ÉJ¡ã
+È ¿†\ðäì ¿†\ðä	 ¿†\ðä
+Ã ¿¢Âzå ¿¢ÂzåÌ ¿¢Âzå	× ¿¢Âzå
+ ¿¢Âzå
+Ã ¿•AæÀ ¿ÉJ¡ç Ä ¿ÉJ¡çW ¿ÉJ¡ç° ¿ÉJ¡ç¥ ¿ˆÏç
+F ¿ÉJ¡ç
+k ¿ÉJ¡ç
+‚ ¿•Aè Ä ¿•Aé	“ ¿_¥Žê
+ ¿_¥Žê
+‘ ¿±y‚ë  ¿ùõdë  ¿±y‚ë¸ ¿ùõdëÔ ¿±y‚ë£ ¿ùõdë ¿ùõdë7 ¿ùõdëÈ ¿ùõdëò ¿ùõdë ¿ùõdë× ¿ùõdë	e ¿ùõdë
+G ¾ôI<ë
+L ¿•AìÆ ¿•Aí ¿_¥ŽîË ¿_¥ŽîX ¿¬åï o ¾µ{vïì ¿¬åïÄ ¿š ›ð  ÀCçð ( ¿š ›ð 9 À+×ð ˆ ÀCçð ¡ À+×ð ¢ À+×ð ¯ À+×ð á À+×ð â À+×ð  À+×ð ÀCçð À+×ð4 À+×ðQ À+×ðf ¿¿èòðw À+×ð€ À+×ð‚ À+×ð° À+×ð¹ À+×ðÁ À+×ðÑ À+×ðÞ À+×ðâ ÀCçðì À+×ðí ÀCçðï À+×ð À+×ð À+×ðK À+×ðe À+×ði À+×ðÊ À+×ðé À+×ð  À+×ð- À+×ð] ¿ìNSðr À+×ðŸ À+×ð¥ À+×ðó À+×ðû ÀCçð. À+×ð­ ÀCçð¸ À+×ð À+×ð% À+×ð; À+×ðB À+×ðe ÀCçðm À+×ð± À+×ðË À+×ðæ À+×ð À+×ðF À+×ðI À+×ðX À+×ð© À+×ð¾ À+×ðÀ À+×ðÎ À+×ðÏ À+×ð' À+×ðx À+×ðÇ À+×ðî ÀCçðô À+×ð À+×ðÑ À+×ðþ À+×ð	P À+×ð	e ¿ìNSð	g ¿¯¿÷ð	¿ À+×ð	Ú À+×ð	ü À+×ð
+ À+×ð
+! À+×ð
+D À+×ð
+L À+×ð
+S À+×ð
+T ¿¯¿÷ð
+‘ ¿ìNSð
+È ¾[˜ñ  ¿•Aò ¿Óm=ó Y ¿Óm=ó ¾ ¿Óm=ó  ¿Óm=ów ¿Óm=ó} ¿Šñ\óO ¿Óm=óž ¿Óm=ó ¿Óm=óS ¿Óm=ó
+Œ ¿Óm=ó
+œ ¿_¥Žô  ¿_¥Žô 9 ¿_¥Žõ  ¿_¥Žõl ¿¬åö ‹ ¿¬åö¨ ¿¬åö0 ¿¬åö	 ¿¬åö	F ¿¬åö
+‘ ¿•A÷
+‘ ¿•AøÇ ¿Î–ûù  ¿Î–ûùÆ ¿Î–ûù ¿Î–ûù÷ ¿Î–ûù, ¿†ù» ¿!†ù
+‘ ¿•Aúà ¿–Zîû  ¿–Zîû « ¿–ZîûŠ ¿–Zîû; ¿•Aü
+Ã ¾®–Fý  ¿–Zîýó ¿•Aþ
+‘ ¿¬åÿÆ ¿HÒjÿ· ¿¬åÿ¿ ¿¬åÿ	× ¿¬åÿ
+‘ ¿¢Âz   ¿¢Âz Æ ¿41 	d ¿¢Âz 
+Ã ¿_¥Ž
+U ¿_¥Ž
+V ¿•A  ¿•A¿ Àw}  ¿¿hÂ  Àw} < Àw} @ Àw} C ¿`¯þ Õ ¿ösw Àw}z ¿vÿwÆ Àw}Ü Àw}ï Àw}  Àw}Z Àw}Ï Àw} ¿ös1 ¿Ô9žC Àw}… Àw}Ÿ ¿ös· ¿ös Àw} ¿¿hÂ¸ Àw}r ¿ös£ Àw}! Àw}H Àw}t Àw}ª Àw}¯ Àw}' Àw}( Àw}	¿ Àw}
+8 ¿W{
+L ¿Ô9ž
+ Àw}
+‘ ¿ös
+È ¿¿³°  ¿ˆ©YÀ ¾¾½  ÀÉ÷ ÀÉ
+Ã ¿¿³°  ÀÉ  ¿¿³° Ï ÀÉ ÀÉH ÀÉ€ ÀÉ¾ ¿¿³°Æ ÀÉÞ ÀÉì ÀÉr ÀÉŸ ÀÉ ÀÉt ÀÉ{ ÀÉ‚ ÀÉd ÀÉ© ¿¿³°Î ÀÉÛ ÀÉ} ÀÉ‘ ÀÉ§ ÀÉè ÀÉ	¿ ÀÉ
+ ÀÉ
+& ¾}»8Æ ¿¯ØC ¿÷—¹¸ ¿÷—¹o ¿¯Ø® ¿÷—¹¯ ¿÷—¹¸ ¿÷—¹× ¿÷—¹
+‘ ¿_¥ŽÀ ¿_¥Ž© ¿Î–û	  ¿Î–û	, ¿Î–û	 ¿Î–û	À ¿Î–û	³ ¿Î–û	· ¿Î–û	 ¿Î–û	Û ¿GÃ?	
+È ¿ÚF™
+  Àa=
+ 9 Àa=
+ â ¿ÚF™
+ Àa=
+ ¿ÚF™
+ ¿‹§½
+Æ ¿ÚF™
+Ÿ Àa=
+Ê ¿‹§½
+ð Àa=
+ Àa=
+! Àa=
+ˆ Àa=
+Î Àa=
+ÿ ¿ÚF™
+Ë Àa=
+X ¿ÚF™
+“ Àa=
+ Àa=
+, Àa=
+F Àa=
+Ã Àa=
+ï Àa=
+	" ¿ÚF™
+	0 Àa=
+	T Àa=
+	t ¿¸
+	¿ Àa=
+
+! Àa=
+
+) Àa=
+
+Z Àa=
+
+ Àa=
+
+‘ ¿•AÎ ¿ˆÏ  ¿ÉJ¡µ ¿ÉJ¡. ¿=*‰¸ ¿ÉJ¡„ ¿¢Âz ! ¿¢Âzf ¿¢Âzâ ¿¢Âzr ¿¢Âzu ¿=×  ¿z5  ÀÉ Ê ÀÉ ô ÀÉÒ ÀÉì ÀÉí ÀÉ6 ÀÉ ÀÉ¶ ÀÉ¸ ÀÉH ÀÉr ÀÉ© ÀÉm ÀÉè ÀÉó ÀÉ	? ÀÉ	× ÀÉ
+/ ¿z5
+Ã ¿_¥Ž| ¿_¥Žì ¿•Al ¿•A– ¿1sÅ  ¿Ão?g ¿Ão?¸ ¿Ão? ¿Ão?¾ ¿Ão?	v ¿Ão?	ü ¿•A± ¿†\ð ‹ ¿†\ðÆ ¿†\ðK ¿•A
+È ¿µvÍ  ¿µvÍ 9 ¿µvÍ“ ¿µvÍo ¿µvÍ
+± ¿Yõ×
+Ã ¿•A  ¿•A
+b ¿_¥Žt ¿_¥ŽU ¿_¥Ž  ¿_¥Žû ÀÉï  ÀÉï 	 ÀÉï  ÀÉï " ÀÉï Z ÀÉï g ÀÉï £ ÀÉï ¾ ÀÉï õ ÀÉï ÀÉï¯ ÀÉïÁ ¿õüÆ ÀÉïí ¿õü ÀÉï® ÀÉïö ÀÉï. ÀÉï@ ÀÉï€ ÀÉïƒ ÀÉïš ¿–P%· ÀÉï¹ ÀÉïë ÀÉï ÀÉï ÀÉï	 ÀÉï ¿õüj ÀÉït ÀÉï  ÀÉï¡ ÀÉï§ ¿õü¸ ÀÉïý ÀÉï" ¿õür ÀÉïx ÀÉï£ ÀÉït ÀÉï“ ÀÉïæ ÀÉï' ÀÉïg ÀÉï¦ ÀÉïô ÀÉïø ¿õü ÀÉï… ÀÉï¾ ÀÉïÄ ÀÉï	7 ÀÉï	D ÀÉï	O ÀÉï	° ÀÉï	º ÀÉï	¿ ÀÉï	Ë ÀÉï	Þ ÀÉï	ü ÀÉï
+  ÀÉï
+ ÀÉï
+' ÀÉï
+0 ÀÉï
+8 ¿õü
+L ÀÉï
+M ÀÉï
+r ¿•Ar ¿•A à ¿×àS ¿dq  ¿×àS· ¿dq÷ ¿dq ¿×àSò ¿dq	2 ¿dq
+È ¿•A; ¿¢œÅ   À©  9 ¿lnÇ  Ê À©  Ë À© ¾ À© Ã À© Æ À© Þ À© × À©   ¿ÄÖ@ ú À© ü À© [ À© ‰ À©  À©  À© 	 ¿ÄÖ@ 	Û À© 
+ ¿GIö 
+È ¿_¥Ž!  ¿_¥Ž!¸ ¾[˜"  ¿•A# 0 ¿•A$} ¿@)M%  À&†½% Y ¿!¦M% ˆ À&†½% ¢ À&†½% ½ À&†½% Ö ¿Í‡A%z ÀHÌ%À À&†½%Æ À&†½%× À&†½%b À&†½%Ë ¿âX%ð ÀHÌ% ¿µò¼%z ÀHÌ% ¿âX%´ ÀHÌ%, À&†½%» ÀHÌ%, À&†½%Ú À&†½%è À&†½%	 À&†½%	2 À&†½%	C ¿Í‡A%	D À&†½%	v ¿âX%	¿ À&†½%	ü ¿Zqa%
+‘ ¿•A&	— ¿•A'	Y ¿_¥Ž(  ¿_¥Ž( ª ¿¢Âz)S ¿¢Âz)‚ ¿41)“ ¿¢Âz)	t ¿•A*· ¿–Zî+  ¿–Zî+ì ¿–Zî+C ¿–Zî+
+ ¿Î–û,  ¿Î–û,  ¿Î–û,Æ ¿GÃ?,> ¿Î–û,C ¿Î–û,D ¿Î–û,¼ ¿Î–û,Í ¿Î–û,­ ¿¼ã-  ¿¼ã-· ¿¼ã- ¿hÎf-2 ¿¼ã-ò ¿¼ã-r ¿¼ã-ö À.–W.  À.–W. % À.–W. Z ¿µèõ. u À.–W. w À
+Xf. Š À.–W. œ ¿Ý¦u. £ À.–W. ´ ¿òwQ. Í À
+Xf. Ô À.–W. Ü À.–W. ó À.–W. õ À.–W. À.–W.d À.–W.j À.–W.Ÿ À.–W.» ¿òwQ.¾ ¿Æð.Ï À.–W.Ð À.–W.à À
+Xf.á ¿òwQ.â ¿Æð.× À
+Xf.è À.–W.ý À.–W.$ À.–W.L À.–W.{ À.–W. À
+Xf. À.–W. À.–W.D ¿Ý¦u.¸ À.–W.Ô À.–W. À.–W.5 ¿µèõ.9 À.–W.D À.–W.c À.–W.d ¿òwQ.o À.–W.| ¿Ý¦u.“ À.–W.› ¿òwQ.¤ ¿òwQ.´ À.–W.# À.–W.5 À.–W.6 À
+Xf.9 À.–W.; À.–W.A À.–W.B À.–W.e À.–W.… À.–W.¾ À.–W.ø À.–W. À.–W.+ À
+Xf.7 À.–W.: À.–W.o À
+Xf.q À.–W.u À
+Xf.{ ¿Ý¦u.¹ À.–W.× À
+Xf.	' ¿òwQ.	* À
+Xf.	7 À.–W.	C À
+Xf.	\ À.–W.	e À.–W.	o À.–W.	‚ À.–W.	Ž À.–W.	Ù À
+Xf.
+ À.–W.
+q À.–W.
+Ž À
+Xf.
+ À.–W.
+È ¿_¥Ž/ ¿_¥Ž/	O ¿_¥Ž0	 ¿_¥Ž0
+È ¿•A1| ¿_¥Ž2- ¿_¥Ž2	t ¿•A3
+‘ ¾[˜4  ¿†\ð5× ¾÷„95	ü ¿†\ð6  ¿†\ð6	2 ¿†\ð6
+È ¿_¥Ž7 9 ¿_¥Ž7÷ ¿•A8	ú ¿–Zî9  ¿–Zî9Î ¿–Zî9ô ¿–Zî9 ¿•A:– ¿Î–û;  ¿Î–û;Æ ¿Î–û;6 ¿Î–û;; ¿†;= ¿Î–û;Q ¿Î–û; ¿Î–û;	ƒ ¿Î–û;	… ¿Î–û;
+= ¿•A<	 ¿•A=
+È ¿HÒj>  ¿¬å> Õ ¿¬å>
+ ¿¬å>
+1 ¿¬å>
+‘ ¿•A? Á ¿†\ð@  ¿†\ð@¸ ¿†\ð@À ¿Óm=A  ¿QoÂA ! ¿Óm=A r ¿Óm=A· ¿Óm=A ¿Óm=AX ¿Óm=A	Á ¿Óm=A
+F ¿Óm=A
+Å ¿Óm=A
+È ¿•AB ! ¿•AC  ¿ãk;D  ¿ãk;DÃ ¿qk¾D  ¿ãk;D· ¿ãk;DÒ ¿ãk;Dë ¿ãk;Dú ¿ãk;Dü ¿ãk;DY ¿ãk;Dù ¿ãk;D	Ä ¿ãk;D	Û ¿šïZD
+È ¿•AEü ¿•AFr ¿•AG Ä ¿•AHë ¿•AI… ¿–ZîJ  ¿–ZîJ“ ¿–ZîJ	 ¿–ZîJ	O ¿HÒjK  ¿¬åK ! ¿¬åKÀ ¿HÒjK  ¿•AL
+« ¿•AM	C ¿•ANÆ ¿•AO  ¿•APþ ¿•AQ+ ¿_¥ŽRì ¿_¥ŽR	¿ ¿–ZîS L ¿–ZîS	 ¿–ZîS ¿–ZîS
+È ¿•AT  ¿•AUÀ ¿•AV  ¿HÒjW 0 ¿¬åW 9 ¿_tW¸ ¿•AXÀ ¿•AYA ¾[˜Z  ¿•A[ ¿–Zî\À ¿–Zî\Þ ¿¾\	 ¿†\ð] ¯ ¿†\ð]Æ ¿†\ð]+ ¿†\ð^ ¾ ¿†\ð^ ¿†\ð^ô ¿•A_ð ¿•A`  ¿†\ða ¿†\ða> ¿†\ðaU ¿¾bÀ ¿–Zîbw ¿–ZîbÐ ¿•Ac
+¾ ¿_¥Žd  ¿_¥ŽdÀ ¿¢ÂzeN ¿¢ÂzeÀ ¿¢ÂzeÆ ¿¢Âze	½ ¿¢Âze
+È ¿•Af  ¿41g 6 ¿¢Âzg ¿¢Âzg' ¿¢Âzg
+‘ ¿•AhÀ ¿_¥Ži  ¿_¥Ži	t ¿N‡ƒj  ¿æÉúj ! ¿æÉúj ¿æÉúj» ¿æÉúj_ ¿æÉújc ¿æÉújð ¿æÉúj ¿æÉúj; ¿æÉújj ¿žNj¸ ¿æÉúj	u ¿æÉúj	¿ ¿_¥Žk  ¿_¥ŽkX ¿×àSl  ¿×àSl Ø ¿dqlì ¿×àSl ¿×àSlD ¿dql. ¿×àSl÷ ¿×àSl, ¿dql' ¿×àSl
+‘ ¾[˜m. ¿–Zîn· ¿–Zîn ¿–Zîn¾ ¿–Zîn
+‘ ¿_¥Žo  ¿_¥Žo
+‘ ¿_¥Žpn ¿_¥Žp– ¾÷„9q @ ¿†\ðq¾ ¿¬£Ar  ¿¬£ArÆ ¿¬£ArW ¿õ"rû ¿¬£Arn ¿õ"rð ¿õ"r; ¿õ"rl ¿¬£ArÛ ¿¬£Ar	` ¿õ"r	× ¿õ"r
+^ ¿ŠiÆr
+‘ ¿õ"r
+È ¾à4wsQ ¿¢Âzs
+± ¿¢Âzs
+È ¿ßÔÉt B ¿ßÔÉt ¥ ¿ßÔÉtÆ ¿ttl ¿ßÔÉtm ¿ßÔÉt§ ¿ßÔÉt¾ ¿—Xètù ¿—Xèt
+” ¿_¥Žu  ¿_¥ŽuÆ ¿¬åv  ¿¬åvr ¿¬åv¸ ¿¬åv ¿¬åv	O ¿¬åv	Ë ¿µvÍw  ¿µvÍw ô ¿µvÍwì ¿µvÍw	ø ¿‚áw
+È ¿•Ax
+b ¿•Ay` ¿÷—¹z Á ¿@ùùz× ¿÷—¹zØ ¿÷—¹z ¿¯ØzQ ¿÷—¹z´ ¿÷—¹z; ¿¯ØzU ¿¯Øz„ ¿¯ØzÚ ¿÷—¹z	* ¿÷—¹z	Œ ¿÷—¹z	“ ¿÷—¹z	µ ¿÷—¹z
+  ¾÷„9{â ¿†\ð{× ¿•A|  ¿–Zî}{ ¾®–F}ò ¾à4w~À ¿¢Âz~s ¿¢Âz~t ¿†\ð  ¾÷„9  ¿•A€ð ¿•AQ ¿µvÍ‚  ¿µvÍ‚ 9 ¿µvÍ‚Ã ¿µvÍ‚
+= ¿µvÍ‚
+‘ ¿Yõ×‚
+È ¿•Aƒ‡ ¿_¥Ž„f ¿_¥Ž„
+‘ ¿•A…	Û ¿¢Âz† ö ¿¢Âz†  ¾à4w†K ¿—Ñ¾‡  ÀC‡ ‹ ÀC‡Æ ¿º9‡ì ÀC‡  ÀC‡{ ¿—Ñ¾‡  ÀC‡ ÀC‡  ÀC‡… ÀC‡¸ ÀC‡Ç ÀC‡ø ÀC‡— ¿º9‡È ÀC‡Ê ÀC‡	 ¿VØº‡
+È ¿•Aˆ¤ ¿†\ð‰· ¾÷„9‰¾ ¿†\ðŠ  ¿†\ðŠ ¿†\ðŠ	S ¿•A‹Þ ¿†\ðŒ ¢ ¿†\ðŒü ¿†\ðŒ
+È ¿–Zî  ¾®–F; ¿•AŽ1 ¿†\ðI ¿†\ð ¿†\ðÛ ¿•A  ¿_¥Ž‘Æ ¿_¥Ž‘  ¿†\ð’  ¿†\ð’  ¿†\ð’L ¿µvÍ“Q ¿µvÍ“  ¿Yõ×“ ¿µvÍ“… ¿µvÍ“
+‘ ¿µvÍ“
+È ¿•A”Æ ¿•A•¿ ¿•A–  ¾÷„9—Æ ¿†\ð—  ¿•A˜  ¿•A™. ¿_¥ŽšÀ ¿_¥Žš
+‘ ¿•A›“ ¾[˜œ
+‘ ¿_¥Žë ¿_¥Ž	e ¿_¥Žžr ¿_¥ŽžÈ ¿•AŸ
+È ¿•A 
+± ¿¢Âz¡  ¿¢Âz¡Ã ¿¢Âz¡  ¿¢Âz¡² ¿¢Âz¡	 ¿•A¢  ¿•A£| ¿•A¤  ¿•A¥Ô ¿¢Âz¦  ¿¢Âz¦ ! ¿¢Âz¦Æ ¿¢Âz¦  ¿¢Âz¦ ¿Ûþó§  ¿Ûþó§ Y ¿Ûþó§ ¿Ûþó§A ¿Ûþó§ ¿“ƒ§¸ ¿Ûþó§ ¿Ûþó§Â ¿Ûþó§ ¿Ûþó§’ ¿“ƒ§¦ ¿Ûþó§	l ¿•A¨ì ¿æÉú©  ¿N‡ƒ©Æ ¾§›—©× ¿æÉú©Ù ¿æÉú©{ ¿æÉú©a ¿æÉú©
+O ¿•AªÛ ¿1³è«  ¿º9«  ¿º9« r ¿ƒ á«À ÀC« ÀC«¸ ÀC«6 ÀC«À ÀC«' ¿VØº« ¿º9«	F ÀC«
+‘ ¿•A¬“ ¿žN­  ¿æÉú­@ ¿æÉú­À ¿æÉú­ì ¿æÉú­p ¿žN­¸ ¿æÉú­ê ¿žN­ ¿æÉú­y ¿^z­
+È ¿†\ð®  ¿†\ð® ! ¿†\ð®× ¾]<œ¯t ¿¼ã°  ¿¼ã° ¿¼ã°× ¿hÎf°Î ¿hÎf°
+‘ ¿¼ã°
+È ¿Ão?±m ¿Ão?±Æ ¿Ão?±ì ¿uæ»±' ¿uæ»±
+‘ ¿uæ»±
+È ¿Î–û²Æ ¿†²â ¿Î–û²“ ¿Î–û²b ¿Î–û²	O ¿Î–û²
+ ¿Î–û²
+ ¿Î–û²
+‘ ¿†²
+È ¿•A³
+È ¿•A´
+G ¿¢ÂzµZ ¿¢Âzµ\ ¿¢Âzµg ¿¢Âzµr ¿¢Âzµµ Àù±¶  ¿Áw€¶  Àù±¶  Àù±¶  Àù±¶ 9 ¿Áw€¶ r Àù±¶ ¯ Àù±¶f ¿e±I¶ Àù±¶Æ Àù±¶ì Àù±¶g Àù±¶ Àù±¶ Àù±¶ Àù±¶ Àù±¶¸ Àù±¶V Àù±¶r Àù±¶“ Àù±¶/ Àù±¶	O Àù±¶	ê Àù±¶
+ Àù±¶
+‘ Àù±¶
+± ¿41·Î ¿¢Âz·. ¿¢Âz·% ¿¢Âz· ¿›úh¸  ÀJ÷æ¸  À7¸  ÀJ÷æ¸ ! ÀJ÷æ¸ * ÀJ÷æ¸ 2 ¿y½¸ 9 ÀJ÷æ¸ ‹ ¿Ò€¸ § À&¹õ¸ ¯ ÀJ÷æ¸ ¾ À&¹õ¸ Ê ÀJ÷æ¸ Ï ÀJ÷æ¸ Ô À&¹õ¸ â ÀJ÷æ¸ å ÀJ÷æ¸ í ÀJ÷æ¸ ò ÀJ÷æ¸ À&¹õ¸ ÀJ÷æ¸ ÀJ÷æ¸ À&¹õ¸ ÀJ÷æ¸' ÀJ÷æ¸O ÀJ÷æ¸\ ¿Ù·¸f À7¸z À4É¸€ À&¹õ¸ ÀJ÷æ¸° À&¹õ¸À ¿ÇXÐ¸Ã ÀJ÷æ¸Ä À&¹õ¸Æ ÀJ÷æ¸Î ÀJ÷æ¸Þ ÀJ÷æ¸ß À7¸ì ÀJ÷æ¸¨ ÀJ÷æ¸ì ÀJ÷æ¸C À7¸R À7¸V À7¸n ¿ÇXÐ¸r À7¸  À7¸· ÀJ÷æ¸¿ ÀJ÷æ¸À ÀJ÷æ¸Â ÀJ÷æ¸â ¿²„¸ð ÀJ÷æ¸ ÀJ÷æ¸% À&¹õ¸. ÀJ÷æ¸Q ÀJ÷æ¸j ÀJ÷æ¸l À4É¸n À7¸‰ À&¹õ¸ ÀJ÷æ¸µ ÀJ÷æ¸ò ¿ìB¦¸ÿ À7¸ ¿î¬¸ ÀJ÷æ¸ ÀJ÷æ¸& ÀJ÷æ¸I ¿þÕ¸r ÀJ÷æ¸w ÀJ÷æ¸z À&¹õ¸‚ ÀJ÷æ¸ ÀJ÷æ¸› À&¹õ¸£ À7¸¾ ÀJ÷æ¸Ç ÀJ÷æ¸È À4É¸Ü ÀJ÷æ¸ò ÀJ÷æ¸ý ÀJ÷æ¸ ÀJ÷æ¸ ÀJ÷æ¸ ÀJ÷æ¸  ÀJ÷æ¸/ ÀJ÷æ¸5 ÀJ÷æ¸\ ÀJ÷æ¸` ÀJ÷æ¸f À&¹õ¸v ÀJ÷æ¸} ÀJ÷æ¸ ÀJ÷æ¸˜ À&¹õ¸± ¿¯%Ñ¸¾ ÀJ÷æ¸Â ÀJ÷æ¸Ï ÀJ÷æ¸ï À&¹õ¸ñ ÀJ÷æ¸
+ À7¸' ÀJ÷æ¸J ÀJ÷æ¸R ÀJ÷æ¸Û À&¹õ¸æ ¿Ò€¸ô À&¹õ¸ö ÀJ÷æ¸ À7¸& ÀJ÷æ¸* ÀJ÷æ¸v À7¸} ÀJ÷æ¸™ ÀJ÷æ¸¾ ÀJ÷æ¸Ä ÀJ÷æ¸× À4É¸è À&¹õ¸þ ÀJ÷æ¸	 ÀJ÷æ¸	 ÀJ÷æ¸	. ÀJ÷æ¸	4 À&¹õ¸	C ÀJ÷æ¸	F ÀJ÷æ¸	L ÀJ÷æ¸	O ÀJ÷æ¸	R À&¹õ¸	g ÀJ÷æ¸	o ÀJ÷æ¸	t ÀJ÷æ¸	x ÀJ÷æ¸	® ¿ìB¦¸	¿ À&¹õ¸	À ÀJ÷æ¸	È ÀJ÷æ¸	× ÀJ÷æ¸	à ÀJ÷æ¸	ò ÀJ÷æ¸
+( ÀJ÷æ¸
+0 À4É¸
+L ÀJ÷æ¸
+S À&¹õ¸
+o ¿î¬¸
+} À&¹õ¸
+ ¿Ò€¸
+‘ ÀJ÷æ¸
+› ÀJ÷æ¸
+¼ À&¹õ¸
+Ã À&¹õ¸
+Å À4É¸
+È ¿•A¹ 0 ¿µvÍº  ¿µvÍº Ê ¿µvÍº· ¿µvÍºA ¿µvÍº× ¿Yõ×º
+È ¿•A» ¿•A¼
+‘ ¿•A½À ¿_¥Ž¾ã ¿_¥Ž¾
+ ¾[˜¿ê ¿_¥ŽÀ/ ¿_¥ŽÀ' ¿•AÁì ¿•AÂì ¿_¥ŽÃX ¿_¥ŽÃ
+È ¿_¥ŽÄ  ¿_¥ŽÄé ¿†\ðÅ  ¿†\ðÅ	 ¿†\ðÅ
+È ¿_¥ŽÆ  ¿_¥ŽÆ ¿†\ðÇ  ¿†\ðÇ	 ¿†\ðÇ
+³ ¾÷„9È· ¿†\ðÈ¤ ¿–ZîÉ  ¿–ZîÉ× ¿–ZîÉ% ¿–ZîÉ
+È ¿•AÊ÷ ¿•AË
+È ¿×àSÌ « ¿×àSÌÀ ¿×àSÌì ¿ZUíÌ« ¿×àSÌ ¿×àSÌF ¿0´4Ì ¿×àSÌ
+È ¿•AÍ. ¿¢ÂzÎÁ ¿41Î. ¿¢ÂzÎ÷ ¿¢ÂzÎ ¿•AÏ
+È ¿†\ðÐ Û ¿†\ðÐF ¿†\ðÐ	š ¿•AÑ· ¿–ZîÒ© ¿¾Ò ¿–ZîÒ ¿•AÓ  ¾ÝðùÔ  ¿Î–ûÔ Œ ¿Î–ûÔ¸ ¿Î–ûÔ‚ ¿Î–ûÔ
+‘ ¿†Ô
+È ¿žNÕ  ¿x)<ÕÀ ¿æÉúÕ ¿æÉúÕ  ¿æÉúÕr ¿æÉúÕr ¿æÉúÕÍ ¿æÉúÕ6 ¿æÉúÕ	* ¿æÉúÕ	Y ¿æÉúÕ	Ã ¿æÉúÕ
+! ¿žNÕ
+È ¿•AÖ ¿•A×È ¿ÉJ¡Ø  ¿ÉJ¡Ø o ¿ÉJ¡ØÆ ¿ÉJ¡Øœ ¿ÉJ¡Ø	* ¿€Î¿Ø	— ¿ÉJ¡Ø
+ ¿ÉJ¡Ø
+ª ¿ÉJ¡Ø
+È ¿•AÙ¾ ¿†\ðÚ  ¾÷„9ÚÞ ¿†\ðÛ  ¿†\ðÛ¡ ¿†\ðÛ	 ¿•AÜ l ¿–ZîÝÞ ¿–ZîÝ ¿–ZîÝ ¿–ZîÝ	ù ¿•AÞÞ ¿•Aß× ¿†\ðà  ¾÷„9àÀ ¿•Aá  ¿•Aâ' ¿•Aã  ¿†\ðä  ¾÷„9äÆ ¿–ZîåP ¾®–Få	Ç ¿•Aæ
+ ¿•Aç
+@ ¿•Aè  ¿–Zîé q ¾®–FéÀ ¿¢Âzê  ¿41ê· ¿¢Âzê¾ ¿¢Âzêè ¿–Zîë u ¿–Zîë Ä ¿–ZîëX ¿–Zîë
+È ¿_¥Žì ‹ ¿_¥Žì[ ¿–Zîí  ¿–Zîíì ¿–ZîíÃ ¿–Zîí
+È ¿•AîŽ ¿•Aï Å ¿¬åð  ¾µ{vð. ¿¬åðj ¿HÒjñ  ¿¬åñÆ ¿¬åñ§ ¿¬åñÆ ¿¬åñ
+Å ¿¬£Aò « ¿õ"ò§ ¿õ"ò¾ ¿õ"òÀ ¿õ"òÃ ¿ŠiÆòô ¿õ"ò  ¿ŠiÆòã ¿õ"òë ¿õ"òÂ ¿õ"ò ¿õ"ò	 ¿õ"ò ¿õ"òÛ ¿õ"ò	g ¿õ"ò	© ¿õ"ò
+È ¿_¥Žó Ä ¿_¥Žó Ô ¿_¥Žô	] ¿_¥Žô	¿ ¿_¥ŽõÀ ¿_¥Žõ	¿ ¿µvÍö  ¿µvÍöw ¾×ÂPöÀ ¿µvÍö ¿'8ï÷  ÀÉï÷  ÀÉï÷ ! ¿õü÷ * ¿õü÷ 9 ÀÉï÷ r ÀÉï÷ ‹ ÀÉï÷ ¡ ÀÉï÷ ¾ ÀÉï÷ ¿ ÀÉï÷ ÀÉï÷: ÀÉï÷z ¿ÒÞ÷À ÀÉï÷Ã ¿¾¤÷Æ ÀÉï÷Þ ÀÉï÷ì ÀÉï÷L ÀÉï÷b ÀÉï÷1 ¿õü÷¼ ÀÉï÷ ÀÉï÷ ÀÉï÷. ÀÉï÷¸ ÀÉï÷o ÀÉï÷` ÀÉï÷æ ¿õü÷ñ ÀÉï÷p ÀÉï÷{ ÀÉï÷Ó ÀÉï÷â ÀÉï÷
+ ÀÉï÷N ÀÉï÷˜ ÀÉï÷Ü ÀÉï÷	o ¿õü÷
+) ÀÉï÷
+O ¿–P%÷
+‘ ¿“æ¸÷
+È ¿•Aør ¿†\ðù  ¿†\ðù  ¿†\ðù. ¾ôI<ú  Àr‹ú * Àr‹ú 9 Àr‹ú o ¿äi5ú ‹ Àr‹úg Àr‹úz Àr‹úÀ Àr‹úÆ Àr‹úÞ ¿äi5úì Àr‹ú- Àr‹ú> Àr‹úð Àr‹ú Àr‹úk Àr‹ú¸ Àr‹ú÷ Àr‹úâ ¿äi5ú, Àr‹úb ¿äi5úÀ Àr‹úî Àr‹úè Àr‹úê Àr‹ú	- Àr‹ú	O ¿­^Þú
+‘ ¿…¡^ú
+È ¾Œñû  ¿¢Âzûr ¾¦&Qü  ¿¤|òü ! ¿ìøÓüì ¿ìøÓü+ ¿ìøÓü· ¿ìøÓür ¿ìøÓü× ¿ìøÓü	O ¿¤|òü
+È ¿•Aýb ¿_¥Žþþ ¿_¥Žþ
+‘ ¿hÎfÿ  ¿¼ãÿ  ¿¼ãÿ « ¿¼ãÿì ¿¼ãÿ' ¿¼ãÿ	0 ¿¼ãÿ	e ¿@   ÀsŒ   ÀsŒ À ¿²1¼ × ÀsŒ . ÀsŒ ç ¿…Ì[ 
+ ÀsŒ • ¿²1¼ ¸ ÀsŒ I ÀsŒ t ¿²1¼ Î ÀsŒ 	O ¿Ôk7 	` ÀsŒ 	¿ ¿'8ï 
+‘ ¿Ôk7 
+È ¿¬å  ¿¬åð ¿¬åó ¿¬å	¿ ¿¬å
+‘ ¿¬å
+È ¾ˆ¡  ¿ÉJ¡À ¿ÉJ¡ì ¿ÉJ¡¤ ¿ÉJ¡P ¿•A ^ ¾[˜	2 ¿_¥Ž Ê ¿_¥ŽÆ ¿ÉJ¡ h ¿ÉJ¡ Ø ¿ÉJ¡ Û ¿ÉJ¡Þ ¿ÉJ¡w ¿ÉJ¡A ¿€Î¿Ã ¿€Î¿	O ¿e±I  Àù±Ã Àù±Þ Àù±+ Àù±ì Àù± ¿E_S. Àù±÷ ¿Ÿ>, ¿Ÿ> Àù±' Àù±‹ Àù±	O Àù±	v Àù±
+ ¿Ÿ>
+‘ Àù±
+È ¿€Î¿  ¿ÉJ¡ r ¿ÉJ¡Þ ¿=*‰. ¿ÉJ¡÷ ¿ÉJ¡… ¿ÉJ¡Ã ¿•A	Î ¾]<œ
+
+M ¿•Aï ¿Î–û  ¾MÀ ¿Î–ûÌ ¿Î–û“ ¿Î–ûO ¿Î–û
+‘ ¿•A| ¿é÷e ª ¿TâZÆ ¿¡{„  ¿é÷e§ ¿é÷e7 ¿é÷ee ¿é÷e' ¿é÷eí ¿é÷e ¿é÷e	 ¿é÷e
+ ¿é÷eA ¿é÷eû ¿é÷e
+‘ ¿•A' ¾6¥©  ¿•A
+È ¼À[hö ¿ìøÓ÷ ¿•A Ü ¾[˜½ ¿–Zî¸ ¿–Zî½ ¿–Zî	— ¿–Zî
+‘ ¿•A	 ¿†\ð# ¿†\ð- ¿†\ð
+‘ ¿–Zîf ¿–Zî( ¿–Zî. ¿–Zî¸ ¿_¥Ž  ¿_¥Ž· ¿•A0 ¿•A ¤ À"?  À"? U À"? – ¿AB‡ « À"? ï À"?P À"?Q ¿ÙW"ž ¿ûž§ ¿ÙW"Æ À"?¼ ¿ûžô À"?ù À"? ¿Ä†F  À"?Ú À"?ã À"?z À"?¸ ¿Ú¹ À"?	 ¿ûžE À"?\ À"? À"? ¿ûž½ À"?Á À"? À"?+ À"?] À"?° À"?Æ ¿ûž	g À"?	z À"?	¤ À"?
+ À"?
+$ À"?
+5 À"?
+7 À"?
+T ¿ÙW"
+‘ ¿•Az ¿•A
+È ¿•A ¿†\ð   ¿†\ð Þ ¿†\ð ÿ ¿•A!Æ ¿•A"O ¿µvÍ# Y ¿µvÍ#Ì ¿µvÍ#Â ¿Yõ×#’ ¿µvÍ#
+ˆ ¿µvÍ#
+È ¿•A$  ¿¼ã% u ¿¼ã%× ¿¼ã%× ¿¼ã%. ¿hÎf% ¿¼ã%
+¸ ¿¼ã%
+¹ ¿•A&  ¿•A'
+ ¾[˜(Ô ¾÷„9)  ¿†\ð)
+Ã ¿•A*	™ ¿†\ð+  ¿†\ð+ £ ¿†\ð+' ¿é÷e, e ¿~„, Þ ¿é÷e,× ¿¡{„,; ¿¡{„,ÿ ¿¡{„,z ¿¡{„,Œ ¿é÷e,© ¿é÷e,Õ ¿é÷e,	¡ ¿¡{„,	Û ¿_¥Ž- ¿_¥Ž-
+œ ¿•A. 0 ¿–Zî/  ¿–Zî/O ¿–Zî/ ¿–Zî/
+È ¿•A0
+È ¿•A1× ¿•A2) ¿•A3ª ¿_¥Ž4  ¿_¥Ž4j ¿_¥Ž5 9 ¿_¥Ž5 ¾ôI<6  À?Æ6  À?Æ6  ¿¥Ê06 9 ¿È«6 r À?Æ6 ˆ À?Æ6 Ø À?Æ6À À?Æ6] À?Æ6 À?Æ6  À?Æ6 À?Æ6  À?Æ6m À?Æ6	* À?Æ6	2 À?Æ6
+ ¿¥Ê06
+‘ ¿È«6
+È ¾[˜7 | ¿•A8Î ¾rà}9 Ê ¿µvÍ9; ¿µvÍ9Ã ¿•A:% ¿f8Î;  À0; o À0;	 ¿f8Î;, À0;ú À0;; À0;> ¿šÙæ;V ¿šÙæ;© À0;™ À0;£ À0;' ¿¯ªÃ;s À0;È À0;	¿ ¿Ñä>;
+M ¿Ñä>;
+s ¿šÙæ;
+È ¿Ñä>;
+Ì ¿¢Âz<ü ¿¢Âz<	O ¿¢Âz<
+= ¿¢Âz<
+s ¿¢Âz<
+È ¿¾=  ¿–Zî=	¿ ¿–Zî=
+Ã ¿•A> ¿•A?ù ¿•A@
+& ¿†\ðA ‹ ¿†\ðAÀ ¿†\ðA4 ¿_¥ŽB ‹ ¿_¥ŽB  ¿†\ðC  ¿†\ðC ¤ ¿†\ðCë ¿¬åD  ¿¬åD ! ¿¬åD· ¿HÒjD ¿¬åDÎ ¿_¥ŽE  ¿_¥ŽE
+‘ ¿†\ðF  ¿†\ðFÆ ¿†\ðF ¿•AG ¯ ¿•AH  ¿•AI  ¿¼ãJ  ¿hÎfJz ¿¼ãJ; ¿¼ãJë ¿¼ãJÎ ¿¼ãJ° ¿¼ãJ
+G ¿–ZîK ˆ ¿–ZîK ¿–ZîK¹ ¿–ZîKÛ ¿•ALè ¿•AM¿ ¿_¥ŽNÀ ¿_¥ŽN{ ¿_¥ŽO ¡ ¿_¥ŽO
+^ ¿_¥ŽPÀ ¿_¥ŽP
+‘ ¿‡ÓÀQ  ¿ò‰Q  ¿ò‰Q Œ ¿ò‰QÞ ¿ª;Qì ¿‡ÓÀQ› ¿ò‰Qµ ¿ò‰Qö ¿ò‰Q. ¿ò‰QÃ ¿ª;Q
+c ¿fÆQ
+È ¿_¥ŽR i ¿_¥ŽR
+È ¿•ASÀ ¿•AT¾ ¿æÉúU 9 ¿æÉúU Y ¿æÉúU  ¿æÉúU‚ ¿x)<UÆ ¿æÉúU ¿æÉúU ¿æÉúU¸ ¿æÉúUj ¿æÉúUÎ ¿žNU' ¿žNUÛ ¿æÉúU
+ ¿ÛþóV o ¿“ƒV: ¿ÛþóV´ ¿8ñuV ¿ÛþóVÓ ¿ÛþóV	% ¿b“/V	m ¿ÛþóV
+± ¿–ZîWÀ ¿–ZîW„ ¿–ZîW± ¿–ZîW
+È ¿•AX¸ ¿•AYy ¿_¥ŽZJ ¿_¥ŽZ½ ¿•A[ó ¾à4w\  ¿¢Âz\÷ ¿¢Âz\	Q ¿¬å]  ¿¬å]È ¿¬å]o ¿HÒj]Û ¿¬å]	É ¿†\ð^Á ¿†\ð^> ¿†\ð^ ¿†\ð_é ¿†\ð_² ¿†\ð_€ ¿¢Âz`n ¿¢Âz`  ¿¢Âz` ¿¢Âz`¾ ¿¢Âz`	0 ¿•Aa ¿_¥ŽbB ¿_¥Žbû ¿—Xèc  ¿ßÔÉc 0 ¿ßÔÉcÊ ¿ßÔÉcg ¿ßÔÉc÷ ¿ßÔÉc“ ¿ßÔÉcñ ¿ßÔÉc	C ¿ßÔÉc	O ¿ßÔÉc
+Ã ¿@!c
+È ¿•Ad  ¿¢Âzeò ¿¢Âze ¿¢Âze	F ¿¢Âze
+L ¿¢Âze
+‘ ¿•Af	œ ¿•Ag  ¾×ÂPh  ¿µvÍh 9 ¿µvÍh ¿µvÍh
+! ¿_¥Ži ‹ ¿_¥ŽiÞ ¼¥–j¸ ¿õ"j¾ ¾6¥©k¸ ¿•AlÔ ¾Ârjmö ¾¸Ì´m
+É ¿–Zîn ¿–Zînþ ¿–ZînÍ ¿–ZînÜ ¿Ä\o  À[Üo o À[Üo À[ÜoZ ¿æ;ÖoÆ ¿—œûoÞ ¿—œûoì À[ÜoO ¿‡sÿo  À[Üo¦ À[ÜoA À[ÜoT À[Üo` ¿æ;Öo¦ À[ÜoØ À[Üo ¿Ä\o' À[Üoq À[Üoë À[Üo À[Üo	2 À[Üo	O À[Üo	R À[Üo	¨ À[Üo	ú ¿æ;Öo
+ À[Üo
+ À[Üo
+± À[Üo
+À ¿-®Ëo
+È ¿•Ap
+È ¿†\ðq` ¿†\ðqÀ ¿†\ðq· ¿O&Èr  ÀQr   ¿ÀMGr ¾ ÀQr Ê ÀQr Ï ¿U}r â ÀQr í ÀQr ¿â†Âr  ÀQr ÀQr° ¿â†Âr¾ ÀQrì ÀQrU ÀQr‰ ÀQrŒ ¿â†Ârr ÀQrS ÀQrã ¿â†Ârí ÀQrò ÀQr ÀQr) ÀQr• ÀQrÂ ÀQrp ÀQrÀ ÀQr÷ ¿«|jrÑ ÀQr	% ÀQr	“ ÀQr	ô ¿â†Âr
+! ÀQr
+U ¿_¥Žs  ¿_¥Žss ¾’–Ít  À=>t  À=>tÀ ¿»þ›tÆ À=>tâ ¿»þ›t× À=>t À=>t  ¿»þ›t	 À=>t	* À=>t
+) À=>t
+È ¿Ão?u * ¿Ão?u· ¿Ão?u÷ ¿Ão?ur ¿Ão?u
+= ¿Òu
+È ¿•Av÷ ¿¥Ê0w  À?Æw 8 À?Æw Ä ¿È«w¾ À?ÆwO À?Æw] ¿È«wµ ¿È«w· À?Æw¿ À?Æwö À?Æw ¾â|æw. À?Æwy À?Æw¶ À?Æw À?Æwñ À?Æwl À?Æw	ê À?Æw
+H ¿µvÍx  ¿‚áxÆ ¿µvÍxä ¿µvÍx÷ ¿µvÍx
+È ¾[˜y  ¿41z 0 ¿¢Âzzp ¿¢Âzz ¿¢Âzz
+Ã ¿•A{i ¾š ›|  ¿é÷e| r ¿é÷e| ‹ ¿é÷e|ð ¿é÷e|û ¿¡{„|	b ¿é÷e|	° ¿é÷e|
+& ¿é÷e|
+È ¿¢Âz}  ¾Œñ}Q ¿†\ð~  ¾÷„9~¯ ¿–Zî o ¿–Zîí ¿–ZîÀ ¿–Zî
+Å ¿†\ð€# ¿†\ð€	F ¿†\ð€
+L ¾[˜Þ ÀÑ|‚  ÀÑ|‚ C ÀÑ|‚3 ¿¢À‚E ÀÑ|‚z ÀÑ|‚† ÀÑ|‚E ÀÑ|‚` ÀÑ|‚‡ ÀÑ|‚– ÀÑ|‚´ ¿Ù'‚¹ ÀÑ|‚Ü ¿Ù'‚ï ÀÑ|‚% ÀÑ|‚‡ ÀÑ|‚‹ ÀÑ|‚¸ ÀÑ|‚¹ ÀÑ|‚v ÀÑ|‚š ÀÑ|‚­ ¿Ù'‚³ ¿¶í‚¹ ÀÑ|‚º ÀÑ|‚Ó ÀÑ|‚ ÀÑ|‚E ¿Ù'‚Ð ÀÑ|‚Ý ÀÑ|‚ ÀÑ|‚ä ÀÑ|‚… ÀÑ|‚¦ ÀÑ|‚Û ¿¢À‚	î ÀÑ|‚
+‘ ¿•Aƒ > ¿Î–û„ ± ¿Î–û„ì ¿Î–û„â ¿Î–û„[ ¿Î–û„w ¿Î–û„1 ¿Î–û„« ¿GÃ?„ß ¿Î–û„
+È ¿Ão?…¿ ¿1sÅ…É ¾±R…	¢ ¿•A†S ¾õso‡  ¿¼ã‡ ˆ ¿¼ã‡ ¿¼ã‡  ¿¼ã‡“ ¿Ão?ˆÆ ¿Ão?ˆ  ¿Ão?ˆ¸ ¿Ão?ˆü ¿Ão?ˆ¥ ¿Ão?ˆ' ¿Ão?ˆ	2 ¿Ão?ˆ
+‘ ¿Ão?ˆ
+Ä ¿•A‰
+È ¿†\ðŠ  ¿†\ðŠ7 ¿†\ðŠ
+È ¿•A‹ 9 ¿†\ðŒ ¿†\ðŒ¨ ¿†\ðŒ
+m À
+yQ p ¿ÌvÀ÷ À
+yQ' À
+yQ\ À
+yQ~ À
+yQ­ À
+yQD À
+yQ; À
+yQP À
+yQc À
+yQd À
+yQe À
+yQv À
+yQx À
+yQˆ À
+yQ• À
+yQ³ À
+yQ¼ À
+yQá À
+yQõ ¿ÌvÀ ¿ÌvÀv ¿ÌvÀ¡ À
+yQ¤ À
+yQ§ ¿•li	^ À
+yQ	¬ À
+yQ	½ À
+yQ	Ï À
+yQ	Õ À
+yQ
+n À
+yQ
+‡ ¿Ão?Ž u ¿Ão?Ž õ ¿Ão?ŽE ¿Ão?ŽŠ ¿Ão?Žj ¿Ão?ŽØ ¿uæ»Ž÷ ¿Ão?Ž ¿•A	ñ ¾®–F. ¿–Zîe ¿€Î¿‘ ! ¿ÉJ¡‘ ª ¿ÉJ¡‘[ ¿€Î¿‘t ¿ÉJ¡‘, ¿€Î¿‘í ¿ÉJ¡‘î ¿•A’ Ý ¾[˜“Á ¿•A” ¿•A•' ¿•A–Í ¿µvÍ—À ¿µvÍ—Î ¿µvÍ—õ ¿µvÍ—I ¿µvÍ—g ¿µvÍ—s ¿µvÍ—µ ¿•A˜ ƒ ¿•A™  ¿_¥Žš
+± ¿_¥Žš
+² ¿•A›ú ¿•Aœ	; ¿•A
+‘ ¿¾ž o ¿–Zîž ¿–Zîž ¿•AŸ Ä ¿•A ° ¿•A¡ú ¿•A¢À ¿ïÒÇ£  ¿ïÒÇ£ 9 ¿ïÒÇ£  ¿ïÒÇ£ â ¿ïÒÇ£ ä ¿ïÒÇ£ ¿ïÒÇ£å ¿ïÒÇ£- ¿ïÒÇ£[ ¿ïÒÇ£r ¿ïÒÇ£¾ ¿§Væ£Â ¿ïÒÇ£æ ¿ïÒÇ£– ¿ïÒÇ£Õ ¿ïÒÇ£	] ¿ïÒÇ£	¿ ¿ïÒÇ£
+ ¿ïÒÇ£
+È ¿•A¤  ¿•A¥ r ¿†\ð¦t ¿†\ð¦, ¿†\ð¦â ¿_¥Ž§ ¿_¥Ž§	p ¿•A¨ñ ¾6¥©©\ ¾ŒñªÜ ¿¢ÂzªÂ ¿†\ð«é ¿†\ð«÷ ¿†\ð«’ ¿_¥Ž¬š ¿_¥Ž¬
+Y ¿¥Ê0­ o À?Æ­ õ À?Æ­À À?Æ­e ¿È«­— À?Æ­ À?Æ­; ¿rÉž­o ¿'8ï­, À?Æ­’ À?Æ­á À?Æ­è ¿¥Ê0­í À?Æ­ø À?Æ­c À?Æ­	D ¿¥Ê0­
+ À?Æ­
+M ¿•A®À ¿•A¯Þ ¿41°ú ¾à4w°	° ¿µvÍ±B ¿µvÍ± ¿µvÍ±Ù ¿µvÍ±ø ¿µvÍ±	‡ ¿µvÍ±	° ¿µvÍ±
+È ¿_¥Ž²¸ ¿_¥Ž²Ã ¿¢Âz³  ¿¢Âz³Ý ¿¢Âz³  ¿¢Âz³¸ ¿¢Âz³Ž ¾[˜´« ¿•AµX ¿•A¶
+È ¿•A·	½ ¿•A¸ž ¿Ão?¹n ¿Ão?¹£ ¿Ão?¹| ¿Ão?¹x ¿Ão?¹“ ¿Ão?¹± ¿Ão?¹© ¿Ão?¹
+ž ¿Ão?¹
+± ¿æÉúº Ô ¿æÉúº ì ¿æÉúº¿ ¿æÉúºÁ ¿æÉúº3 ¿æÉúº ¿æÉúº­ ¿æÉúº² ¿æÉúºÎ ¿æÉúºO ¿æÉúºŽ ¿æÉúº´ ¿žNº¶ ¿æÉúºú ¿æÉúº	¦ ¿æÉúº	û ¿•A»: ¿_¥Ž¼è ¿_¥Ž¼
+ ¿•A½t ¿÷—¹¾ ‹ ¿÷—¹¾ £ ¿÷—¹¾ º ¿÷—¹¾ Ô ¿÷—¹¾o ¿÷—¹¾» ¿÷—¹¾Ì ¿÷—¹¾E ¿÷—¹¾ˆ ¿÷—¹¾ ¿÷—¹¾  ¿÷—¹¾ ¿÷—¹¾Í ¿÷—¹¾7 ¿¯Ø¾X ¿÷—¹¾^ ¿÷—¹¾i ¿÷—¹¾˜ ¿÷—¹¾ú ¿÷—¹¾	… ¿÷—¹¾	° ¿÷—¹¾	Ö ¿•A¿	: ¿_¥ŽÀ« ¿_¥ŽÀ	\ ¿•AÁÆ ¿Î–ûÂ  ¿Î–ûÂ  ¿Î–ûÂ Ô ¿†ÂÁ ¿Î–ûÂì ¿Î–ûÂ¢ ¿Î–ûÂ× ¿Î–ûÂ
+d ¿Î–ûÂ
+š ¿Î–ûÂ
+± ¿•AÃ ¿†\ðÄ c ¿†\ðÄZ ¿†\ðÄ; ¿•AÅ	¼ ¿•AÆ¿ ¿_¥ŽÇZ ¿_¥ŽÇ	á ¿¬åÈ ¡ ¿¬åÈt ¿¬åÈ/ ¿¬åÈÌ ¿¬åÈ ¿¬åÈ	œ ¾[˜É÷ ¿Ão?Êâ ¿Ão?Ê@ ¿Ão?ÊÌ ¿uæ»Êm ¿Ão?Ê ¿Ão?Ê/ ¿Ão?Ê( ¿Ão?Ê
+O ¿ãk;Ëµ ¿ãk;ËÁ ¿ãk;Ë ¿ãk;Ën ¿ãk;Ë ¿šïZËo ¿ãk;ËŠ ¿ãk;Ëò ¿qk¾Ëˆ ¿šïZË˜ ¿ãk;ËÔ ¿ãk;Ë× ¿•AÌ	 ¿¬åÍÎ ¿¬åÍ‘ ¿¬åÍ¸ ¿HÒjÍ ¿¬åÍ
+^ ¿•AÎL ¿•AÏ³ ¿_¥ŽÐÌ ¿_¥ŽÐ§ ¿–ZîÑÀ ¿–ZîÑé ¿–ZîÑ9 ¿–ZîÑÄ ¿•AÒn ¿•AÓ÷ ¿¬åÔ ¡ ¿¬åÔì ¿HÒjÔ‘ ¿¬åÔ ¿¬åÔ	7 ¿•AÕ“ ¿_¥ŽÖ­ ¿_¥ŽÖ  ¿•A×	7 ¿•AØ õ ¿•AÙã ¿•AÚ ¿†\ðÛ“ ¿†\ðÛë ¿†\ðÛ
+± ¿Î–ûÜÀ ¿†ÜÆ ¿Î–ûÜÞ ¿Î–ûÜˆ ¿Î–ûÜ’ ¿Î–ûÜ ¿GÃ?Ü… ¿Î–ûÜÛ ¿•AÝ
+‘ ¿•AÞ	¨ ¿•Aß	É ¿•AàY ¿•Aá  ¿•Aâl ¾÷„9ãõ ¿†\ðã ¿_¥Žä Ô ¿_¥Žäó ¿•Aåñ ¿_¥Žæé ¿_¥Žæ	7 ¿_¥ŽçÞ ¿_¥Žçv ¿¬åè  ¿¬åè ¢ ¿¬åèë ¿¬åèš ¿¬åè	Y ¿¬åè	ð ¿†\ðé’ ¿†\ðéa ¿†\ðé	œ ¿•Aê
+F ¿µvÍëÚ ¿µvÍëe ¿Yõ×ë	= ¿µvÍë	ñ ¿µvÍë
+q ¿µvÍë
+ ¿¬åì Ä ¿¬åìØ ¿¬åì ¿HÒjì	˜ ¿¬åì	¦ ¿•Aí° ¿•AîÏ ¿•Aï™ ¿•Að Ô ¿•Añ	^ ¿•AòX ¿–Zîói ¿–Zîóº ¿–Zîó	µ ¿–Zîó
+‘ ¿•Aôz ¿•Aõ ¿~„ö  ¿é÷eö$ ¿é÷eöé ¿%¹Qö  ¿¡{„ö· ¿é÷eö ¿¡{„ö' ¿é÷eö
+= ¿é÷eö
+o ¿é÷eö
+È ¿•A÷
+o ¿•Aø  ¿•AùD ¿¬åúš ¿¬åú ¿¬åú’ ¿¬åú  ¿¬åú× ¿¬åú	¾ ¿–Zîû  ¿–Zîû3 ¿–ZîûÚ ¿–Zîû	± ¿•Aü  ¿•Aýó ¿¾þ  ¿–ZîþÞ ¿–ZîþÀ ¿•Aÿ. ¿•A ³ ¿•Ao ¿•A	ë ¿•A „ ¿•A  ¿•A ¾]<œ	° ¿_¥Ž, ¿_¥Žø ¿•A ¿¬å	  ¿¬å	 À ¿¬å	ó ¿¬å	- ¿¬å	 ¿¬å		… ¿•A
+÷ ¿•Až ¿•AQ ¿•A] ¿•A	‘ ¿•A ¾ ¿•A ¿•A  ¿ÉJ¡  ¿ÉJ¡ â ¿ÉJ¡‚ ¿€Î¿ ¿ÉJ¡c ¿€Î¿( ¿ÉJ¡ž ¿ÉJ¡	œ ¿•Aé ¿•AÁ ¿•AÎ ¿•A ¿€Î¿ ¿€Î¿; ¿ÉJ¡< ¿ÉJ¡Y ¿ÉJ¡ ¿ÉJ¡	9 ¿ÉJ¡
+W ¿ÉJ¡
+Á ¿•A³ ¿•A
+Ž ¿•A} ¿†\ð. ¿†\ðÔ ¿†\ðü ¿•AÞ ¿–ZîÀ ¿–Zî	— ¿–Zî
+F ¿–Zî
+‚ ¿Ão?S ¿Ão?t ¿Ão?w ¿Ão?Œ ¿uæ»¡ ¿Ão?? ¿Ão?¶ ¿Ão?Ä ¿•A	 ¾÷„9 Z ¿†\ð ³ ¿•A!¥ ¿•A"* ¿•A#	e ¿_¥Ž$  ¿_¥Ž$Y ¿•A%	e ¿_¥Ž&Á ¿_¥Ž&ž ¿•A'” ¿•A(d ¿•A)Ö ¿–Zî*â ¿–Zî* ¿–Zî*ú ¿–Zî*	 ¿•A+À ¿Õ£ÿ, S Àð, c Àð,  Àð, ¡ Àð, Í Àð,å Àð,é ¿³j„,[ Àð,n Àð,‰ Àð,“ Àð,Á Àð,9 ¿³j„,t Àð,w Àð,¢ Àð,£ ¿Õ£ÿ,Ì Àð,Õ Àð,ó Àð, ¿Õ£ÿ,o Àð,Y Àð,^ Àð,g Àð,q Àð,§ ¿Õ£ÿ,¶ Àð,â Àð,ù Àð,( Àð,a Àð,o Àð,… Àð,˜ Àð,	O Àð,	‚ Àð,	œ ¿_¥Ž-© ¿_¥Ž-	[ ¿•A. ¿†\ð/µ ¿†\ð/ ¿†\ð/
+ ¿Î–û0 o ¿Î–û00 ¿Î–û0O ¿Î–û0e ¿Î–û0o ¿Î–û0	^ ¿GÃ?0
+F ¿Î–û0
+k ¿Î–û0
+‘ ¿_¥Ž1 ¿_¥Ž1
+ ¿_¥Ž2í ¿_¥Ž2q ¿•A3e ¿•A4… ¿•A5Á ¿†\ð6 B ¿†\ð6[ ¿†\ð6l ¿•A7
+W ¿_¥Ž8u ¿_¥Ž8; ¿¼ã9 u ¿¼ã9† ¿¼ã9@ ¿¼ã9ñ ¿¼ã9 ¿¼ã9( ¿¼ã9X ¿¼ã9	H ¿•A: ¿_¥Ž;  ¿_¥Ž;… ¿_¥Ž<. ¿_¥Ž<  ¿•A=ú ¿¢Âz>² ¿¢Âz>_ ¿¢Âz>` ¿¢Âz>¥ ¿¢Âz>
+~ ¿•A?  ¿•A@Î ¿†\ðA{ ¿†\ðA% ¿†\ðAÛ ¿•AB m ¿–ZîC  ¿–ZîCÎ ¿–ZîCA ¿–ZîC… ¿–ZîD " ¿–ZîD’ ¿–ZîD
+‚ ¿–ZîD
+± ¿•AE÷ ¿_¥ŽF ¼ ¿_¥ŽF­ ¿•AG¸ ¿•AHL ¿_¥ŽIé ¿_¥ŽI/ ¿¢ÂzJ £ ¿¢ÂzJû ¿¢ÂzJ ¿¢ÂzJ ¿¢ÂzJ
+ ¿•AKé ¿_¥ŽLÆ ¿_¥ŽLq ¿•AM	7 ¾[˜NA ¿_¥ŽOô ¿_¥ŽO³ ¿•APÜ ¿•AQÁ ¿•AR R ¿•AS X ¿•ATÊ ¿•AUó ¿_¥ŽV& ¿_¥ŽVo ¿•AW	ú ¿_¥ŽX * ¿_¥ŽXX ¿•AYÀ ¿_¥ŽZ¥ ¿_¥ŽZo ¿–Zî[  ¿–Zî[Ú ¿–Zî[î ¿–Zî[
+‘ ¿¼ã\g ¿¼ã\­ ¿¼ã\÷ ¿hÎf\¾ ¿$[p\^ ¿•A]Î ¿_¥Ž^7 ¿_¥Ž^˜ ¿•A_	. Àù±`  Àù±` ¨ Àù±`Ž Àù±`˜ Àù±`é Àù±`û Àù±`‰ Àù±`	 ¿Áw€`ò ¿Šm)` Àù±`s Àù±`´ Àù±`Ù Àù±`ý Àù±` Àù±`\ Àù±`q Àù±`3 Àù±`< ¿Áw€`• Àù±`	' Àù±`	­ Àù±`	Æ ¿Áw€`
+O Àù±`
+] Àù±`
+~ ¾[˜aˆ ¿_¥Žb	ª ¿_¥Žb
+¹ ¿•Ac ¿•Ad
+m ¿_¥Že  ¿_¥Že ¿$[pfè ¿¼ãf. ¿¼ãfà ¿¼ãf, ¿¼ãfÃ ¿¼ãf
+q ¿•Ag m ¿•AhW ¿•Ai¸ ¿•Aj
+u ¿_¥Žk- ¿_¥Žk¨ ¿†\ðlì ¿†\ðlÛ ¿†\ðl
+È ¿_¥Žm} ¿_¥Žm
+F ¿_¥Žn ¿_¥Žnh ¿•Ao	— ¿–Zîp £ ¿–Zîp= ¿–ZîpÁ ¿–Zîp	^ ¿•Aq F ¿†\ðr ª ¿†\ðrt ¿†\ðrL ¿†\ðs  ¿†\ðsç ¿†\ðsû À=>t ^ ¿»þ›tP À=>t À=>t
+ À=>t ¿»þ›t~ À=>tÛ ¿»þ›t“ ¾’–ÍtÛ À=>t
+‰ ¿»þ›t
+È ¿µvÍu¦ ¿µvÍu1 ¿µvÍuÒ ¿µvÍu, ¿µvÍuz ¿µvÍu
+ ¿µvÍu
+È ¿†\ðvð ¿†\ðv… ¿†\ðv	 ¿•AwS ¿•Ax
+± ¿¢Âzy ¿¢Âzyí ¿¢Âzyü ¿¢ÂzyX ¿¢Âzy	^ ¿•Az
+± ¿_¥Ž{¸ ¿_¥Ž{
+± ¿¢Âz| ¾ ¿41|Œ ¿¢Âz|¶ ¿¢Âz| ¿_¥Ž} ¿_¥Ž}  ¿•A~h ¿•A  ¿¢Âz€ ¿41€å ¿¢Âz€ ¿¢Âz€
+ ¿¼ã u ¿¼ã] ¿¼ã^ ¿hÎfo ¿¼ãú ¿¼ã	ã ¿¼ã
+m ¿•A‚) ¿•Aƒ Ô ¿•A„÷ ¿•A…  ¿_¥Ž†ˆ ¿_¥Ž†	µ ¿_¥Ž‡ ¸ ¿_¥Ž‡È ¿†\ðˆç ¿†\ðˆè ¿†\ðˆ
+) ¿•A‰Q ¿_¥ŽŠÀ ¿_¥ŽŠ
+Ã ¿•A‹ o ¿•AŒ
+Ã ¿†\ðˆ ¿†\ð  ¿†\ðœ ¿_¥ŽŽ Ò ¿_¥ŽŽ ¿•AŽ ¿•A
+È ¿•A‘  ¿•A’Ô ¿V{“  ¿g0è“ 9 À#‚Ø“ Z À#‚Ø“ o À#‚Ø“ ± À#‚Ø“ Ê À#‚Ø“ Ø À#‚Ø“ â À#‚Ø“ ó À#‚Ø“8 ¿Çx“f À#‚Ø“œ ¿þ‰Ï“² À#‚Ø“³ À#‚Ø“¾ À#‚Ø“À ¿ÜPU“Ã À#‚Ø“Æ À#‚Ø“f À#‚Ø“½ ¿þ‰Ï“Ÿ À#‚Ø“  À#‚Ø“¾ À#‚Ø“¿ À#‚Ø“î ¿þ‰Ï“ð À#‚Ø“% À#‚Ø“) À#‚Ø“, À#‚Ø“› À#‚Ø“r ¿þ‰Ï“‚ À#‚Ø“Â À#‚Ø“é À#‚Ø“  ¿þ‰Ï“© À#‚Ø“¾ À#‚Ø“À À#‚Ø“Î À#‚Ø“F À#‚Ø“¤ À#‚Ø“è À#‚Ø“	q ¿¯êô“	¿ À#‚Ø“	Ú ¿þ‰Ï“
+ À#‚Ø“
+) ¿Çx“
+L ¿þ‰Ï“
+‘ À#‚Ø“
+Ã ¿ÜPU“
+È ¿†\ð” ¿†\ð”b ¿†\ð”	Q ¿•A•÷ ¿•A–	D ¿•A—À ¿•A˜' ¿Ão?™a ¿Ão?™† ¿Ão?™¢ ¿Ão?™ ¿Ão?™Ê ¿Ão?™' ¿Ão?™ˆ ¿Ão?™Ä ¿Ão?™	ã ¿•Aš· ¿•A›
+¶ ¿_¥Žœ Õ ¿_¥Žœ ¿•A ‹ ¿†\ðžâ ¿†\ðž× ¿†\ðž© ¿•AŸ	 ¿•A á ¾÷„9¡W ¿†\ð¡ÿ ¿¢Âz¢z ¿41¢À ¿¢Âz¢„ ¿¢Âz¢ ¿•A£ ã ¿ž™§¤  Àð¤: Àð¤Æ Àð¤Þ ¿m¸P¤à ¾ù,\¤  ¿Õ£ÿ¤· Àð¤j Àð¤÷ ¿)ª€¤  Àð¤	` Àð¤
+± ¿Õ£ÿ¤
+È ¿¢Âz¥  ¿¢Âz¥n ¿¢Âz¥  ¿¢Âz¥° ¿¢Âz¥
+È ¿•A¦  ¿•A§ú ¿•A¨
+U ¿ãk;© J ¿ãk;©W ¿ãk;©z ¿ãk;©» ¿ãk;©Á ¿ãk;©Þ ¿ãk;©ß ¿ãk;©ÿ ¿ãk;©þ ¿ãk;©¸ ¿ãk;© ¿ãk;©  ¿ãk;©- ¿ãk;©	æ ¿šïZ©
+^ ¿•Aª Ô ¿•A«	 ¿•A¬	 ¿_¥Ž­; ¿_¥Ž­	l ¿HÒj®  ¿¬å®* ¿¬å®É ¿¬å®
+8 ¿¬å®
+‘ ¿Î–û¯  ¿Î–û¯| ¿Î–û¯° ¿Î–û¯¿ ¿Î–û¯ë ¿Î–û¯ ¿Î–û¯§ ¿Î–û¯¸ ¿Î–û¯ ¿Î–û¯, ¿Î–û¯¾ ¿–Zî° 9 ¿–Zî° Ÿ ¿–Zî°	 ¿–Zî°
+¸ ¿¬å± – ¿¬å± ˜ ¿¬å±é ¿¬å±¸ ¿¬å±÷ ¿¬å±	F ¿_¥Ž² ó ¿_¥Ž²Æ ¿Î–û³  ¿Î–û³ ! ¿Î–û³ Û ¿!†³h ¿GÃ?³“ ¿Î–û³ç ¾|ë×´  ¿ÉJ¡´ ˆ ¿ÉJ¡´	m ¿ÉJ¡´
+‘ ¿•Aµ
+È ¿•A¶å ¿•A·
+È ¿_¥Ž¸¸ ¿_¥Ž¸
+È ¿•A¹  ¿•Aº} ¿•A»¾ ¿•A¼ ‹ ¿HÒj½  ¿¬å½À ¿¬å½6 ¿¬å½û ¿¬å½	ð ¿rs¤¾  À>Å¾ 1 ¿Ø©¾ A À>Å¾ ¢ À>Å¾ Ø ¿Ø©¾
+ À>Å¾7 À>Å¾f À>Å¾† ¿m É¾Æ À>Å¾p À>Å¾‚ À>Å¾| À>Å¾` ¿Ø©¾j ¿Ø©¾w À>Å¾„ À>Å¾À ¿µÈ.¾ ¿rs¤¾… À>Å¾Ã À>Å¾Û À>Å¾	! À>Å¾	Û À>Å¾
+‘ À>Å¾
+Ã ¿•A¿§ ÀåÿÀ  ÀåÿÀ  ÀåÿÀ * ¿Í¡À 9 ÀåÿÀ o ÀåÿÀ u ÀåÿÀ ¯ ÀåÿÀ Ô ¿¸EÅÀf ÀåÿÀ½ ¿ ±AÀÃ ¿Í¡ÀÆ ÀåÿÀÞ ÀåÿÀ[ ÀåÿÀi ÀåÿÀŸ ÀåÿÀ  ÀåÿÀ· ÀåÿÀð ÀåÿÀ ÀåÿÀ ÀåÿÀ	 ÀåÿÀ ÀåÿÀ¶ ¿Í¡À¸ ÀåÿÀì ÀåÿÀ; ÀåÿÀo ÀåÿÀ‚ ÀåÿÀÛ ÀåÿÀ} ÀåÿÀ¯ ¿ïPÀÎ ÀåÿÀç ÀåÿÀô ÀåÿÀ ÀåÿÀ… ÀåÿÀÌ ÀåÿÀ× ¿Í¡ÀÛ ¿Í¡À	# ÀåÿÀ	0 ÀåÿÀ	¦ ÀåÿÀ	¿ ÀåÿÀ
+/ ¿ïPÀ
+L ÀåÿÀ
+P ÀåÿÀ
+s ¿Í¡À
+‘ ÀåÿÀ
+± ¿ïPÀ
+È ¿•AÁ  ¿•AÂï ¿•AÃ Ä ¿•AÄ
+S ¿•AÅÀ À>ÅÆ  À>ÅÆ  À>ÅÆ £ À>ÅÆ£ À>ÅÆÞ À>ÅÆT À>ÅÆX ¿Ø©Æ  ¿ ÷QÆ· À>ÅÆ¿ À>ÅÆå À>ÅÆ À>ÅÆ À>ÅÆi ¿Ø©Ær À>ÅÆ À>ÅÆ À>ÅÆX À>ÅÆ“ À>ÅÆ¤ ¿Ø©ÆÀ ¿Ø©ÆÎ À>ÅÆ À>ÅÆA ¿Ø©Æ	! À>ÅÆ	2 ¿Ø©Æ	O ¿Ø©Æ	` À>ÅÆ	€ À>ÅÆ	ð À>ÅÆ	ñ ¿rs¤Æ
+‘ À>ÅÆ
+È ¿¢ÂzÇ° ¿¢ÂzÇÿ ¿¢ÂzÇ	O ¿¢ÂzÇ
+z ¿¢ÂzÇ
+‘ ¿¬åÈE ¿¬åÈ  ¿¬åÈ
+ ¿¬åÈX ¿HÒjÈÛ ¿–ZîÉ  ¿–ZîÉ  ¿–ZîÉ	‚ ¿–ZîÉ	 ¿•AÊ ¿•AË ¿•AÌ ¿ïÒÇÍ   ¿§VæÍ q ¿ïÒÇÍ É ¿ïÒÇÍf ¿ïÒÇÍ‚ ¿ïÒÇÍÆ ¿ïÒÇÍ[ ¿…kÍð ¿ïÒÇÍ ¿ïÒÇÍl ¿ïÒÇÍ ¿ïÒÇÍ' ¿ïÒÇÍ ¿ïÒÇÍb ¿§VæÍ
+! ¿ïÒÇÍ
+‘ ¿–þÂÎ  À!=Î 	 ¿ÓÎ  ¿Uª|Î 9 ¿õÆšÎ C À!=Î ‹ ¿ÓÎ ¯ À!=Î ë À!=ÎJ À!=Îf À!=Îq À!=Î¦ À!=ÎÃ ¿õÆšÎÆ À!=ÎÞ ¿õÆšÎì À!=Îõ À!=Î‰ À!=Î¬ À!=Îg À!=Ît À!=Î± ¿ÓÎ ¿¾¼BÎ ¿ÓÎ
+ À!=Î7 À!=Î· ¿_fÎ¸ À!=Îæ ¿õÆšÎ“ À!=Î© À!=ÎÀ À!=Î; À!=Îô À!=ÎÛ À!=Î	 À!=Î	 À!=Î	C À!=Î	` À!=Î	™ À!=Î
+J ¿õÆšÎ
+‘ À!=Î
+È ¿Šñ\Ï  ¾ñIÿÏ 9 ¿Óm=Ïf ¿Óm=ÏÃ ¿Óm=Ït ¿Óm=Ï ¿Óm=Ï¸ ¿¾Ðä ¿–ZîÐì ¿–ZîÐñ ¿•AÑ	9 ¿•AÒÎ ¿¢ÂzÓ › ¿¢ÂzÓŽ ¾à4wÓ
+w ¿¢ÂzÔÀ ¿¢ÂzÔ  ¿41Ô„ ¿¢ÂzÔ
+È ¿•AÕ  ¿Yõ×Ö  ¿Yõ×Ö ¿Yõ×Öú ¿µvÍÖ
+È ¿•A×  ¿•AØÞ ¿•AÙ  ¿•AÚ  ¿•AÛü ¿•AÜ 0 ¾]<œÝ 0 ¿•AÞ, ¿–Zîß  ¿–Zîß ¿–ZîßW ¿–Zîßÿ ¿•Aà  ¿†\ðáé ¿†\ðá¸ ¿†\ðáº ¿•Aâi ¿•Aã ¯ ¿•Aä	l ¿•Aå o ¿¼ãæ 9 ¿¼ãæ ¿¼ãæ: ¿¼ãæK ¿¼ãæý ¿¼ãæ
+ ¿¼ãæ
+0 ¿¼ãæ
+v ¿•Aç÷ ¿•Aè¼ ¿•Aéð ¿•AêÈ ¿_¥Žëü ¿_¥Žë ¿•AìÞ ¿•Aí
+Ä ¿•AîÁ ¿•Aï R ¿•Að§ ¿qk¾ñ  ¿ãk;ñ ¯ ¿ãk;ñÆ ¿ãk;ñ> ¿ãk;ñ. ¿ãk;ñ¶ ¿ãk;ñ ¿ãk;ñß ¿ãk;ññ ¿ãk;ñ
+ ¿ãk;ñ
+J ¿šïZñ
+‘ ¿ãk;ñ
+È ¿Óm=ò ‹ ¿Óm=òÆ ¿Óm=òr ¿Óm=ò' ¿Šñ\ò¦ ¿Óm=ò ¿Óm=òŠ ¿Óm=ò
+ ¿QoÂò
+È ¿Î–ûóé ¿†ó  ¿!†ó× ¿GÃ?ó
+M ¿Î–ûó
+s ¿•AôZ ¿•Aõê ¿•AöÃ ¿•A÷	© ¿•Aø  ¿•Aùñ ¿•AúÆ ¿•Aû
+^ ¿•Aü  ¿•Aý  ¿†\ðþ  ¿†\ðþé ¿†\ðþ	ð ¿•Aÿì ¿•A š ¿•A ¿•A
+È ¿†\ð  ¿†\ð- ¿†\ð	F ¿•AÃ ¿•A. ¿_¥Ž ‹ ¿_¥Ž  ¿_¥Ž– ¿_¥Ž
+È ¿•A¸ ¿•A	ë ¿•A
+ì ¿_¥Ž  ¿_¥Žž ¾]<œ  ¿ïÒÇ  ¿ïÒÇ Õ ¿ïÒÇ è ¿…kC ¿§Væº ¿ïÒÇ» ¿…k ¿§VæÈ ¿ïÒÇÛ ¿ïÒÇ
+ ¿§Væ
+Ã ¿§Væ
+È ¿µvÍf ¿µvÍÞ ¿µvÍ  ¿µvÍÍ ¿µvÍ
+‘ ¿Yõ×
+È ¿¼ãÆ ¿¼ã ¿¼ã‚ ¿¼ãÎ ¿¼ã	~ ¿¼ã
+) ¿¼ã
+‘ ¿¼ã
+È ¿Šˆ<  ¿Šˆ< C ÀÑ| ¡ ÀÑ| « ¿Ù' ô ÀÑ|V ¿Ù'P ÀÑ|h ¿¢À¿ ¿Ù'ë ¿¶í ÀÑ| ÀÑ| ÀÑ| ¿Ù'¸ ÀÑ|; ÀÑ|Y ÀÑ| ÀÑ|Û ÀÑ|	 ÀÑ|	; ÀÑ|	C ÀÑ|	` ÀÑ|	l ÀÑ|	n ÀÑ|	¿ ¿Šˆ<
+) ÀÑ|
+D ¿†\ð  ¾÷„9j ¿_¥Ž] ¿_¥ŽÂ À[Ü Z ¿æ;Ö e À[Ü u À[Ü ‘ À[Ü £ À[Ü Á ¿Ä\ Ô À[Ü ç ¿æ;Öâ À[Ük ¿c©G× À[Ü’ À[Ü• À[Ü À[Ü ¿…
+’ À[Ü À[Ü¸ À[Üº À[Üó ¿æ;ÖQ ¿Ä\m À[Üˆ À[Ü; À[Üà ¿æ;ÖÚ À[ÜÛ À[Ü	) ¿c©G	* À[Ü	C À[Ü	K ¿æ;Ö
+  À[Ü
+± ¿•A ‹ ¿_¥Ž- ¿_¥Ž+ ¿•Aº ¿•A¸ ¿_¥ŽÀ ¿_¥Ž¸ ¿•A
+È ¿•A 0 ¿•A
+‘ ¿¿³°  ÀÉ ¾ ÀÉf ÀÉz ÀÉâ ÀÉ+ ¿z5ú ÀÉD ÀÉÃ ÀÉ	P ÀÉ	™ ÀÉ
+= ÀÉ
+H ÀÉ
+‘ ÀÉ
+Ã ¾Á<û
+È ½4+À
+È ¿†\ð 9 ¿†\ðŸ ¿†\ðµ ¿•A Ä ¿†\ð  « ¿†\ð ¸ ¿†\ð 	Ç ¿•A!  ¿•A" ¡ ¿_¥Ž# ‹ ¿_¥Ž#À ¿•A$  ¿_¥Ž% Ê ¿_¥Ž%
+, ¿•A& Õ À-17'  ¿ï­'  ÀóF' : À-17' v À-17'  À-17' £ À-17' Ô ÀóF'] À-17'^ ¿°µH'† À-17'¹ À-17'» À-17'â À-17'¯ ¿ÚÜ5'× ¿ï­'  À-17'0 À-17'2 ¿ÃG±'O ¿|Æõ'n À-17'o À-17'ç À-17'é À-17' À-17': À-17'D À-17'M À-17'P À-17'r ¿ÃG±'“ À-17'Ã ÀóF'Ì À-17'Ú À-17'ð À-17'
+ ¿³¶'# À-17'‚ À-17'¤ À-17'Ö À-17'í À-17'* À-17'O À-17'r À-17'Ÿ À-17'§ ÀóF'¶ À-17'¹ À-17'Î À-17'ê À-17' ¿ÚÜ5' À-17'[ À-17'^ À-17'f À-17'x À-17' ¿‹Ër'… ¿ÚÜ5'¾ À-17'× ÀóF'	 À-17'	 À-17'	% À-17'	\ ÀóF'	m À-17'	‚ À-17'	› À-17'	¡ ÀóF'	Û À-17'	Ü À-17'
+ À-17'
+F À-17'
+s À-17'
+ À-17'
+ª ¿¢Âz(° ¿¢Âz(® ¿¢Âz(® ¿¢Âz(	' ¿¢Âz(	l ¿_¥Ž)  ¿_¥Ž)À ¿‹+*  ¿×àS*n ¿×àS*| ¿×àS*  ¿×àS*	C ¿ZUí*	D ¿×àS*
+  ¿†\ð+  ¿†\ð+P ¿†\ð++ ¾Ârj,  ¿×àS,— ¿×àS,ö ¿×àS,K ¿×àS,ù ¿×àS,
+ ¿×àS,
+) ¿×àS,
+É ¿¢Âz-  ¿¢Âz- / ¿¢Âz-  ¿¢Âz-À ¿¢Âz-Á ¿•A.X ¿ÉJ¡/  ¿=*‰/þ ¿ÉJ¡/Î ¿€Î¿/Ñ ¿ÉJ¡/	™ ¿ÉJ¡/
+= ¿ÉJ¡/
+È ¿×àS0 : ¿×àS0Q ¿×àS0 ¿×àS0 ¿dq0¿ ¿×àS0? ¿×àS0	© ¿dq0
+ ¿dq0
+L ¿×àS0
+S ¿•A1À ¿•A2· ¿•A3  ¿•A4
+È ¾[˜5 ¿†6  ¿GÃ?6  ¿Î–û6Ã ¿Î–û6Å ¿Î–û6ð ¿Î–û6r ¿Î–û6ö ¿Î–û6
+s ¿•A7N ¿•A8  ¾[˜9 † ¿•A:  ¿Ûþó; e ¿Ûþó;ê ¿Ûþó;® ¿Ûþó;  ¿Ûþó;© ¿Ûþó;ß ¿Ûþó;Q ¿Ûþó;N ¿“ƒ;  ¿Ûþó;½ ¿Ûþó;	* ¿Ûþó;	ÿ ¿Ûþó;
+½ ¾]<œ<5 ¿•A=
+Q ¿•A>	' ¿¢Âz?N ¿¢Âz?A ¿¢Âz?? ¿¢Âz?	“ ¿¢Âz?
+Ã ¿•A@  ¿Î–ûA  ¿Î–ûA· ¿GÃ?A` ¿Î–ûAa ¿Î–ûA
+! ¿!†A
+È ¿†\ðB  ¿†\ðB, ¿†\ðB ¿•AC  ¿•AD¾ ¾[˜E  ¿µvÍF  ¿µvÍF  ¿µvÍFÆ ¿µvÍFð ¿µvÍF ¿µvÍF ¿µvÍFU ¿_¥ŽG	™ ¿_¥ŽG	¿ ¿•AHy ¿•AI. ¿•AJ¾ ¿•AK' ¿¬åL 9 ¿¬åLZ ¿¬åLÞ ¿HÒjLO ¿¬åL
+G ¿†\ðM  ¿†\ðMÀ ¿†\ðM	 ¿–ZîN Ê ¿–ZîNì ¿¾N
+È ¿ZUíO  ¿×àSO ¢ ¿×àSOÀ ¿×àSO
+ ¿×àSOa ¿×àSO' ¿ZUíO¹ ¿dqO
+È ¿†\ðPÞ ¿†\ðP	! ¿†\ðP	A ¿¢ÂzQÌ ¿¢ÂzQJ ¿¢ÂzQ~ ¿41Q
+È ¿•AR	0 ¾¯vS  ¿¼ãSÈ ¿_¥ŽT† ¿_¥ŽT' ¿_tU  ¿¬åUf ¿¬åUr ¿¬åU
+È ¿•AVŽ ¿•AW e ¿_¥ŽX	± ¿_¥ŽX
+È ¿Î–ûY 9 ¿†Y ¢ ¿Î–ûY7 ¿†Y  ¿Î–ûY  ¿†Y, ¿Î–ûY€ ¿Î–ûY
+O ¿_¥ŽZì ¿_¥ŽZ
+È ¿•A[Q ¿•A\¾ ¿_¥Ž] 9 ¿_¥Ž]ì ¾×ÂP^  ¿µvÍ^« ¿µvÍ^¾ ¿µvÍ^û ¿¬å_ a ¿¬å_ ¢ ¿¬å_ ¿¬å_	> ¿¬å_
+~ ¿¬å_
+¡ ¿–Zî`¸ ¿–Zî` ¿–Zî`È ¿–Zî`	× ¿_¥Žag ¿_¥Ža	o ¿•AbÜ ¿¾c× ¿¾c
+m ¿•Ad
+& ¿ìøÓe ¿Zå5eÆ ¿ìøÓen ¿‚Cwe  ¿ìøÓe¸ ¿ìøÓeo ¿ìøÓe, ¿ìøÓe	2 ¿ìøÓe
+‘ ¿+¼,e
+È ¿•Af  ¿_¥ŽgÃ ¿_¥Žg% ¿•Ah	á ¿•Ai  ¿_¥ŽjÐ ¿_¥Žjû ¿•AkÃ ¿•Al ¾µ{vm  ¿¬åm L ¿¬åmg ½4+Àn u ¿•Ao ¾[˜pÆ ¿—Xèq  ¿ßÔÉq Ê ¿ßÔÉq¸ ¿ßÔÉq ¿ßÔÉq	 ¿ßÔÉq	2 ¿ßÔÉq	¿ ¿tq	å ¿ßÔÉq
+Å ¿ßÔÉq
+È ¿•Arò ¿‚ásä ¿µvÍs½ ¿Yõ×si ¿µvÍs
+¹ ¿•At  ¿•Au
+ ¿•Avì ¿•AwÀ ¿†x  ¿Î–ûx Ê ¿Î–ûxÆ ¿†xÊ ¿Î–ûx  ¿†x. ¿Î–ûxû ¿Î–ûx	 ¿•Ay
+È ¾]<œz	O ¿•A{ ¿_¥Ž| ¿_¥Ž|À ¿•A}	e ¿•A~. ¿_¥Ž  ¿_¥Ž L ¿_¥Ž€Ì ¿_¥Ž€Ç ¿ãk;  ¿ãk;  ¿ãk; o ¿ãk; ‹ ¿ãk; ¿ãk;À ¿ãk;  ¿ãk;ð ¿ãk; ¿ãk; ¿ãk;¶ ¿ãk;r ¿ãk;? ¿ãk;	! ¿ãk;	P ¿ãk;
+Å ¿•A‚9 ¿•Aƒ	è ½º{Ì„Ü ¿•A… ¿•A†Â ¿•A‡  ¿_¥Žˆq ¿_¥Žˆ
+¦ ¿•A‰Æ ¿•AŠ
+‘ ¾×ÂP‹  ¿µvÍ‹ ¡ ¿µvÍ‹
+ ¿µvÍ‹r ¿•AŒ ¿æÉú ^ ¿æÉú Ê ¾§›—Æ ¿æÉú ¿žN÷ ¿æÉú, ¿x)<
+È ¿Ão?Ž  ¿uæ»ŽÀ ¿uæ»Ž“ ¿Ão?Ž ¿Ão?Ž	á ¿Ão?Ž
+L ¿Ão?Ž
+È ¿•A  ¿_¥Ž  ¿_¥Ž
+‘ ¿_¥Ž‘  ¿_¥Ž‘ž ¿Ã-i’  ¿Œ#’ Y ÀÔ¥’ – ÀÔ¥’ « ¿Ã-i’À ¿HË%’Ì ¿Ã-i’ì ¿ óî’ ÀÔ¥’ ÀÔ¥’, ÀÔ¥’™ ÀÔ¥’I ÀÔ¥’û ÀÔ¥’	O ÀÔ¥’	¹ ÀÔ¥’
+ ¿ óî’
+U ÀÔ¥’
+È ¿•A“	° ¾[˜”À ¿_¥Ž• Å ¿_¥Ž• ¿†\ð–¸ ¾÷„9–| ¿)í6—  ¿ü:S—  ¿³¾r— 9 ¿J?,— Ä ¿ü:S— Æ ¿ü:S— Ô ¿ü:S—À ¿ü:S—Ù ¿ü:S—
+ ¿ü:S—« ¿ü:S—ó ¿ü:S—	0 ¿ü:S—	Û ¿ü:S—
+) ¿ü:S—
+‘ ¿•A˜	( ¿•A™À ¿•Aš
+& ¿•A›õ ¿•Aœ
+‘ ¾]<œ	É ¿¬åž  ¿¬åžÆ ¿¬åž  ¿¬åž¸ ¿¬åž
+‘ ¿¬åž
+È ¿Î–ûŸ  ¿GÃ?Ÿh ¿†ŸÀ ¿Î–ûŸñ ¿Î–ûŸ ¿Î–ûŸX ¿Î–ûŸ	ã ¿Î–ûŸ
+È ¿¬å   ¿¬å  * ¿¬å  9 ¿_t  ¿•A¡W ¿×àS¢ 9 ¿×àS¢ u ¿×àS¢ ¿×àS¢À ¿×àS¢ç ¿×àS¢“ ¿×àS¢o ¿×àS¢	? ¿×àS¢	ã ¿×àS¢
+J ¿×àS¢
+‚ ¿×àS¢
+‘ ¿×àS¢
+È ¿•A£  ¿•A¤À ¾[˜¥Á ¿ZUí¦  ¿dq¦Ã ¿×àS¦- ¿×àS¦g ¿×àS¦. ¿×àS¦ú ¿×àS¦b ¿×àS¦Ê ¿×àS¦	¿ ¿×àS¦
+¡ ¿µvÍ§  ¿µvÍ§ˆ ¾rà}§O ¿•A¨ì ¿•A©
+‘ ¿•Aª
+L ¿•A« m ¿–Zî¬ ¥ ¿–Zî¬Î ¿–Zî¬	 ¿–Zî¬
+ ¿•A­
+È ¿•A®7 ¾÷„9¯  ¿†\ð¯ì ¿†\ð°» ¾÷„9°ò ¿•A±
+È ¿41²{ ¿¢Âz²© ¿41²
+È ¿•A³ò ¿_¥Ž´B ¿_¥Ž´	… ¿•Aµ} ¿—Xè¶/ ¿ßÔÉ¶  ¿—Xè¶’ ¿—Xè¶­ ¿ßÔÉ¶' ¿@!¶¾ ¿j>Ú¶ù ¿_¥Ž·e ¿_¥Ž·
+‘ ¿•A¸  ¿•A¹ * ¿¢Âzº  ¿¢Âzº ¿41ºÛ ¿¢Âzº
+= ¿_¥Ž»  ¿_¥Ž»m ¿•A¼  ¿¼ã½ 9 ¾õso½ Ê ¿¼ã½Ã ¿¼ã½ê ¿¼ã½½ ¿¶Ô¾  ¿õ"¾ 9 ¿õ"¾ Å ¿õ"¾G ¿õ"¾ ¿õ"¾ª ¿õ"¾® ¿õ"¾X ¿õ"¾î ¿õ"¾	? ¿ŠiÆ¾	Û ¿õ"¾
+, ¿õ"¾
+= ¿¬£A¾
+‘ ¿Ão?¿  ¿Ão?¿¾ ¿Ão?¿¸ ¿uæ»¿ü ¿Ão?¿ ¿1sÅ¿
+‘ ¿µvÍÀÀ ¿µvÍÀÞ ¿µvÍÀg ¿µvÍÀ  ¿µvÍÀ¤ ¿µvÍÀ¦ ¿µvÍÀ
+L ¾[˜ÁØ ¿•AÂ  ¿¢ÂzÃð ¿¢ÂzÃ ¿¢ÂzÃÃ ¿¢ÂzÃ
+L ¿¢ÂzÃ
+‘ ¿†\ðÄ  ¿†\ðÄ­ ¿†\ðÄ_ ¿•AÅ  ¿•AÆ  ¿•AÇ€ ¿•AÈí ¿•AÉ ¾µ{vÊ L ¿¬åÊ M ¿¬åÊ ¥ ¿¾Ë] ¿¾Ë	ã ¿•AÌA ¿_¥ŽÍì ¿_¥ŽÍ	 ¿_¥ŽÎÊ ¿_¥ŽÎò ¿•AÏ
+ ¿¬åÐ ¿¬åÐq ¿¬åÐk ¿¬åÐa ¿¬åÐ	Û ¿¬åÐ
+e ¿_¥ŽÑ  ¿_¥ŽÑ ¿•AÒ ¿¾Ó¸ ¿¾Ó“ ¾µ{vÔ Ê ¿¬åÔ ¿¬åÔ
+‘ ¿•AÕ Y ¿–ZîÖÃ ¿–ZîÖÆ ¿–ZîÖð ¿–ZîÖ	O ¿_¥Ž×Þ ¿_¥Ž×Ü ¿•AØ„ ¿•AÙÀ ¿_¥ŽÚ  ¿_¥ŽÚ  ¿_¥ŽÛ ‹ ¿_¥ŽÛÞ ¿_¥ŽÜÀ ¿_¥ŽÜ
+‘ ¿•AÝ ¹ ¾]<œÞn ¿•Aß  ¿†\ðà	h ¿†\ðà
+‘ ¿†\ðà
+ ¿_¥Žá¢ ¿_¥Žá
+‘ ¿–Zîâ Ô ¿–ZîâÆ ¿–Zîâ¾ ¿–Zîâ	e ¿•Aã' ¾[˜ä. ¾[˜å	D ¿–Zîæ ª ¿–Zîæð ¿–ZîæÄ ¿–Zîæ ¿¼ãç Î ¿¼ãçl ¿hÎfç  ¿¼ãç# ¿¼ãç	> ¿¼ãç
+± ¿¼ãç
+² ¿†\ðè c ¿†\ðèE ¿†\ðè
+ ¿•Aé. ¿TâZê† ¿é÷eêÀ ¿é÷eêé ¿~„ê  ¿é÷eêp ¿é÷eêÎ ¿~„ê¾ ¿é÷eêò ¿é÷eê	2 ¿é÷eê	Û ¿é÷eê
+‘ ¿¼ãë  ¿¼ãë l ¿¼ãë ¿¼ãëñ ¿¼ãë	× ¿¼ãë	ü ¿¼ãë
+J ¿¼ãë
+L ¿•Aì
+J ¿ÉJ¡í ­ ¿€Î¿í× ¿ˆÏí ¿ÉJ¡íB ¿ÉJ¡í	e ¿ÉJ¡í
+È ¿41î  ¿¢Âzîr ¿¢Âzî' ¿¢Âzî0 ¿41ïÈ ¾à4wïÛ ¿_¥Žð  ¿_¥ŽðX ¿•Añì ¿•AòÇ ¿_¥Žóì ¿_¥Žó0 À¨÷ô  À¨÷ôÁ À¨÷ôï À¨÷ôð À¨÷ôþ À¨÷ô À¨÷ô À¨÷ô6 ¿ÖÖô; ¿ÖÖô? À¨÷ôI À¨÷ôU À¨÷ôW À¨÷ôY À¨÷ôv ¿ÖÖôy À¨÷ô„ À¨÷ô À¨÷ô· À¨÷ôÃ À¨÷ôÏ À¨÷ô  À¨÷ô1 À¨÷ô· À¨÷ôð ¿pkô¸ À¨÷ô À¨÷ôw ¿´œ’ô À¨÷ôž À¨÷ô± À¨÷ôÀ À¨÷ôÈ À¨÷ôð À¨÷ôe À¨÷ô• À¨÷ô
+‘ ¿_¥Žõ× ¿_¥Žõ
+ ¿_¥Žö * ¿_¥Žö¸ ¿†\ð÷  ¿†\ð÷, ¿†\ð÷
+‘ ¿ßÔÉø o ¿ßÔÉø ¿—XèøÆ ¿ßÔÉø  ¿ßÔÉøª ¿ßÔÉø± ¿ßÔÉøú ¿ßÔÉø	° ¿ßÔÉø
+= ¿ßÔÉø
+‘ ¿ßÔÉø
+” ¿j>Úø
+È ¿GÃ?ù  ¿Î–ûùÆ ¿†ù  ¿Î–ûùA ¿Î–ûù¶ ¿Î–ûùX ¿Î–ûùû ¿Î–ûù
+= ¿•Aú  ¿•Aû  ¾÷„9üÁ ¿†\ðüK ¿¢Âzý  ¿¢Âzý ‹ ¿¢Âzýð ¿41ý	6 ¿•Aþ  ¿GÃ?ÿ  ¾MÿÆ ¿Î–ûÿ  ¿Î–ûÿº ¿¢Âz   ¿¢Âz N ¾à4w Æ ¿hÎf  ¿¼ã  ¿¼ãÞ ¿¼ã	C ¿¼ã
+L ¿hÎf
+‚ ¿†\ð  ¾÷„9z ¿•At ¿•A¸ ¿ª=F  À
+yQ  À
+yQ  ¿•li ! À
+yQ 9 À
+yQ À
+yQÀ À
+yQ¨ À
+yQ> À
+yQ[ À
+yQ  À
+yQ À
+yQ ¿ª=F¸ À
+yQ À
+yQÎ À
+yQá À
+yQ, ¿ÌvÀ À
+yQv À
+yQ¾ ¿ÌvÀÛ À
+yQ	o À
+yQ
+) À
+yQ
+F ¿ª=F
+Å ¿ÌvÀ
+È ¿–Zî ! ¿–Zî 9 ¿¾Û ¿_¥Ž  ¿_¥Ž| ¿•AÀ ¿•A	
+6 ¾«ìñ
+  À
+yQ
+ 9 À
+yQ
+ ‹ À
+yQ
+À ¿ª=F
+Æ À
+yQ
+Ì À
+yQ
+A ¿ª=F
+÷ ¿•li
+ú À
+yQ
+ À
+yQ
+Ì À
+yQ
+
+1 À
+yQ
+
+Ã ¿ÌvÀ
+
+È ¿_¥Ž	O ¿_¥Ž
+È ½ã1E  ¿µvÍ ! ÀÝ* ÀÝ*ì ¿˜4n ¾ß–,  ¿Ï>s ÀÝ*l ÀÝ*¸ ¿5®€' ¿˜4	2 ¿Ï>s
+‘ ¿Ï>s
+È ¿•A† ¿_¥Žn ¿_¥Ž9 ¿•A¾ ¿†\ð ¾÷„9 ¿_¥Ž	… ¿_¥Ž
+È ¿1sÅ  ¿Ão?Î ¿Ão?	² ¿Ão?	³ ¿uæ»
+± ¿Ão?
+È ¿ßg  À!= 9 À!= Ê À!=N À!=Q À!=† À!=¾ ¿¾¼BÀ ¿¾¼Bì À!=r ¿–þÂ  ¿ßg¸ À!=r À!= À!=` À!=' À!=ê À!= À!= À!=¾ À!=	! À!=	` À!=	Ó À!=	× À!=
+ ¿Ó
+‘ ¿§'¾
+È ¿†\ðÊ ¾÷„9	° ¿•Aø ¿†\ð R ¾÷„9Æ ¿•AY ¿•Að ¿•A	 ¿–Zîú ¿–Zî¦ ¿–ZîP ¿–Zî	z ¿¬å o ¿HÒj Ê ¿¬å ¿HÒjÀ ¿•A  ¿µvÍ ¿µvÍò ¿Yõ×; ¿µvÍ… ¿µvÍ
+Å ¿µvÍ
+È ¿•A	ˆ ¿•A Æ ¿•A! ¿µvÍ"â ¿µvÍ"ø ¿µvÍ"6 ¿Yõ×"{ ¿µvÍ"	' ¿µvÍ"	“ ¿_¥Ž#
+/ ¿_¥Ž#
+È ¿_¥Ž$ª ¿_¥Ž$
+‘ ¿•A%	9 ¿†\ð&ð ¿†\ð&; ¿†\ð&Î ¿•A'
+9 ¿QoÂ(  ¿Óm=( œ ¿Óm=( Ä ¿Óm=(® ¿Óm=(q ¿Óm=(ü ¿Óm=(c ¿Óm=(
+Ž ¿Šñ\(
+È ¿†\ð) ˆ ¿†\ð)Æ ¿†\ð)
+O ¾6¥©*. ¿•A+ ¿–Zî,  ¿–Zî,Æ ¿–Zî, ¿–Zî,	0 ¿_¥Ž-Æ ¿_¥Ž-. ¿•A.  ¿•A/& ¿•A0w ¿•A1' ¿•A2
+È ¿_¥Ž3Æ ¿_¥Ž3	½ ¿HÒj4  ¿¬å4 ! ¿¬å4f ¿¬å4	° ¿¬å4
+È ¿•A5
+È ¿•A6  ¿=×7  ÀÉ7 0 ÀÉ7 ô ¿z57 ÀÉ7f ¿¿³°7  ¿¿³°7ð ÀÉ7ü ¿ˆ©Y7¢ ÀÉ7¿ ÀÉ7	2 ÀÉ7	™ ÀÉ7
+‘ ÀÉ7
+³ ¿¿³°7
+Ã ¿¿³°7
+È ¿_¥Ž8Î ¿_¥Ž8› ¿•A9	¿ ¿•A:  ¿•A;ì ¿•A<ú ¿•A=
+È ¿•A>f ¿_¥Ž?ì ¿_¥Ž?
+‘ ¿•A@
+È ¿_¥ŽA¾ ¿_¥ŽA« ¿¢ÂzB ˆ ¿¢ÂzB ¢ ¿¢ÂzBÞ ¿¢ÂzB÷ ¿¢ÂzB
+1 ¿•ACn ¿•ADÁ ¿†\ðEh ¿†\ðE­ ¿†\ðE
+‘ ¿•AFë ¿•AGl ¿•AHQ ¿•AI	' ¿•AJ  ¿•AK  ¿•AL ¿•AMÆ ¾÷„9N  ¿†\ðN Á ¿•AOQ ¿Yõ×P  ¿µvÍP 0 ¿µvÍP ‹ ¿µvÍPÞ ¿µvÍPÀ ¿µvÍPÛ ¿•AQØ ¿_¥ŽRÆ ¿_¥ŽR
+¡ ¾[˜S
+È ¿•AT	Ÿ ¿•AU
+È ¿–ZîVW ¿–ZîV# ¿–ZîVV ¿–ZîV
+È ¿•AW  ¿â†ÂX  ÀQX   ÀQX o ¿«|jX ‹ ÀQX Œ ¿«|jX Ê ¿â†ÂXÀ ÀQXE ¿_X  ÀQXA ¿U}X¸ ÀQXú ÀQX ÀQXW ÀQXF ¿â†ÂX	 ¿“çåX
+= ¿O&ÈX
+È ¿¢ÂzYÁ ¾à4wY
+= ¿¢ÂzY
+@ ¿•AZ
+È ¿‚á[  ¿µvÍ[ 9 ¿µvÍ[Ã ¿µvÍ[ ¿µvÍ[
+‘ ¿_¥Ž\  ¿_¥Ž\† ¿•A] ¿Yõ×^  ¿Yõ×^  ¿µvÍ^! ¿µvÍ^“ ¿µvÍ^Ã ¿•A_Þ ¿•A`  ¿~„a  ¿é÷eaÇ ¿gZa‡ ¿é÷eaÇ ¿é÷ea ¿é÷eaY ¿é÷ea’ ¿~„a	» ¿é÷ea	Ý ¿†\ðb	á ¾÷„9b
+È ¿•Ac
+‘ ¿_¥ŽdÆ ¿_¥Žd ¿•Aeã ¿¢Âzf  ¿¢Âzf y ¿¢ÂzfÈ ¿¢Âzfü ¿¢Âzf
+= ¿•Ag
+È ¿_¥Žh	Y ¿_¥Žh
+È ¿†i  ¿Î–ûi 9 ¿Î–ûiì ¿Î–ûi ¿Î–ûiÎ ¿Î–ûi	¦ ¿GÃ?i	× ¿Î–ûi
+È ¿•Aj  ¿•Ak  ¿×àSl # ¿×àSlf ¿dqlh ¿×àSlð ¿×àSlÒ ¿×àSlx ¿×àSlœ ¿dql¢ ¿×àSlò ¿×àSl	µ ¿×àSl
+‘ ¿_¥Žm ! ¿_¥Žm ¯ ¿•An‡ ¿ïÒÇo P ¿ïÒÇo u ¿ïÒÇo ¿KCo  ¿ïÒÇo ¿§Væo¸ ¿§Væo
+= ¿ïÒÇo
+D ¿`™o
+È ¿•ApC ¾[˜q  ¿•ArÌ ¿µvÍs  ¿µvÍs O ¿µvÍs ‹ ¿µvÍsÀ ¿µvÍs  ¿µvÍs	¿ ¿µvÍs
+‘ ¿•At ™ ¿•Auð ¿†v  ¿!†vÀ ¿Î–ûv… ¿Î–ûvë ¿Î–ûv	o ¿Î–ûv
+= ¿Î–ûv
+‘ ¿•Aw	* ¿¢ÂzxÚ ¿¢Âzxé ¿¢Âzx  ¿¢Âzx ¿¢Âzx	c ¿•Ay† ¿ïÒÇz  ¿ïÒÇzŒ ¿§VæzÚ ¿ïÒÇz  ¿ïÒÇzC ¿ïÒÇzn ¿ïÒÇzÎ ¿§Væz, ¿ïÒÇz] ¿1pzÿ ¿ïÒÇz˜ ¿ïÒÇz© ¿ïÒÇzÌ ¿ïÒÇz
+È ¿$[p{  ¿¼ã{ð ¿¼ã{Î ¿hÎf{
+/ ¿¼ã{
+Ã ¿_¥Ž|° ¿_¥Ž|	¿ ¿“ƒ}  ¿Ûþó}	 ¿Ûþó}¼ ¿Ûþó}\ ¿Ûþó}º ¿Ûþó} ¿Ûþó}E ¿Ûþó}	” ¿Ûþó}
+q ¿8ñu}
+ž ¿†\ð~ ‹ ¿†\ð~+ ¿†\ð~· ¿•Aç ¿†\ð€ Õ ¿†\ð€ ¿†\ð€ ¿•A ¿•A‚ñ ¿•Aƒ	° ¿•A„  À… – ¿’Åh… À…Þ À…× À…Ù ¿VäJ…n ¿zL…  À…¦ ¿M7Ç… À…. ¿º‚è…° ¿¢îc…¸ À…Ý À…÷ À…U À…k ¿ÏSÄ…¥ À…¦ À…' ¿ÏSÄ…Þ À…Û ¿ñ?…ò À…	2 À…	m À…
+ ¿ÏSÄ…
+‘ À…
+Ã ¿ñ?…
+È ¿•A†  ¿•A‡ì ¿×àSˆ  ¿×àSˆ° ¿dqˆt ¿×àSˆW ¿×àSˆô ¿×àSˆø ¿×àSˆX ¿‹+ˆ	÷ ¿_¥Ž‰ ¯ ¿_¥Ž‰Þ ¿_¥ŽŠÆ ¿_¥ŽŠ§ ¿•A‹× ¿µvÍŒf ¿µvÍŒ ¿µvÍŒ, ¿Yõ×Œ© ¿Yõ×Œª ¿•A ' ¿HÒjŽ  ¿_tŽ½ ¿¬åŽ	ã ¿–Zî ¿–Zî ¿¾	¦ ¿•A	C ¿•A‘ Ê ¿_¥Ž’ ¿_¥Ž’] ¿†\ð“ l ¾÷„9“  ¿•A” Ó ¿¢Âz•‡ ¿¢Âz•v ¿¢Âz•
+‘ ¿41•
+È ¿•A–. ¿•A—¼ ¿ãk;˜ 9 ¿ãk;˜ – ¿qk¾˜h ¿ãk;˜× ¿šïZ˜. ¿ãk;˜@ ¿šïZ˜— ¿ãk;˜æ ¿ãk;˜õ ¿ãk;˜	` ¿šïZ˜
+‘ ¿•A™¤ ¿ÉJ¡š 9 ¿€Î¿š ¯ ¿ÉJ¡šÎ ¿ÉJ¡š¸ ¿ÉJ¡š, ¿ÉJ¡š‚ ¿ÉJ¡šÿ ¿ÉJ¡šY ¿ÉJ¡šÐ ¿•A›· ¿•Aœ
+± ¿_¥Žz ¿_¥Ž
+H ¿¾ž  ¿–Zîžg ¿–Zîž~ ¿•AŸ	! ¿•A · ¾[˜¡ ¿•A¢% ¿•A£Ö ¿•A¤À ¿¬å¥ ¾µ{v¥	· ¿¬å¥
+b ¿•A¦ o ¿_¥Ž§Ì ¿_¥Ž§
+& ¾]<œ¨l ¿×àS©  ¿×àS© ‹ ¿×àS©Û ¿dq©é ¿×àS©, ¿×àS©» ¿×àS©	% ¿‹+©	= ¿_¥Žª  ¿_¥Žª
+Ã ¾[˜«Z ¾®–F¬  ¿–Zî¬	F ¿•A­X ¿¾®Z ¿–Zî®Á ¿–Zî®
+M ¿•A¯	t ¿•A° 9 ¿•A±
+È ¾]<œ²X ¿_¥Ž³  ¿_¥Ž³
+‘ ¿•A´
+È ¿_¥Žµx ¿_¥Žµ ¿–Zî¶ ¿¾¶… ¿–Zî¶
+‘ ¿¢Âz·  ¿¢Âz·Q ¿¢Âz·Ã ¿¢Âz·  ¿¢Âz·	ü ¿•A¸	¿ ¿Óm=¹  ¿Óm=¹Æ ¿Óm=¹S ¿Óm=¹- ¿'Î¹¹ ¿Óm=¹	 ¿Óm=¹	? ¿Óm=¹	é ¿Óm=¹
+H ¿•Aº  ¾]<œ»  ¿•A¼	 ¿–Zî½  ¿–Zî½S ¿–Zî½	ü ¿–Zî½
+È ÀwS¾ä ÀwS¾w ÀwS¾Ÿ ¾c,P¾  ÀwS¾E ÀwS¾¸ ÀwS¾) ÀwS¾ï ÀwS¾þ ÀwS¾ ÀwS¾9 ÀwS¾“ ÀwS¾ê ÀwS¾Ž ÀwS¾	Ù ¿¢Âz¿ ‹ ¿¢Âz¿ ñ ¿¢Âz¿= ¿¢Âz¿¸ ¿¢Âz¿Û ¾[˜À¸ ¿•AÁð ¿–ZîÂÀ ¿–ZîÂì ¿–ZîÂ	¢ ¿–ZîÂ	ú ¿VòÃ  À[ÜÃ 9 À[ÜÃ É À[ÜÃ ø À[ÜÃf ¿¯1ÃÆ ¿Ä\ÃÞ À[ÜÃl À[ÜÃ  À[ÜÃ· À[ÜÃ¿ À[ÜÃð À[ÜÃ À[ÜÃF À[ÜÃo À[ÜÃr À[ÜÃˆ À[ÜÃ, À[ÜÃe À[ÜÃf À[ÜÃM À[ÜÃX ¿æ;ÖÃ… À[ÜÃÈ À[ÜÃÛ À[ÜÃñ À[ÜÃ÷ À[ÜÃ	 À[ÜÃ	µ À[ÜÃ	¿ À[ÜÃ
+L ¿æ;ÖÃ
+‘ ¿ÅÞÃ
+È ¿ÛþóÄ  ¿ÛþóÄ ‹ ¿ÛþóÄÂ ¾¢–Ä× ¿ÛþóÄ	K ¾6¥©Å	 ¿†\ðÆ Ù ¿†\ðÆM ¿†\ðÆu ¿_¥ŽÇÆ ¿_¥ŽÇè ¿ÍßÈ  À-wÈ  À-wÈ  À-wÈ 0 À-wÈ T À-wÈ ‹ ¿ÍßÈ Ô À-wÈZ À-wÈf À-wÈw ¿ÍßÈz À-wÈµ À-wÈ¾ À-wÈÆ ¿ÍßÈÞ À-wÈí À-wÈ  À-wÈö À-wÈ¸ À-wÈ) À-wÈ À-wÈ¾ À-wÈ“ À-wÈÎ À-wÈx À-wÈ" À-wÈÃ À-wÈ× ¿«¥’È	 À-wÈ	* ¿ÍßÈ	O À-wÈ
+& À-wÈ
+… ¿•AÉ  ¿•AÊÆ ¿•AËÆ À=>Ì† À=>Ìµ À=>ÌÃ À=>ÌÞ À=>Ìì ¿:mˆÌ¨ À=>Ì ¿»þ›Ìõ À=>Ì¤ À=>Ìó ¿»þ›Ìx ¿»þ›Ì¾ À=>Ì	Q ¿™Å Ì	| À=>Ì	° À=>Ì	Ù ¿»þ›Ì
+M À=>Ì
+ ¿_¥ŽÍ÷ ¿_¥ŽÍ
+) ¿_¥ŽÎ  ¿_¥ŽÎ	l ¿_¥ŽÏ  ¿_¥ŽÏ| ¿•AÐ, ¿þhyÑ « ¿µì˜Ñ ¾ ¿þhyÑ ø ¿þhyÑ ý ¿þhyÑ ¿þhyÑ. ¿þhyÑ4 ¿þhyÑ= ¿þhyÑQ ¿µì˜Ñ> ¿þhyÑ¸ ¿þhyÑ ¿þhyÑ  ¿þhyÑ	 ¿þhyÑ§ ¿þhyÑ¼ ¿þhyÑ¿ ¿þhyÑ? ¿þhyÑB ¿þhyÑ	 ¿µì˜Ñ	X ¿þhyÑ	] ¿þhyÑ	Â ¿•AÒ  ¿•AÓ× ¿¤|òÔ ^ ¿ìøÓÔ ‹ ¿ìøÓÔ Á ¿ìøÓÔÀ ¿Zå5ÔÆ ¿ìøÓÔ- ¿¤|òÔú ¿ìøÓÔ ¿¤|òÔÛ ¿ìøÓÔ
+ ¿¤|òÔ
+‘ ¿ìøÓÔ
+È ¾÷„9Õà ¿†\ðÕJ ¿•AÖ  Àí$×  Àí$×  Àí$×  Àí$× ! Àí$× Ê ¿ë^f×† Àí$×¡ ¿ë^f×À Àí$×Æ ¿ë^f×â Àí$×× Àí$×û Àí$× ¿É$ë×[ ¿´T×n Àí$×  Àí$×ù Àí$×	 ¿É$ë× Àí$× Àí$× ¿Œ–×÷ Àí$×Š Àí$×Ë ¿É$ë×¤ Àí$× Àí$×% Àí$×/ Àí$×È Àí$×Ï Àí$×ê Àí$× ¿´T×7 Àí$×• Àí$× Àí$×ž ¿É$ë×Ì Àí$×	 Àí$×	‚ Àí$×	„ ¿É$ë×	¦ Àí$×	É Àí$×	Û Àí$×
+È ¿•AØ8 ¾[˜Ù÷ ¿Yõ×Ú ¿Yõ×Ú¬ ¿µvÍÚÛ ¿µvÍÚè ¿µvÍÚ	 ¿ÂµÛ  À61Û ! ¿[ó„Û 9 À61Û ; À61Û D À61Û ` À61Û o À61Û r Àó-Û ‹ À61Û Á ¿ÂµÛ Àó-Û À61Û< Àó-Û± À61ÛÀ ¿ÕG~ÛÆ À61Û¨ À61Û! À61Û? À61Ûb À61Ûg À61Ûk ¿£›ÛŸ À61ÛÂ À61ÛË À ÖpÛå ¿ÅƒÛð À61Ûó À61Û À61Û À61Û( Àó-Ûm À61Û· ¿ìÜÛ¸ À61ÛÊ À61Ûò À61Û À ÖpÛ Àó-Û ¿ìÜÛ‚ À61Ûƒ À61ÛÀ À61ÛÊ Àó-ÛË Àó-ÛÍ À61ÛÞ À61Ûç À61Ûú À61Û À61Û, À61Û\ Àó-Û{ À61Û‹ À61Û À61ÛŽ À61Ûž À61Û© À61ÛÎ À61ÛÏ À61Û, À61Û- À ÖpÛ À61Û À61Û$ Àó-ÛP Àó-Û} ¿ÅƒÛˆ Àó-ÛÍ Àó-Ûè À61Ûû À ÖpÛ	. Àó-Û	F ¿¨òüÛ	g À61Û	t À61Û	v À61Û	ö À61Û
+! À61Û
+) À61Û
+0 Àó-Û
+L À61Û
+} Àó-Û
+€ Àó-Û
+‘ À61Û
+› À61Û
+ž À61Û
+  À61Û
+Ã À61Û
+Å À61Û
+Æ À61Û
+È ¿•AÜ  ¿•AÝ Ð ¿•AÞt ¿¾ß  ¿–Zîß	O ¿–Zîß
+È ¿•Aà  ¾[˜á ¿•AâÀ ¿•Aã
+È ¿•AäÀ ¿•Aå
+È ¿•AæE ¿•Aç  Àa=è  Àa=è Q Àa=è o ¿£<Aè Àa=è† Àa=è˜ Àa=è Àa=èª ¿ÚF™è{ Àa=è‚ Àa=èš Àa=è  ¿ÚF™è{ ¿výƒè© Àa=è¸ Àa=èÖ Àa=èQ Àa=èn Àa=è´ Àa=è Àa=è` Àa=èq Àa=è‚ Àa=è„ Àa=èŽ Àa=è« ¿ÚF™è² Àa=è  Àa=è Àa=èV Àa=èv ¿ÚF™èÄ Àa=è× Àa=èú Àa=è
+¯ ¿¸è
+° ¿•Aé	 ¿•Aê  ¾®–FëQ ¿–Zîëz ¿_¥Žì… ¿_¥Žìˆ ¿•Aí“ ¾÷„9îé ¿†\ðî, ¿•Aï  ¿•Aðo ¿ò‰ñ : ¿ò‰ñ} ¿ª;ñ† ¿ò‰ñN ¿ò‰ñf ¿ò‰ñ· ¾Ö˜ñ¸ ¿ò‰ñÜ ¿ò‰ñ“ ¿ò‰ñ… ¿ò‰ñÛ ¿ò‰ñ
+‚ ¿ò‰ñ
+² ¾àð7ò  ÀÔ¥ò  ÀÔ¥ò ! ÀÔ¥ò 0 ÀÔ¥ò ª ÀÔ¥òÀ ÀÔ¥òì ÀÔ¥òe ¿Ã-iò· ÀÔ¥ò ÀÔ¥ò ÀÔ¥òt ÀÔ¥òÀ ÀÔ¥òÆ ÀÔ¥òÔ ÀÔ¥òÛ ÀÔ¥òó ÀÔ¥ò
+o ÀÔ¥ò
+ ÀÔ¥ò
+Å ÀÔ¥ò
+È ¿ãk;ó 9 ¿ãk;ó Ó ¿ãk;ó Ô ¿ãk;óf ¿ãk;ó‚ ¿ãk;óÎ ¿ãk;ó- ¿ãk;ó ¿ãk;ó ¿ãk;ór ¿ãk;ó9 ¿ãk;óÈ ¿ãk;ó
+L ¿ãk;ó
+ ¿ãk;ó
+‘ ¿ãk;ó
+È ¿•Aô] ¿•Aõì ¿†\ðö  ¿†\ðö ¾ ¿†\ðöQ ¿¢Âz÷é ¿¢Âz÷, ¿¢Âz÷	= ¿41÷
+M ¿•Aø¸ ¾[˜ùÀ ¿÷—¹ú  ¿÷—¹úg ¿÷—¹úh ¿÷—¹úâ ¿¯Øúå ¿÷—¹úÜ ¿÷—¹úˆ ¿÷—¹ú— ¿÷—¹ú‚ ¿÷—¹úo ¿÷—¹ú ¿÷—¹úA ¿¯Øú ¿Œâ]úX ¿¯Øú	° ¿÷—¹ú
+O ¿÷—¹ú
+_ ¿÷—¹ú
+š ÀCû k ¿VØºûÊ ÀCû ÀCûJ ÀCû} ÀCû§ ¿º9ûÆ ÀCûÙ ÀCûá ÀCûø ÀCûs ÀCû½ ÀCûP ÀCû_ ÀCû½ ¿º9û	s ÀCû
+A ¿VØºû
+Š ¿•AüÀ ¿•Aý' ¿é÷eþ ¾ ¿é÷eþ ¿ ¿é÷eþ í ¿é÷eþ- ¿é÷eþÀ ¿é÷eþ! ¿é÷eþ' ¿é÷eþ* ¿é÷eþM ¿é÷eþ‰ ¿é÷eþ· ¿¡{„þ¸ ¿é÷eþ@ ¿é÷eþV ¿é÷eþc ¿é÷eþp ¿é÷eþ
+" ¿¢Âzÿ® ¿¢Âzÿ¸ ¾à4wÿ
+‘ ¿•A	 ’ ¿•A	 * ¿¾	  ¿–Zî	‚ ¿–Zî	Þ ¿•A	 ¿•A	¸ ¿_¥Ž	ì ¿_¥Ž	
+ ¿†\ð	  ¿†\ð	ì ¿†\ð	· ¿•A	  ¿_¥Ž	; ¿_¥Ž	M ¿•A			¿ ¿•A	
+ ¿¢Âz	) ¿¢Âz	’ ¿¢Âz	¸ ¿41	
+Ã ¿–Zî	« ¿¾	6 ¿–Zî		¸ ¾õso	  ¿¼ã	Ô ¿hÎf	U ¿¼ã	… ¿_¥Ž	 B ¿_¥Ž	Ô ¿•A	 ¾÷„9	  ¿†\ð	n ¿•A	  ¿¼ã	  ¿¼ã	S ¿¼ã	f ¿¼ã	- ¿¼ã	  ¿¼ã	· ¿¼ã	
+‘ ¿¼ã	
+È À©	  ¿ÄÖ@	 % À©	 9 À©	 £ À©	 ¾ ¿Ëè	Ã À©	Á À©	² ¿¢œÅ	¸ À©	| À©	“ ¿ÄÖ@	À À©	Î À©	Ï À©	' À©	• À©	¢ À©	¦ ¿¢œÅ	ô ¿ÄÖ@	Û À©		l À©		ü À©	
+L À©	
+” ¿•A	Æ ¿•A	  ¿•A	  ¿•A	 ¿¾	  ¿–Zî	 ¢ ¿–Zî	
+‘ ¿†\ð	Ú ¿†\ð	“ ¿†\ð	
+M ¿•A	; ¾Œñ	  ¿¢Âz	c ¿_¥Ž	  ¿_¥Ž	Þ ¾°¦	  ¿Óm=	À ¿Óm=	¸ ¿QoÂ	÷ ¿Óm=	ù ¿†	  ¿Î–û	‚ ¿†	, ¿Î–û	ß ¿Î–û	Û ¿Î–û		# ¿Î–û	
+) ¿Î–û	
+‘ ¿Î–û	
+È ¿•A	- ¿•A	   ¿rÉž	!  À?Æ	!  À?Æ	! « À?Æ	! í À?Æ	!Ã À?Æ	!í À?Æ	!” À?Æ	!  ¿Rw¨	!¸ ¿È«	!j À?Æ	!w À?Æ	!¿ À?Æ	!Ñ À?Æ	!Ô ¿Rw¨	!Û À?Æ	!è À?Æ	!	v À?Æ	!	ü ¿È«	!
+‘ À?Æ	!
+È ¿•A	"[ ÀwS	#  ÀwS	# r ÀwS	# ¾ ÀwS	#À ¾®¬	#Æ ¿¤9J	#ì ÀwS	# ÀwS	#, ÀwS	#, ¿hm	#Ã ¿ÆrÅ	#
+) ¿¤9J	#
+‘ ¿•A	$ 0 ¿ìøÓ	%  ¿ìøÓ	%  ¿ìøÓ	% ~ ¿ìøÓ	%† ¿‚Cw	%é ¿ìøÓ	%Ð ¿ìøÓ	%9 ¿ìøÓ	%À ¿ìøÓ	%5 ¿ìøÓ	% ¿ìøÓ	%× ¿ìøÓ	%	Q ¿ìøÓ	%	ê ¿ìøÓ	%
+M ¿¤|ò	%
+s ¿ìøÓ	%
+± ¿•A	&  ¿€Î¿	'Ì ¿=*‰	'ì ¿ÉJ¡	' ¿ÉJ¡	'ð ¿ÉJ¡	'Ì ¿ÉJ¡	'	I ¿ÉJ¡	'
+È ¿–Zî	( Ê ¿–Zî	(ð ¿–Zî	(j ¿–Zî	(	¿ ¾[˜	){ À‡ 	*  ¿"]Ü	*  À‡ 	*f ¿~Ä6	*Õ ¿XXX	* ¿~Ä6	*6 ¿à“_	*‡ ¿‘ôƒ	*‹ ¿‘ôƒ	*s ¿‘ôƒ	*	¦ ¿à“_	*
+È ¿•A	+  ¿_¥Ž	,™ ¿_¥Ž	,’ ¿ò‰	-@ ½»ò	-· ¿ò‰	-; ¿ò‰	-ô ¿ò‰	-
+~ ¿41	.© ¿¢Âz	.6 ¿41	.) ¿†\ð	/Ñ ¿†\ð	/ ¿†\ð	/
+– ¿¬£A	0  ¿õ"	0 Ô ¿õ"	0† ¿k1Ó	0  ¿ŠiÆ	0  ¿õ"	0í ¿õ"	0S ¿õ"	0’ ¿¬£A	0× ¿õ"	0	= ¿ŠiÆ	0	? ¿õ"	0	U ¿õ"	0
+M ¿ÆrÅ	1 Ø ÀwS	1n ÀwS	1ð ÀwS	1l ÀwS	1z ¿þÎ	1* ¾“Ý	1	m ¿ÆrÅ	1	¡ ¿=ˆi	2  ÀÓ¤	2  ¿Ó+h	2 ! ÀÓ¤	2 9 ¿Ó+h	2Æ ÀÓ¤	2Þ ÀÓ¤	2ì ÀÓ¤	2d ¿œ!	2× ÀÓ¤	2
+ ¿Ó+h	2· ¿œ!	2¸ ÀÓ¤	2¨ ÀÓ¤	2, ÀÓ¤	2¤ ÀÓ¤	2Ë ÀÓ¤	2× ¿°ñí	2Û ÀÓ¤	2	! ¿Ó+h	2	* ÀÓ¤	2
+ ÀÓ¤	2
+‘ ¿Ó+h	2
+Å ÀÓ¤	2
+È ¿•A	3 ¿•A	4  ¾÷„9	5Ô ¿†\ð	5| ¾Ï#à	6  ÀÔ¥	6  ÀÔ¥	6 9 ÀÔ¥	6† ¿Ã-i	6À ÀÔ¥	6Þ ¿Ã-i	6 ¿Ã-i	6¸ ¿Ã-i	60 ¿Ã-i	6¤ ÀÔ¥	6Æ ÀÔ¥	6Î ÀÔ¥	6' ÀÔ¥	6	D ÀÔ¥	6	ð ÀÔ¥	6
+G ¿§Væ	7 e ¿§Væ	7â ¿ïÒÇ	7L ¿…k	7  ¿ïÒÇ	76 ¿ïÒÇ	7< ¿ïÒÇ	7¦ ¿ïÒÇ	7± ¿ïÒÇ	7² ¿ïÒÇ	7ù ¿ïÒÇ	7 ¿ïÒÇ	7 ¿ïÒÇ	7„ ¿§Væ	7
+O ¿ïÒÇ	7
+È ¿•A	8„ ¿¼ã	9© ¿¼ã	9ð ¿hÎf	9  ¿¼ã	9· ¿¼ã	9Ø ¿¼ã	9Ú ¿¼ã	9
+| ¿†\ð	: ¾ ¿†\ð	:Å ¿†\ð	: ¿41	;  ¿¢Âz	;¾ ¿¢Âz	;Œ ¿¢Âz	;
+Ã ¿•A	< ¿8ñu	= Þ ¿Ûþó	=ø ¿Ûþó	=é ¿Ûþó	=* ¿Ûþó	=o ¿8ñu	=z ¿“ƒ	=	Û ¿Ão?	>/ ¿Ão?	>  ¿Ão?	> ¿uæ»	>¸ ¿Ão?	>˜ ¿Ão?	>	# ¿Ão?	>	ê ¿Ão?	>
+‘ ¿ÉJ¡	?  ¿ÉJ¡	?À ¿€Î¿	?  ¿ÉJ¡	?
+ ¿ÉJ¡	?. ¿ÉJ¡	?¸ ¿ÉJ¡	?ñ ¿€Î¿	?	 ¿•A	@À ¿¬å	A o ¿¬å	A¸ ¿¬å	A ¿¬å	AÎ ¿¬å	Ao ¿¬å	A	D ¿•A	B	ð ¿LÑ	C  À©	C r À©	C À©	C À©	C¹ À©	CÀ ¿ÄÖ@	Câ ¿ÄÖ@	C¨ ¿ÄÖ@	C× À©	Ch À©	C  À©	C· À©	C À©	C  À©	Cò ¿ÄÖ@	C À©	C	* À©	C	— À©	C	¿ ¿ÄÖ@	C
+‘ À©	C
+¦ ¿¢œÅ	C
+È ¾×Ž	D  À=>	D o À=>	Df À=>	DÀ ¿»þ›	DÃ À=>	Dú À=>	D  À=>	Dï À=>	Dè À=>	D	1 ¿»þ›	D	g ¿»þ›	D	¿ À=>	D
+) À=>	D
+* À=>	D
+Ã À=>	D
+È ¿_¥Ž	E  ¿_¥Ž	Eì ¿æÉú	F  ¿æÉú	F  ¿æÉú	F 0 ¿žN	F 9 ¿žN	F r ¿æÉú	F ‹ ¿æÉú	FÀ ¿æÉú	Fí ¿æÉú	Fì ¿žN	F· ¿æÉú	FÃ ¿æÉú	Fè ¿æÉú	F	g ¿æÉú	F	¿ ¾[˜	G  ¿•A	H. ¿_¥Ž	I Œ ¿_¥Ž	I ¿†\ð	J  ¿†\ð	J| ¿†\ð	J¸ ¿_¥Ž	K½ ¿_¥Ž	K
+‘ ¿•A	L ª ¿•A	M) ¿•A	N) À¹	O  À¹	O o ¿Ç|	OX ¿Ç|	OY À¹	Oa À¹	Oi À¹	O¾ À¹	ON À¹	O À¹	On ¿]„e	O  ¿QÍ¡	O· À¹	O¹ À¹	O À¹	O¸ À¹	Oá À¹	O; À¹	O¯ À¹	O° À¹	O ¿éµ	O' À¹	Oj À¹	Os À¹	OX À¹	O À¹	Oâ À¹	Oä À¹	O	 À¹	O	X À¹	O	“ À¹	O	Û À¹	O	Ü À¹	O	ó ¿éµ	O
+g À¹	O
+ À¹	O
+Ž ¿ˆ„L	O
+È ¿æÉú	P K ¿žN	P ¤ ¿æÉú	P ¿æÉú	P° ¿žN	Pé ¿æÉú	Pg ¿æÉú	P· ¿æÉú	PÔ ¿æÉú	P	D ¿æÉú	P	¿ ¿x)<	P
+L ¿æÉú	P
+‘ ¿æÉú	P
+È ¿µvÍ	Q  ¿µvÍ	Qé ¿µvÍ	Qù ¿µvÍ	Q  ¿µvÍ	Q' ¿Yõ×	Q7 ¿–Zî	RZ ¿–Zî	RS ¿–Zî	RÂ ¿–Zî	R
+a ¿•A	SÞ ¿•A	T. ¿•A	U	= ¿•A	V‘ ¿•A	W¾ ¿¢Âz	X® ¿41	X) ¿¢Âz	Xm ¿¢Âz	X¿ ¿¼ã	Y M ¿¼ã	YÃ ¿¼ã	Y6 ¿¼ã	Y‚ ¿¼ã	Y¸ ¿¼ã	Y’ ¿¼ã	Y¬ ¿¼ã	Yˆ ¿•A	Z  ¿•A	[  ¿ÉJ¡	\ ¿€Î¿	\b ¿ÉJ¡	\c ¿€Î¿	\… ¿€Î¿	\	ã ¿€Î¿	\	î ¿ïÒÇ	] , ¿ïÒÇ	]À ¾žŸ	]Þ ¿ïÒÇ	]; ¿ïÒÇ	]~ ¿ïÒÇ	]ð ¿ïÒÇ	]˜ ¿†	^  ¿Î–û	^ ‹ ¿Î–û	^· ¿Î–û	^D ¿Î–û	^Ì ¿Î–û	^Û ¿Î–û	^	ð ¿Î–û	^
+‘ ¿†	^
+È ¿•A	_  À.x	`U À.x	`n ¿†Ö·	`  ¿Ûa	`· À.x	`¼ À.x	` À.x	`¸ ¿½á	`; À.x	`w À.x	` À.x	`Ž À.x	`' À.x	`S ¿½á	`… À.x	`	6 À.x	`	C À.x	`	› ¿•A	a¸ ¾[˜	b  ¿•A	cé ¿_¥Ž	dÀ ¿_¥Ž	d	F ¿ÄÖ@	e† À©	eâ ¿LÑ	e× À©	eÙ À©	eí ¿¢œÅ	en À©	eq À©	eò ¿ÄÖ@	e  À©	e; ¿ÄÖ@	eD À©	e¸ À©	e À©	e¤ À©	e À©	e/ À©	eO À©	eî À©	e À©	eU À©	ea ¿ÄÖ@	e… À©	eñ ¿–Zî	f  ¿–Zî	f¸ ¿–Zî	f ¿–Zî	f ¿e±I	g  Àù±	g 9 Àù±	gf ¾ÈL<	gÞ Àù±	gâ Àù±	gD Àù±	g; Àù±	gj Àù±	gN ¿@Œx	g
+‘ ¿•A	h· ¿_¥Ž	i ¿_¥Ž	i
+	 ¿•A	j
+L ¿•A	k
+! ¿ ü	l  ¿ ü	l  ¿ãk;	l œ ¿ãk;	lp ¿ãk;	l$ ¿ãk;	l¦ ¿ãk;	l	 ¿ãk;	l	™ À @Ç	m  À @Ç	m Â ¿¸­	mÀ À @Ç	mÆ À @Ç	m­ ¿•Ì2	mn À @Ç	m
+ À @Ç	mï À @Ç	m ¿2{«	mÛ À @Ç	m	C ¿-¨Ñ	m	D À @Ç	m
+) ¿¾	n  ¿–Zî	nz ¿–Zî	nì ¿Î–û	o  ¿†	o 0 ¿Î–û	o o ¿Î–û	o u ¿Î–û	o¦ ¿Î–û	o	ñ ¿Î–û	o	ô ¿GÃ?	o
+È ¿•A	pÃ ¿•A	q  ¿_¥Ž	r  ¿_¥Ž	r	P ¿¾	s  ¿–Zî	s† ¿–Zî	sÍ ¿lnÇ	t  À©	t  À©	t 9 À©	t â À©	tf À©	tÆ À©	t- À©	tP À©	t¿ ¿¢œÅ	t À©	t+ ¿ÄÖ@	t¶ À©	t¸ À©	tÊ À©	tÎ À©	tô ¿ÄÖ@	tš À©	tó À©	tô À©	t	0 À©	t	™ ¿ÄÖ@	t
+‘ À©	t
+Å ¿ÄÖ@	t
+È ¿HÒj	u  ¿¬å	u ¿¬å	uU ¿¬å	u• ¿¬å	u¬ ¿)v§	v  ¿µì˜	v ¢ ¿þhy	v Á ¿þhy	vV ¿“³	vW ¿µì˜	vf ¿þhy	v ¿þhy	v> ¿þhy	v ¿þhy	v ¿þhy	vm ¿þhy	v; ¿þhy	vø ¿þhy	v ¿þhy	v	* ¿þhy	v
+‘ ¿•A	w	 ¿•A	x  ¿_¥Ž	y Ô ¿_¥Ž	y  ¿–Zî	z  ¿–Zî	zÀ ¿–Zî	zë ¿–Zî	z
+Å ¿•A	{Æ ¿¼ã	|  ¿¼ã	|  ¿¼ã	| 0 ¿¼ã	| £ ¿¼ã	|O ¿¼ã	|_ ¿¼ã	|Ã ¿¼ã	|
+! ¿•A	}  ¿_¥Ž	~  ¿_¥Ž	~ ô ¿•A	
+‘ ¿_¥Ž	€ Ê ¿_¥Ž	€
+‘ ¿_¥Ž	Ø ¿_¥Ž	S ¿ãk;	‚  ¾æøU	‚’ ¿šïZ	‚° ¿šïZ	‚ç ¿ãk;	‚7 ¿ãk;	‚	O ¿šïZ	‚
+È ¿•A	ƒû ¿•A	„
+È ¿Ão?	…  ¿Ão?	…¾ ¿Ão?	…À ¿Ão?	… ¿Ão?	…§ ¿Ão?	…± ¿Ão?	…Û ¿Ão?	…n ¿Ão?	…	“ ¿•A	†
+È ¿_¥Ž	‡ % ¿_¥Ž	‡	“ ¿•A	ˆ  ¿$[p	‰  ¿¼ã	‰f ¿$[p	‰Æ ¿¼ã	‰	v ¾®–F	Š  ¿–Zî	Š Ê ¿†\ð	‹  ¿†\ð	‹À ¿†\ð	‹ì ¿_¥Ž	ŒA ¿_¥Ž	Œ ¿•A	À ¿•A	Ž
+È ¿_¥Ž	® ¿_¥Ž	Î ¿•A	¸ ¿•A	‘
+ ¿•A	’· ¿é÷e	“  ¿é÷e	“ ‹ ¿é÷e	“f ¿gZ	“Ú ¿¡{„	“ì ¿é÷e	“é ¿é÷e	“  ¿é÷e	“¸ ¿é÷e	“r ¿¡{„	“	¿ ¿é÷e	“
+È ¿_¥Ž	”À ¿_¥Ž	”
+È ¿_¥Ž	•À ¿_¥Ž	•	Y ¿•A	–„ ¿žN	—  ¿æÉú	— o ¿æÉú	—ê ¿æÉú	— ¿æÉú	—  ¿æÉú	—ï ¿æÉú	—¯ ¿æÉú	—± ¿æÉú	—ñ ¿æÉú	—	‹ ¿æÉú	—	° ¿æÉú	—	í ¿æÉú	—
+‘ ¿æÉú	—
+Ã ¿žN	—
+È ¿†\ð	˜À ¿†\ð	˜Æ ¿†\ð	˜ ¿Óm=	™  ¿Óm=	™ 9 ¿Óm=	™ì ¿Óm=	™r ¿Óm=	™¸ ¿Óm=	™  ¿Óm=	™r ¿Óm=	™? ¿Óm=	™ ¿Óm=	™ ¿Óm=	™‰ ¿Óm=	™	¿ ¿•A	š
+È ¿1sÅ	›  ¿1sÅ	› ¿Ão?	›  ¿Ão?	›· ¿Ão?	›§ ¿dq	œ o ¿×àS	œ ¢ ¿×àS	œ• ¿dq	œ  ¿×àS	œ ¿×àS	œ
+= ¿‹+	œ
+È ¿_¥Ž	  ¿_¥Ž	
+‘ ¿•A	ž ¿•A	Ÿ
+‘ ¿•A	 ‹ ¿–Zî	¡  ¿–Zî	¡| ¿¾	¡	D ¿=*‰	¢  ¿ÉJ¡	¢ ‹ ¿ÉJ¡	¢ð ¿ÉJ¡	¢. ¿ÉJ¡	¢… ¿ÉJ¡	¢	Œ ¿€Î¿	¢
+È ¿_¥Ž	£  ¿_¥Ž	£	O ¿•A	¤À ¿•A	¥ ¿ãù	¦  ¿õ"	¦ Ê ¿õ"	¦f ¿¬£A	¦À ¿õ"	¦Æ ¿õ"	¦c ¿õ"	¦ì ¿õ"	¦¸ ¿õ"	¦÷ ¿õ"	¦÷ ¿õ"	¦	O ¿õ"	¦	ü ¿õ"	¦
+‘ ¿¬£A	¦
+Å ¿•A	§  ¿¾	¨  ¿–Zî	¨ 9 ¿–Zî	¨¸ ¿†\ð	©  ¿†\ð	©ÿ ¿†\ð	©	0 ¿•A	ª	› ¿•A	«û ¿_¥Ž	¬À ¿_¥Ž	¬
+“ ¿¬å	­Õ ¿¬å	­  ¿¬å	­, ¿¬å	­
+M ¿HÒj	­
+È ¿•A	®
+‘ ½4+À	¯
+“ ¿=×	°  ÀÉ	° ! ÀÉ	° ^ ÀÉ	°Q ¿¿³°	°Þ ÀÉ	°g ÀÉ	°r ÀÉ	°· ¿=×	°¸ ÀÉ	°ü ÀÉ	° ÀÉ	°£ ÀÉ	°ß ÀÉ	°} ÀÉ	°ó ÀÉ	°
+ ¿¿³°	°
+L ¿†\ð	±Ž ¿†\ð	± ¿†\ð	±	× ¿•A	²x ¿•A	³ ¾ ¿_¥Ž	´ ‹ ¿_¥Ž	´8 ¿¢Âz	µh ¿¢Âz	µ, ¿¢Âz	µ ¿¢Âz	µ	ñ ¿¢Âz	µ
+‘ ¿•A	¶ð ¿–Zî	·  ¿¾	·` ¿–Zî	·
+‘ ¿•A	¸“ ¿•A	¹
+x ¿•A	ºÇ ¿–Zî	»  ¿–Zî	» ¶ ¿–Zî	»À ¿–Zî	»· ¿•A	¼  ¿µvÍ	½â ¿Yõ×	½D ¿µvÍ	½Ö ¿µvÍ	½¾ ¿µvÍ	½	œ ¿µvÍ	½
+± ¿•A	¾
+‘ À-17	¿  ¿–ó/	¿  À-17	¿ 9 ÀóF	¿ C À-17	¿ W À-17	¿ ¾ À-17	¿ Ø ÀóF	¿ À-17	¿" ¿ÚÜ5	¿< À-17	¿_ ÀóF	¿f À-17	¿z À-17	¿œ ¿°µH	¿° À-17	¿¾ ¿ï­	¿Ã ¿ÚÜ5	¿Ñ ÀóF	¿þ À-17	¿ À-17	¿2 À-17	¿4 À-17	¿M À-17	¿R À-17	¿T ¿ÚÜ5	¿U À-17	¿ƒ À-17	¿„ À-17	¿‹ À-17	¿ À-17	¿• À-17	¿ À-17	¿¥ À-17	¿Å À-17	¿Ó À-17	¿ ÀóF	¿Y À-17	¿e À-17	¿r À-17	¿ À-17	¿· À-17	¿ž ¿ï­	¿¸ À-17	¿Î À-17	¿Þ À-17	¿ ÀóF	¿F ¿ï­	¿w À-17	¿‚ À-17	¿ À-17	¿­ À-17	¿® À-17	¿º ÀóF	¿¾ À-17	¿È À-17	¿Ë À-17	¿Ö À-17	¿× À-17	¿ì À-17	¿ó À-17	¿ À-17	¿0 À-17	¿L À-17	¿^ À-17	¿€ À-17	¿ƒ À-17	¿“ À-17	¿” À-17	¿© À-17	¿¾ À-17	¿å À-17	¿' À-17	¿0 À-17	¿ý À-17	¿ À-17	¿¼ ÀóF	¿Ñ ÀóF	¿Û À-17	¿þ À-17	¿	 ¿ÚÜ5	¿	6 À-17	¿	D ¿ï­	¿	] À-17	¿	g À-17	¿	j À-17	¿	l À-17	¿	ð À-17	¿
+0 ¿ÚÜ5	¿
+L À-17	¿
+S ¿_¥Ž	Àì ¿_¥Ž	À ¿•A	Á2 ¿•A	ÂV ¿–Zî	Ã  ¿–Zî	Ã¾ ¿–Zî	ÃÀ ¿–Zî	Ã ¿_¥Ž	Äi ¿_¥Ž	Ä ¿•A	Å  ¿†\ð	Æ  ¿†\ð	Æ¿ ¿†\ð	Æ ¿–Zî	Ç  ¿–Zî	Ç e ¿–Zî	Çì ¿–Zî	Ç	0 ¿•A	È 0 ¿ãk;	É o ¿šïZ	ÉÁ ¿ãk;	ÉÂ ¾š ›	ÉÔ ¿ãk;	É ¿ãk;	É_ ¿ãk;	É	É ¿ãk;	É
+= ¿•A	ÊÑ ¿¼ã	Ë- ¿¼ã	Ë¸ ¿¼ã	Ë ¿¼ã	ËR ¿¼ã	Ët ¿¼ã	Ë
+G ¿¼ã	Ë
+± ¿¼ã	Ë
+³ ¿•A	Ì Ä ¿•A	Í¼ ¿•A	Î÷ ¿µvÍ	ÏÀ ¿µvÍ	Ï. ¿Yõ×	Ï ¿µvÍ	ÏA ¿µvÍ	Ï´ ¿µvÍ	Ï
+È ¿•A	ÐŽ ¿¾	Ñ  ¿¾	Ñè ¿•A	Ò  ¿•A	Óü ¿•A	ÔÞ ¿•A	Õ m ¿•A	Ö  ¿<Ê	×  ¿õ"	×  ¿õ"	× ! ¿õ"	× ‹ ¿õ"	× ¿õ"	×F ¿õ"	×· ¿õ"	×¸ ¿õ"	×¿ ¿ŠiÆ	×. ¿õ"	×C ¿¬£A	×	¿ ¿õ"	×	ð ¿¬£A	×
+È ¿•A	ØŠ ¿–Zî	Ù ¿–Zî	ÙU ¿–Zî	ÙŸ ¿–Zî	Ù
+È ¿Yõ×	Ú  ¿µvÍ	Ú o ¿µvÍ	Ú” ¿µvÍ	Ú> ¿µvÍ	Úï ¿µvÍ	ÚX ¿Õ£ÿ	Û  ¿Õ£ÿ	Û 3 Àð	Û : Àð	Û Y ¿Õ£ÿ	Û ‹ Àð	Û ¿)ª€	Ûà Àð	ÛD ¿eG	Û  Àð	Û§ ¿Õ£ÿ	Û  Àð	Ûë ¿ž™§	Ûò Àð	Û	 ¿Õ£ÿ	Û	0 ¿Õ£ÿ	Û
+ Àð	Û
+M ¿–Zî	Ü ¾®–F	Üò ¿•A	Ý
+Ã ¿_¥Ž	Þ  ¿_¥Ž	ÞÎ ¿•A	ßÃ ¿_¥Ž	àÚ ¿_¥Ž	à× ¿ÉJ¡	á  ¿ÉJ¡	áÆ ¿ÉJ¡	áD ¿€Î¿	á  ¿ÉJ¡	á1 ¿ÉJ¡	á	 ¿ÉJ¡	á
+‘ ¿€Î¿	á
+È ¿•A	â ‹ ¿+¼,	ã  ¿ìøÓ	ã  ¿ìøÓ	ãz ¿ìøÓ	ãÀ ¿ìøÓ	ãÆ ¿ìøÓ	ã ¿ìøÓ	ã  ¿ìøÓ	ãæ ¿ìøÓ	ã ¿ìøÓ	ãŽ ¿ìøÓ	ã	R ¿ìøÓ	ã	± ¿ìøÓ	ã	× ¿ìøÓ	ã
+‘ ¿ìøÓ	ã
+Å ¿•A	äì ¿HÒj	å  ¿¬å	åÀ ¿¬å	åÆ ¿¬å	åì ¿¬å	å
+È ½º{Ì	æ	ç ¿µvÍ	ç 0 ¿Yõ×	çÆ ¿µvÍ	çÛ ¿µvÍ	ç	× ¿µvÍ	ç	æ ¿µvÍ	ç
+° ¿•A	èÚ ¿•A	é ‹ ¿0´4	ê ó ¿×àS	êé ¿×àS	êb ¿×àS	ê, ¿×àS	êw ¿dq	êG ¿×àS	ê× ¿×àS	ê
+s ¿×àS	ê
+È ¿$[p	ë  ¿¼ã	ëÆ ¿¼ã	ë1 ¿¼ã	ë ¿¼ã	ëú ¿¼ã	ë ¾®–F	ìÜ ¿–Zî	ìß ¿Ão?	í  ¿uæ»	í J ¿Ão?	í ¿Ão?	í  ¿Ão?	ír ¿Ão?	í] ¿Ão?	íÚ ¿Ão?	í
+ ¿¬å	îz ¿HÒj	îä ¿HÒj	îÜ ¿¬å	î÷ ¿•A	ï. ÀÔ¥	ð C ÀÔ¥	ð o ¿Ã-i	ð ¡ ¿Ã-i	ð â ÀÔ¥	ð ð ÀÔ¥	ð ÀÔ¥	ð² ÀÔ¥	ð¾ ÀÔ¥	ð- ÀÔ¥	ðA ¿Ã-i	ð· ÀÔ¥	ð ÀÔ¥	ð- ÀÔ¥	ðs ÀÔ¥	ðÑ ¿Ã-i	ðr ÀÔ¥	ð“ ¿Ã-i	ðÎ ÀÔ¥	ð ÀÔ¥	ð0 ÀÔ¥	ðE ÀÔ¥	ð¾ ÀÔ¥	ð× ÀÔ¥	ðÛ ÀÔ¥	ð	— ÀÔ¥	ð	í ¿Ã-i	ð
+‘ ¿¢Âz	ñŠ ¿¢Âz	ñ¸ ¿¢Âz	ñC ¿¢Âz	ñ	 ¿¢Âz	ñ
+È ¿•A	òà ¿•A	ó” ¿Óm=	ô  ¿Óm=	ô  ¿Óm=	ô ª ¿Óm=	ôf ¿Óm=	ôÆ ¿Óm=	ô· ¿Óm=	ôð ¿Óm=	ôÌ ¿Óm=	ô ¿Óm=	ô	t ¿Óm=	ô
+o ¿Óm=	ô
+Ã ¿_¥Ž	õ E ¿_¥Ž	õo ¿•A	ö ! ½º{Ì	÷y ¿GÃ?	ø  ¿Î–û	ø 9 ¿Î–û	øß ¿Î–û	ør ¿Î–û	ø± ¿Î–û	ø„ ¿Î–û	øÎ ¿Î–û	øs ¿Î–û	øÆ ¿•A	ùÈ ¿QoÂ	ú  ¿Óm=	ú ‹ ¿Šñ\	úÆ ¿Šñ\	úì ¿Óm=	ú  ¿Óm=	ú
+‘ ¿Šñ\	ú
+È ¿•A	û ¿Ù'	ü ¿Ù'	ü ÀÑ|	ü  ÀÑ|	ü& ¿Ù'	ü< ÀÑ|	üL ¿¢À	üþ ¿¢À	ü	 ÀÑ|	ü
+ ÀÑ|	ü ÀÑ|	ü ÀÑ|	ü< ÀÑ|	üM ÀÑ|	ü[ ÀÑ|	ü ÀÑ|	ü ¿Ù'	üž ÀÑ|	ü¢ ÀÑ|	ü¥ ÀÑ|	ü± ¿Ù'	üÁ ¿¢À	üY ÀÑ|	ül ÀÑ|	üµ ÀÑ|	üZ ¿¶í	ü ÀÑ|	üú ÀÑ|	üû ÀÑ|	üL ÀÑ|	üs ÀÑ|	ü	g ¿Ù'	ü
+ ¿†\ð	ý  ¿†\ð	ý¸ ¿†\ð	ý
+Ã ¿•A	þÀ ¿¬å	ÿ  ¿¬å	ÿ	C ¿HÒj	ÿ	ÿ ¿HÒj	ÿ
+È ¿ïÒÇ
+ Æ ¿ïÒÇ
+ ¨ ¿ïÒÇ
+ × ¿ïÒÇ
+ … ¿§Væ
+ 	 ¿KC
+ 	C ¿§Væ
+ 
+‘ ¿1p
+ 
+È ¿•A
+
+‘ ¿•A
+ r ¿ïÒÇ
+  ¿§Væ
+  ¿ïÒÇ
+ ‹ ¿ïÒÇ
+ì ¿§Væ
+· ¿ïÒÇ
+¿ ¿§Væ
+‡ ¿ïÒÇ
+ú ¿ïÒÇ
+V ¿§Væ
+“ ¿ïÒÇ
+š ¿§Væ
+
+‘ ¿…k
+
+È ¿•A
+	¶ ¿•A
+‹ ¿•A
+À ¿•A
+‡ ¿†\ð
+  ¿†\ð
+À ¿†\ð
+h ¾[˜
+	À ¿•A
+
+ê ¿•A
+
+± ¿•A
+
+© ¿ßÔÉ
+ S ¿ßÔÉ
+ o ¿ßÔÉ
+  ¿ßÔÉ
+ ¡ ¿ßÔÉ
+h ¿ßÔÉ
+ ¿ßÔÉ
+‹ ¿ßÔÉ
+‘ ¿ßÔÉ
+ ¿ßÔÉ
+V ¿ßÔÉ
+o ¿ßÔÉ
+` ¿ßÔÉ
+c ¿ßÔÉ
+’ ¿ßÔÉ
+	ú ¿1sÅ
+ 9 ¾a\4
+Ã ¿ßÔÉ
+ 9 ¿ßÔÉ
+ ¾ ¿ßÔÉ
+  ¿ßÔÉ
+K ¿ßÔÉ
+ ¿ßÔÉ
+, ¿—Xè
+  ¿ßÔÉ
+€ ¿ßÔÉ
+¸ ¿ßÔÉ
+r ¿ßÔÉ
+º ¿ßÔÉ
+
+L ¿ßÔÉ
+
+O ¿ßÔÉ
+
+{ ¿¢Âz
+	] ¿41
+
+‘ ¿41
+
+± ¿•A
+“ ¿_¥Ž
+  ¿_¥Ž
+À ¿EµM
+  ¿±y‚
+  ¿@
+ ! ¿ùõd
+: ¿ùõd
+] ¿ùõd
+× ¿ùõd
+  ¿ùõd
+ ¿ùõd
+[ ¿ùõd
+' ¿ùõd
+, ¿ùõd
+ ¿ùõd
+
+‘ ¿@
+
+Å ¿ùõd
+
+È ¿•A
+	í ¿HÒj
+¾ ¿¬å
+ì ¿¬å
+æ ¿¬å
+	e ¿¬å
+
+‘ ¿•A
+g ¿_¥Ž
+  ¿_¥Ž
+Î ¿•A
+  ¿•A
+È ¿•A
+­ ¿•A
+  ¿_¥Ž
+Ã ¿_¥Ž
+. ¿•A
+À ¿•A
+	Û ¿†\ð
+  ¿†\ð
+Þ ¿†\ð
+	C ¿•A
+ ? ¿ŠÈ
+! Ô ¿ò‰
+! ó ¿ò‰
+!Ú ¿ò‰
+!ì ¿ò‰
+!é ¿ª;
+!ð ¿ò‰
+!	 ¿‡ÓÀ
+!t ¿ò‰
+! ¿ò‰
+!= ¿ò‰
+!× ¿ò‰
+!ð ¿ò‰
+!	Î ¿•A
+"  ¾]<œ
+#Æ ¿•A
+$	— ¿_¥Ž
+%· ¿_¥Ž
+% ¿Î–û
+&  ¿Î–û
+&  ¿Î–û
+& õ ¿Î–û
+&é ¿Î–û
+&ˆ ¿Î–û
+&o ¿Î–û
+&¢ ¿Î–û
+&’ ¿Î–û
+&	 ¿Î–û
+&	‚ ¿Î–û
+&	° ¿•A
+'  ¾÷„9
+(  ¿†\ð
+( À&Cí
+)  ¼ˆÚZ
+)% À&Cí
+)p À&Cí
+)	= À&Cí
+)	õ ¿•A
+*ò ¿•A
++	l ¿ãk;
+,° ¿ãk;
+,À ¿qk¾
+,ì ¿šïZ
+, ¿ãk;
+,± ¿ãk;
+,÷ ¿ãk;
+,o ¿qk¾
+,' ¿šïZ
+,¶ ¿ãk;
+,	0 ¿•A
+-  ¿•A
+.  ¿†
+/  ¿Î–û
+/Æ ¾M
+/Þ ¿Î–û
+/	Ô ¿Î–û
+/	ø ¿j>Ú
+0 ¾ ¿ßÔÉ
+0 ¿ßÔÉ
+0 ¿ßÔÉ
+0Q ¿ßÔÉ
+0ž ¿ßÔÉ
+0¾ ¿ßÔÉ
+0  ¿ßÔÉ
+0‡ ¿ßÔÉ
+0P ¿ßÔÉ
+0	; ¿ßÔÉ
+0	X ¿—Xè
+0
+ ¿•A
+1½ ¿•A
+2	O ¿•A
+3Z ¿•A
+4Þ ¿•A
+5  ¿_¥Ž
+6ð ¿_¥Ž
+6
+¢ ¿•A
+7 9 ¿†\ð
+8  ¿†\ð
+8 ¿†\ð
+8Á ¿_¥Ž
+9 @ ¿_¥Ž
+9Æ ¿•A
+: ¿•A
+;¿ ¿•A
+<ì ¾ÿh
+=  ÀÝ*
+=  ¿Ï>s
+= ! ÀÝ*
+= 9 ¿Ï>s
+= m ÀÝ*
+= r ÀÝ*
+= ¢ ¿Ï>s
+=f ÀÝ*
+=° ÀÝ*
+=¾ ¿­ø
+=Ã ÀÝ*
+=Ú ÀÝ*
+=Þ ÀÝ*
+=ì ÀÝ*
+=) ÀÝ*
+=. ÀÝ*
+=„ ÀÝ*
+=¶ ÀÝ*
+=÷ ÀÝ*
+=r ÀÝ*
+=? ÀÝ*
+=	O ÀÝ*
+=
+ ÀÝ*
+=
+È ¿¢Âz
+>Þ ¿41
+>g ¿¢Âz
+> ¿¢Âz
+>	! ¿•A
+? z ¾à4w
+@  ¿¢Âz
+@Ã ¿¢Âz
+@­ ¿_¥Ž
+Az ¿_¥Ž
+A' ¿•A
+B÷ ¿•A
+C  ¿ò‰
+D  ¿ª;
+D Ø ¿ª;
+D  ¿ò‰
+Dt ¿ò‰
+D· ¿ª;
+Dð ¿ò‰
+D ¿ò‰
+D
+ ¿ò‰
+D- ¿ò‰
+D‚ ¿ò‰
+Dž ¿ò‰
+D° ¿ò‰
+D¾ ¿ò‰
+D) ¿ò‰
+DÎ ¿ò‰
+Dc ¿ò‰
+D	* ¿ò‰
+D
+‘ ¿•A
+Eº ¿é÷e
+F o ¿~„
+F  ¿é÷e
+F ¿é÷e
+F ¿%¹Q
+FÀ ¿%¹Q
+F ¿é÷e
+Fû ¿é÷e
+F	í ¿Î–û
+G ¿Î–û
+GÃ ¿Î–û
+GH ¿Î–û
+Gé ¿Î–û
+G
+ ¿Î–û
+GŸ ¿Î–û
+Gæ ¿Î–û
+G	; ¿Î–û
+G	] ¿Î–û
+G
+T ¿Î–û
+G
+– ¿ò‰
+Hí ¿ò‰
+H+ ¿ò‰
+H[ ¿ò‰
+Hu ¿ò‰
+HÒ ¿ò‰
+Hð ¿ò‰
+HY ¿ò‰
+H¸ ¿ò‰
+HË ¿ò‰
+Ht ¿ò‰
+H“ ¿ò‰
+H ¿ò‰
+H ¿ò‰
+H' ¿ò‰
+Hñ ¿ª;
+Hô ¿ò‰
+H	¿ ¿ò‰
+H
+ ¿ª;
+H
+‘ ¿•A
+I ¿Î–û
+J £ ¿Î–û
+Jã ¿Î–û
+J× ¿Î–û
+Jn ¿Î–û
+Jq ¿†
+JW ¿Î–û
+J# ¿Î–û
+J¤ ¿Î–û
+Jx ¿Î–û
+JX ¿_¥Ž
+K ¿_¥Ž
+K
+K ¿òwQ
+L  À.–W
+L  ¿ ‹+
+L  ¿“â
+L 9 À.–W
+L o À
+Xf
+L ¾ À.–W
+L ÿ À.–W
+L  À.–W
+L( À.–W
+L< ¿òwQ
+Lf À
+Xf
+L° À.–W
+L² ¿òwQ
+LÃ À.–W
+L À.–W
+L- À.–W
+Lu À.–W
+L“ À.–W
+Lô ¿òwQ
+Lg À
+Xf
+Lr À.–W
+Lz À.–W
+L À.–W
+L¿ À.–W
+L$ À.–W
+L÷ À.–W
+L À.–W
+L À
+Xf
+L À
+Xf
+L“ À.–W
+L« À.–W
+L¹ À.–W
+Lº À.–W
+LÈ À.–W
+LÝ À.–W
+Ló À.–W
+L	 À.–W
+L À.–W
+L À.–W
+L2 À
+Xf
+L6 À.–W
+LR À.–W
+L“ À.–W
+L¢ À.–W
+LÇ À.–W
+LÎ À.–W
+Lô À
+Xf
+Lý À.–W
+L† À
+Xf
+LÛ À.–W
+Lö À.–W
+L	  À.–W
+L	8 À.–W
+L	< À.–W
+L	N À.–W
+L	O À.–W
+L	] ¿³ˆ
+L	g À.–W
+L	â À.–W
+L
+ À.–W
+L
+, À.–W
+L
+0 À.–W
+L
+B À.–W
+L
+C À.–W
+L
+D ¿òwQ
+L
+Ã À?Æ
+M  À?Æ
+M ‹ À?Æ
+M £ À?Æ
+M Þ ¿ùT
+M† ¿ùT
+MÀ À?Æ
+MÃ À?Æ
+M| À?Æ
+M· ¿rÉž
+Mù À?Æ
+M ¿ùT
+M¤ ¿È«
+M À?Æ
+M
+ ¿È«
+Mz À?Æ
+MŒ À?Æ
+MÛ À?Æ
+M	É ¿È«
+M	Û À?Æ
+M
+` ¿•A
+N  ¿ìøÓ
+O  ¿ìøÓ
+O¸ ¿ìøÓ
+O ¿ìøÓ
+O™ ¿ìøÓ
+O° ¿j6
+On ¿ìøÓ
+OÌ ¿ìøÓ
+O	O ¿ìøÓ
+O	› ¿ìøÓ
+O	ú ¿ìøÓ
+O
+‘ ¿‚Cw
+O
+È ¿•A
+P ¿•A
+Q- ¿•A
+RÀ ¿µvÍ
+SÎ ¿µvÍ
+SÝ ¿µvÍ
+S¶ ¿µvÍ
+Sp ¿µvÍ
+S@ ¿µvÍ
+Së ¿µvÍ
+S	æ ¿–Zî
+T  ¿–Zî
+TÀ ¿–Zî
+T	 ¿–Zî
+T
+‘ ¿×àS
+U 7 ¿dq
+UÌ ¿×àS
+U  ¿×àS
+U ¿×àS
+U ¿×àS
+U9 ¿×àS
+U× ¿0´4
+U
+M ¿×àS
+U
+È ¿•A
+V
+Ã ¾÷„9
+W Ä ¿†\ð
+Wú ¿•A
+X¿ ¿_¥Ž
+YÆ ¿_¥Ž
+YŒ ¿•A
+Z. ¿•A
+[ ¿•A
+\À ¿•A
+]
+„ ¿Ûþó
+^> ¿Ûþó
+^Ÿ ¿Ûþó
+^ ¿Ûþó
+^B ¿Ûþó
+^x ¿Ûþó
+^z ¿Ûþó
+^’ ¿Ûþó
+^Ò ¿Ûþó
+^. ¿Ûþó
+^z ¿Ûþó
+^Î ¿Ûþó
+^	e ¿Ûþó
+^	l ¿Ûþó
+^
+‹ ¿•A
+_
+È ¿µvÍ
+`A ¿Yõ×
+`¦ ¿µvÍ
+`, ¿Yõ×
+` ¿µvÍ
+`	¿ ¿•A
+a
+È ¿¬å
+b c ¿¬å
+bZ ¿HÒj
+bÆ ¿¬å
+bO ¿¬å
+b ¿_¥Ž
+c  ¿_¥Ž
+c 9 ¿_¥Ž
+d  ¿_¥Ž
+d
+1 ¿•A
+e2 ¿•A
+f	, ¿_¥Ž
+g  ¿_¥Ž
+g	O ¿•A
+h“ ¿•A
+i
+M ¿•A
+jò ¿41
+kÊ ¿41
+kû ¿¢Âz
+k
+È ¿–Zî
+l è ¿–Zî
+ló ¿–Zî
+l	¿ ¿–Zî
+l
+ ¿×àS
+m ‹ ¿×àS
+mQ ¿×àS
+mÀ ¿×àS
+mÔ ¿×àS
+m× ¿×àS
+m¿ ¿×àS
+m ¿×àS
+mr ¿×àS
+mþ ¿×àS
+mþ ¿×àS
+m	0 ¿×àS
+m
+‘ ¿×àS
+m
+È ¿_¥Ž
+n ! ¿_¥Ž
+nÞ ¿Óm=
+o ¯ ¿Óm=
+oÎ ¿Óm=
+oí ¿Óm=
+o- ¿Óm=
+o¸ ¿Óm=
+o‚ ¿Óm=
+o­ ¿Óm=
+oa ¿Óm=
+oÓ ¿Óm=
+o
+0 ¿Óm=
+o
+L ¿Óm=
+o
+ ¿•A
+p  ¿Ão?
+q – ¿Ão?
+qÀ ¿Ão?
+qÆ ¿Ão?
+q¸ ¿Ão?
+q ¿Ão?
+q“ ¿Ão?
+q³ ¿Ão?
+qÈ ¿Ão?
+q
+‘ ¿•A
+r
+‘ ¿ò‰
+s  ¿6Ü¾
+s Þ ¾¤ùí
+s ß ¿ò‰
+sz ¿‡ÓÀ
+sŒ ¿ò‰
+s	Û ¿•A
+t† ¿•A
+u ¿•A
+v  ¿†\ð
+wÞ ¿†\ð
+w	P ¿†\ð
+w	` ¿•A
+x	0 ¿¢Âz
+y  ¿¢Âz
+yì ¿¢Âz
+yÛ ¿¢Âz
+y
+y ¿¢Âz
+y
+‘ ¾÷„9
+z  ¿†\ð
+z ‹ ¿•A
+{	g ¿•A
+|¾ ¿Yõ×
+}  ¿Yõ×
+} ¿‚á
+}… ¿hÎf
+~  ¿¼ã
+~Ù ¿¼ã
+~" ¿¼ã
+~ ¿¼ã
+~	F ¿¼ã
+~	á ¿¼ã
+~
+‘ ¿•A
+  ¾[˜
+€
+) Àˆ¡
+  ¿c›
+  ¿Ð•a
+ C ¿Ð•a
+f Àˆ¡
+z Àˆ¡
+Ã Àˆ¡
+Ó Àˆ¡
+Ö Àˆ¡
+ ¿Ð•a
+ Àˆ¡
+G Àˆ¡
+n Àˆ¡
+¶ Àˆ¡
+Œ Àˆ¡
+ä Àˆ¡
+
+ Àˆ¡
+¸ Àˆ¡
+¾ Àˆ¡
+× Àˆ¡
+ Àˆ¡
+ Àˆ¡
+é Àˆ¡
+ë Àˆ¡
+ Àˆ¡
+' Àˆ¡
+. ¿®[æ
+	6 Àˆ¡
+	Q Àˆ¡
+	t Àˆ¡
+	¿ Àˆ¡
+
++ Àˆ¡
+
+6 ¿1sÅ
+‚  ¿Ão?
+‚Ú ¿1sÅ
+‚Ô ¿Ão?
+‚	­ ¿Ão?
+‚
+F ¿•A
+ƒÆ ¿•A
+„g ¿_¥Ž
+… ® ¿_¥Ž
+…o ¿†\ð
+† ¾÷„9
+†	Û ¿•A
+‡ ‹ ¿•A
+ˆ´ ¾]<œ
+‰ µ ¿¬å
+ŠD ¿HÒj
+Š× ¿¬å
+Š¸ ¿¬å
+Š	R ¿¬å
+Š
+È ¾÷„9
+‹. ¿†\ð
+‹	 ¿_¥Ž
+Œ  ¿_¥Ž
+Œ
+È ¿•A
+ú ¿¢Âz
+Ž  ¿41
+Žú ¿¢Âz
+Žü ¿¢Âz
+Ž
+È ¿•A
+ú ¿_¥Ž
+  ¿_¥Ž
+¤ ÀO>1
+‘  À+ A
+‘  ¿á™N
+‘  ÀO>1
+‘ % À+ A
+‘ Y ÀO>1
+‘ Z À+ A
+‘ e ÀO>1
+‘ i ÀO>1
+‘  ÀO>1
+‘ ” ÀO>1
+‘ š ÀO>1
+‘ ¢ ¿Ïåg
+‘ £ ÀO>1
+‘ ½ À+ A
+‘ ¾ À+ A
+‘ Á À+ A
+‘ Ô Àãƒ
+‘ Ø À+ A
+‘ ÀO>1
+‘ ÀO>1
+‘Z ÀO>1
+‘h ÀO>1
+‘v ÀO>1
+‘z ÀO>1
+‘{ Àãƒ
+‘ À{
+‘† ÀO>1
+‘‡ ÀO>1
+‘¤ ÀO>1
+‘· ÀO>1
+‘Á ÀO>1
+‘Ã ÀO>1
+‘Æ ÀO>1
+‘Ñ ÀO>1
+‘â À+ A
+‘è ÀO>1
+‘ë ÀO>1
+‘ì ÀO>1
+‘	 ÀO>1
+‘` ÀO>1
+‘c ÀO>1
+‘g ÀO>1
+‘” ÀO>1
+‘ž ÀO>1
+‘£ ÀO>1
+‘Ò ¿÷8ª
+‘× ÀO>1
+‘Þ ÀO>1
+‘ ÀO>1
+‘& ÀO>1
+‘+ ÀO>1
+‘4 ÀO>1
+‘A ÀO>1
+‘F ÀO>1
+‘Q ÀO>1
+‘S À+ A
+‘W Àãƒ
+‘Y ÀO>1
+‘[ ÀO>1
+‘] À{
+‘n ÀO>1
+‘t ÀO>1
+‘x ÀO>1
+‘{ À{
+‘† ÀO>1
+‘‘ ÀO>1
+‘² ÀO>1
+‘¶ À+ A
+‘¼ ÀO>1
+‘¾ ÀO>1
+‘È À+ A
+‘ç ÀO>1
+‘ý ÀO>1
+‘	 À+ A
+‘ À+ A
+‘  ÀO>1
+‘+ ÀO>1
+‘6 ÀO>1
+‘8 Àãƒ
+‘; ÀO>1
+‘@ ÀO>1
+‘D ÀO>1
+‘I ÀO>1
+‘c ÀO>1
+‘} À+ A
+‘ ÀO>1
+‘² À+ A
+‘¸ Àãƒ
+‘º À+ A
+‘Õ ÀO>1
+‘þ ÀO>1
+‘ ÀO>1
+‘ À+ A
+‘ À+ A
+‘ ÀO>1
+‘Q À+ A
+‘V ¿á™N
+‘o À+ A
+‘€ ÀO>1
+‘ˆ ¿Û$
+‘ ÀO>1
+‘ À+ A
+‘‘ ÀO>1
+‘¥ ÀO>1
+‘¦ ÀO>1
+‘§ À+ A
+‘¬ ¿á™N
+‘­ ÀO>1
+‘° À+ A
+‘± ÀO>1
+‘· ÀO>1
+‘¹ ÀO>1
+‘º À+ A
+‘¼ Àãƒ
+‘¾ Àãƒ
+‘Ä ÀO>1
+‘Æ À+ A
+‘È À+ A
+‘Ê ÀO>1
+‘Ë ÀO>1
+‘Ð ÀO>1
+‘Ò À+ A
+‘Ô ÀO>1
+‘Ú À+ A
+‘ä ÀO>1
+‘é À+ A
+‘ë Àãƒ
+‘ì ÀO>1
+‘í ÀO>1
+‘î ÀO>1
+‘õ ÀO>1
+‘ù ÀO>1
+‘ú ÀO>1
+‘  ÀO>1
+‘ ÀO>1
+‘ ÀO>1
+‘	 À{
+‘ À+ A
+‘ ÀO>1
+‘ ÀO>1
+‘ ÀO>1
+‘& ÀO>1
+‘( À+ A
+‘* À+ A
+‘/ ÀO>1
+‘0 ÀO>1
+‘8 ÀO>1
+‘9 ÀO>1
+‘; ÀO>1
+‘< ÀO>1
+‘> ÀO>1
+‘A À+ A
+‘C À+ A
+‘J ÀO>1
+‘M ÀO>1
+‘N ÀO>1
+‘P ÀO>1
+‘T À+ A
+‘\ ¿÷8ª
+‘` ÀO>1
+‘b ÀO>1
+‘e ÀO>1
+‘f ÀO>1
+‘j ÀO>1
+‘v ÀO>1
+‘~ Àãƒ
+‘ ÀO>1
+‘† ÀO>1
+‘” ÀO>1
+‘— À+ A
+‘¡ ¿á™N
+‘¤ ÀO>1
+‘© ÀO>1
+‘´ ÀO>1
+‘À ÀO>1
+‘Ì ÀO>1
+‘Î ÀO>1
+‘Ï ÀO>1
+‘à ÀO>1
+‘á ÀO>1
+‘ç ÀO>1
+‘ô ÀO>1
+‘& ÀO>1
+‘* Àãƒ
+‘; ÀO>1
+‘L Àãƒ
+‘M À+ A
+‘N ÀO>1
+‘W ÀO>1
+‘Y ÀO>1
+‘_ ÀO>1
+‘` À+ A
+‘e ÀO>1
+‘m ÀO>1
+‘o ÀO>1
+‘q ÀO>1
+‘} ÀO>1
+‘~ ÀO>1
+‘† ÀO>1
+‘ˆ Àãƒ
+‘— ÀO>1
+‘˜ À+ A
+‘¬ ÀO>1
+‘² ÀO>1
+‘Ê ÀO>1
+‘Ì ÀO>1
+‘à ¿÷8ª
+‘ê ÀO>1
+‘í À+ A
+‘ø À+ A
+‘ ÀO>1
+‘
+ ÀO>1
+‘ À{
+‘ ÀO>1
+‘# ÀO>1
+‘( ÀO>1
+‘- À+ A
+‘7 ÀO>1
+‘C ÀO>1
+‘T ÀO>1
+‘Y ÀO>1
+‘[ ÀO>1
+‘d ÀO>1
+‘o ÀO>1
+‘w ¿ôÏ=
+‘… ÀO>1
+‘Ž ÀO>1
+‘ Àãƒ
+‘˜ ÀO>1
+‘¯ ÀO>1
+‘¶ ÀO>1
+‘Æ ÀO>1
+‘Ö À{
+‘× ÀO>1
+‘Ø ÀO>1
+‘Ù ÀO>1
+‘ú À+ A
+‘	 Àãƒ
+‘	! ¿ôÏ=
+‘	* À+ A
+‘	> À+ A
+‘	C ¿ôÏ=
+‘	e À+ A
+‘	i ÀO>1
+‘	o ÀO>1
+‘	‚ ÀO>1
+‘	‡ ÀO>1
+‘	 ÀO>1
+‘	— ÀO>1
+‘	œ Àãƒ
+‘	° ÀO>1
+‘	½ À{
+‘	Û ÀO>1
+‘	Ü ÀO>1
+‘	ø ¿÷8ª
+‘
+  ÀO>1
+‘
+ ÀO>1
+‘
+
+ ÀO>1
+‘
+) ÀO>1
+‘
+D ÀO>1
+‘
+J À+ A
+‘
+L Àãƒ
+‘
+` ÀO>1
+‘
+Ž ÀO>1
+‘
+¢ ÀO>1
+‘
+§ ÀO>1
+‘
+¹ ¿Ë&
+‘
+È ¿•A
+’Q ¿hÎf
+“  ¿¼ã
+“Æ ¿hÎf
+“ÿ ¿¼ã
+“	e ¿¼ã
+“	¢ ¿¼ã
+“
+È ¿–Zî
+”  ¿¾
+”  ¿–Zî
+”
+L ¿•A
+•Æ ¿_¥Ž
+–Þ ¿_¥Ž
+–È ¿•A
+—× ¿•A
+˜ â ¿¾
+™  ¿–Zî
+™ 0 ¿–Zî
+™	l ¿†\ð
+š  ¿†\ð
+š ì ¿†\ð
+š
+È ¿_¥Ž
+›  ¿_¥Ž
+› ¾à4w
+œ  ¿¢Âz
+œ
+Å ¿¢Âz
+œ
+È ¾õso
+h ¿¼ã
+é ¿¼ã
+ ¿¼ã
+
+M ¿¼ã
+
+s ¿é÷e
+ž  ¿¡{„
+ž ‹ ¿é÷e
+ž ¤ ¿é÷e
+ž Á ¿é÷e
+ž- ¿é÷e
+ž  ¿é÷e
+ž· ¿é÷e
+ž ¿~„
+žú ¿¡{„
+žX ¿é÷e
+ž
+= ¿~„
+ž
+È ¿•A
+Ÿ Á ¿•A
+ 8 ¿¢Âz
+¡  ¿¢Âz
+¡X ¿¢Âz
+¡
+‘ ¿41
+¡
+È ¾[˜
+¢À ¿•A
+£
+ ¿•A
+¤k ¿•A
+¥¥ ¿–Zî
+¦	¿ ¾®–F
+¦
+È ¿•A
+§K ¿•A
+¨­ ¿•A
+©­ ¿_¥Ž
+ª¾ ¿_¥Ž
+ªÀ ¿•A
+«  ¿•A
+¬– ¿•A
+­¸ ¿•A
+®À ¿¢Âz
+¯  ¿¢Âz
+¯  ¿¢Âz
+¯Ö ¿¢Âz
+¯  ¿¢Âz
+¯
+Ã ¿_t
+°Æ ¿¬å
+°© ¿HÒj
+°’ ¿²1¼
+±  ÀsŒ
+± ¢ ÀsŒ
+± Ô ¿`ß
+±À ÀsŒ
+±ì ÀsŒ
+±é ÀsŒ
+±² ÀsŒ
+±È ¿Ôk7
+±Î ÀsŒ
+±‡ ÀsŒ
+±­ ÀsŒ
+±¸ ÀsŒ
+± ÀsŒ
+±“ ÀsŒ
+±S ÀsŒ
+±T ÀsŒ
+±‘ ¿Ôk7
+±¢ ÀsŒ
+±X ÀsŒ
+±o ÀsŒ
+±û ÀsŒ
+±	 ÀsŒ
+±	0 ÀsŒ
+±	e ÀsŒ
+±	¨ ÀsŒ
+±	¿ ÀsŒ
+±
+@ ÀsŒ
+±
+d ¿²1¼
+±
+‘ ¿fså
+±
+È ¿$[p
+²  ¿¼ã
+²À ¿¼ã
+²r ¿¼ã
+²û ¿¼ã
+²	2 ¿¼ã
+²
+‘ ¿¢Âz
+³” ¿¢Âz
+³\ ¿¢Âz
+³“ ¿¢Âz
+³æ ¿¢Âz
+³
+ ¿•A
+´  ¿•A
+µ, ¿•A
+¶À ¿•A
+·. ¿41
+¸  ¿¢Âz
+¸ 9 ¿¢Âz
+¸u ¿¢Âz
+¸À ¿¬å
+¹ ‹ ¿¬å
+¹À ¿¬å
+¹{ ¿¬å
+¹N ¿¬å
+¹P ¿¬å
+¹
+È ¿•A
+ºˆ ¿•A
+»¯ ¿•A
+¼	ž ¿•A
+½	Ã ¿_¥Ž
+¾	O ¿_¥Ž
+¾	× ¿•A
+¿  ¿_¥Ž
+À  ¿_¥Ž
+À
+È ¿•A
+Á
+È ¿•A
+Â ¾ç“
+Ã  À%28
+Ã m À%28
+Ã r À%28
+Ã Á À ôG
+Ã ô À%28
+ÃW À%28
+Ãì À%28
+Ã× À%28
+ÃÞ À%28
+Ãé À%28
+Ã+ À%28
+Ãj À%28
+Ãˆ À ôG
+Ã¿ À%28
+Ã À%28
+Ã- À%28
+Ã± À ôG
+Ã¸ À%28
+Ã À%28
+ÃK À%28
+ÃÔ À%28
+Ãt À%28
+Ã À%28
+ÃÀ À%28
+ÃÎ À%28
+ÃÓ À%28
+ÃÕ À%28
+Ã, À%28
+Ãï À%28
+Ãl À%28
+Ã× ¿£ ¸
+ÃÛ À%28
+Ãò À%28
+Ã	 À%28
+Ã	- À%28
+Ã	1 À%28
+Ã	> À%28
+Ã	P À%28
+Ã	u ¿[
+Ã	v À%28
+Ã	Å À%28
+Ã	ð À ôG
+Ã
+) À%28
+Ã
+L À%28
+Ã
+ À%28
+Ã
+‘ À%28
+Ã
+ž ¿ÊÞ7
+Ã
+È ¿_¥Ž
+Ä  ¿_¥Ž
+Ä
+‘ ÀÝ*
+Å  ÀÝ*
+Å u ÀÝ*
+Å ¢ ÀÝ*
+Åw ÀÝ*
+ÅÆ ÀÝ*
+ÅÚ ÀÝ*
+Åâ ÀÝ*
+Åì ¿Ï>s
+Å× ÀÝ*
+Å+ ¿Ï>s
+Åg ÀÝ*
+Åµ ÀÝ*
+Å  ÀÝ*
+Å† ÀÝ*
+Å¸ ÀÝ*
+Å; ÀÝ*
+Åo ÀÝ*
+Å ÀÝ*
+Å§ ÀÝ*
+Å­ ¿Ï>s
+Å, ÀÝ*
+Å ÀÝ*
+Å“ ÀÝ*
+Å' ÀÝ*
+Å› ¿Ï>s
+ÅË ÀÝ*
+Åø ÀÝ*
+Å ÀÝ*
+Åf ÀÝ*
+Å{ ÀÝ*
+Å	* ÀÝ*
+Å	“ ÀÝ*
+Å	¿ ÀÝ*
+Å	ê ÀÝ*
+Å
+/ ¿Ï>s
+Å
+‘ ¿_¥Ž
+Æ¾ ¿_¥Ž
+Æ
+Ã ¿¬å
+Ç ¡ ¿¬å
+Ç ¿¬å
+Ç× ¿¬å
+Çò ¿¬å
+Ç ¿¬å
+Ç
+ ÀZÙÔ
+È  À6›ä
+È  ÀZÙÔ
+È  ÀZÙÔ
+È  ¿Îé®
+È  À6›ä
+È ( ¿–a»
+È 9 ÀZÙÔ
+È C ÀZÙÔ
+È H À6›ä
+È ^ ÀZÙÔ
+È _ À%&
+È £ À%&
+È ¤ À%&
+È « ¿òDj
+È ¯ ¿ç­
+È Ê ÀZÙÔ
+È Ì À%&
+È Ø ÀZÙÔ
+È á ¿øÐ”
+È â ÀZÙÔ
+È å ÀZÙÔ
+È é À6›ä
+È í ÀZÙÔ
+È ÷ À6›ä
+È ø ÀZÙÔ
+È ù ÀZÙÔ
+È ý ÀZÙÔ
+È À%&
+È ÀZÙÔ
+È À6›ä
+È ÀZÙÔ
+È0 ÀZÙÔ
+È; À6›ä
+È? À6›ä
+ÈD ÀZÙÔ
+ÈJ ÀZÙÔ
+ÈK ÀZÙÔ
+ÈL À6›ä
+ÈQ ¿òDj
+Èf ÀZÙÔ
+Èz À6›ä
+È¦ ÀZÙÔ
+È§ À¸
+È° ¿ç­
+ÈÃ À%&
+ÈÆ À6›ä
+ÈÑ ÀZÙÔ
+ÈÓ ÀZÙÔ
+ÈÞ À6›ä
+Èì ÀZÙÔ
+Èï ÀZÙÔ
+Èó À¸
+Èõ À6›ä
+È À7ø
+È	 ÀZÙÔ
+È ÀZÙÔ
+È À6›ä
+È ÀZÙÔ
+È ÀZÙÔ
+È ÀZÙÔ
+È! À6›ä
+È) À6›ä
+È* ÀZÙÔ
+È+ ÀZÙÔ
+È. À¸
+È8 À6›ä
+ÈA À6›ä
+ÈH ÀZÙÔ
+ÈJ ÀZÙÔ
+ÈK À6›ä
+ÈM ÀZÙÔ
+ÈQ ÀZÙÔ
+ÈT ÀZÙÔ
+È[ À6›ä
+Èa ÀZÙÔ
+Èc ÀZÙÔ
+Èj ÀZÙÔ
+Èz ÀZÙÔ
+È~ ÀZÙÔ
+È… ÀZÙÔ
+È À6›ä
+È” ÀZÙÔ
+È À6›ä
+Èž ÀZÙÔ
+Èµ ÀZÙÔ
+È» ÀZÙÔ
+È¾ À6›ä
+ÈÁ ÀZÙÔ
+ÈÂ ÀZÙÔ
+ÈÉ ÀZÙÔ
+ÈÍ ÀZÙÔ
+ÈÐ ÀZÙÔ
+ÈÕ ÀZÙÔ
+È  ÀZÙÔ
+È& À6›ä
+È1 ÀZÙÔ
+È< ÀZÙÔ
+ÈN ÀZÙÔ
+ÈW À6›ä
+ÈY ¿âFl
+Èr ÀZÙÔ
+Èv À6›ä
+Èz ÀZÙÔ
+È À6›ä
+È ÀZÙÔ
+È” ¿ç­
+ÈŸ ¿ç­
+È  ÀZÙÔ
+È« À6›ä
+È± À¸
+È· À%&
+È¼ ÀZÙÔ
+ÈÃ ÀZÙÔ
+ÈÎ ÀZÙÔ
+ÈÚ ÀZÙÔ
+Èí ÀZÙÔ
+Èï À6›ä
+Èð ÀZÙÔ
+Èÿ À6›ä
+È
+ ÀZÙÔ
+È À6›ä
+È À6›ä
+È4 À6›ä
+È> À6›ä
+ÈA ÀZÙÔ
+Èj ÀZÙÔ
+È° ¿Ë¼C
+È¸ ÀZÙÔ
+Èº ÀZÙÔ
+È¿ ÀLv
+Èò ÀZÙÔ
+È÷ ¿Îé®
+Èú À6›ä
+Èü À%&
+È  À6›ä
+È ÀZÙÔ
+È ¿ÝÓV
+È ÀZÙÔ
+È@ ÀZÙÔ
+ÈT À6›ä
+Èc ¿ç­
+Èr À%&
+Èw ¿ÒHn
+È‚ ÀZÙÔ
+È‰ ÀZÙÔ
+È’ ÀZÙÔ
+È£ ÀZÙÔ
+Èº À6›ä
+ÈÂ ÀZÙÔ
+ÈÃ ÀZÙÔ
+ÈÇ ÀZÙÔ
+ÈË ÀZÙÔ
+ÈÛ À¸
+Èè ÀZÙÔ
+È ÀZÙÔ
+È; ÀZÙÔ
+ÈC ÀZÙÔ
+ÈJ ÀZÙÔ
+ÈW À6›ä
+È` ÀZÙÔ
+Èf ÀZÙÔ
+Èg ÀZÙÔ
+Èh ÀZÙÔ
+Èk ÀZÙÔ
+Èr ÀZÙÔ
+È| ÀZÙÔ
+È ÀZÙÔ
+È À%&
+È“ ÀZÙÔ
+È™ ÀZÙÔ
+È¢ ÀZÙÔ
+È¬ ÀZÙÔ
+È½ À7ø
+ÈÀ À6›ä
+ÈÉ À6›ä
+ÈÎ ÀZÙÔ
+ÈÏ ÀZÙÔ
+Èæ À6›ä
+È ÀZÙÔ
+È ÀZÙÔ
+È À6›ä
+È- ÀLv
+È0 ÀZÙÔ
+È8 ÀZÙÔ
+È= ÀZÙÔ
+ÈF ÀZÙÔ
+ÈH ÀZÙÔ
+ÈY ÀZÙÔ
+È À6›ä
+È¿ ÀZÙÔ
+ÈÀ ¿ÕÞà
+Èô ÀZÙÔ
+Èý ¿øÐ”
+È ÀZÙÔ
+È ÀZÙÔ
+È ÀZÙÔ
+È8 ÀZÙÔ
+ÈG ÀZÙÔ
+Èa ÀZÙÔ
+Èg À¸
+È} ÀZÙÔ
+ÈŸ ÀZÙÔ
+ÈÄ ÀLv
+ÈÈ ¿òDj
+ÈÑ ÀZÙÔ
+È× ÀZÙÔ
+ÈÙ À6›ä
+ÈÛ ÀZÙÔ
+Èè À6›ä
+Èò ÀLv
+Èþ À6›ä
+È	 ÀZÙÔ
+È	 ÀZÙÔ
+È	 À%&
+È	! À6›ä
+È	0 ÀZÙÔ
+È	@ À6›ä
+È	O ÀZÙÔ
+È	X ÀZÙÔ
+È	£ ÀZÙÔ
+È	­ ÀZÙÔ
+È	¯ ¿¯V¹
+È	¿ ÀZÙÔ
+È	Ã ÀZÙÔ
+È	Æ À%&
+È	× ÀZÙÔ
+È	Ø À6›ä
+È	ô ¿³,
+È	ü ¿øÐ”
+È
+ ÀZÙÔ
+È
+ ÀZÙÔ
+È
+ ÀZÙÔ
+È
+! ÀZÙÔ
+È
+( ÀB
+È
+, ÀZÙÔ
+È
+- ÀZÙÔ
+È
+/ À¸
+È
+0 ÀZÙÔ
+È
+2 ÀZÙÔ
+È
+: ÀZÙÔ
+È
+; ÀZÙÔ
+È
+< ÀLv
+È
+> ÀZÙÔ
+È
+A ÀZÙÔ
+È
+D ÀZÙÔ
+È
+K ¿ÕÞà
+È
+L ÀB
+È
+ À6›ä
+È
+‘ ÀZÙÔ
+È
+¯ ÀZÙÔ
+È
+³ ÀZÙÔ
+È
+¾ ÀZÙÔ
+È
+È ¿uæ»
+É  ¿Ão?
+É ¡ ¿Ão?
+Éf ¾±R
+ÉÀ ¿•A
+Ê  ¿•A
+Ë% ¾÷„9
+Ì  ¿†\ð
+ÌÀ ¾[˜
+Í> ¾[˜
+ÎV ¿•A
+Ï	!  
+\end\

@@ -1,0 +1,7 @@
+LPlex test #0: 2-gram
+perplexity 36.6613, var 3.5686, utterances 1739, words predicted 21569
+num tokens 23308, OOV 0, OOV rate 0.00% (excl. </s>)
+
+Access statistics for gram/bigram/langmodel:
+Lang model  requested  exact backed    n/a     mean    stdev
+    bigram      21569 100.0%   0.0%   0.0%    -3.60     1.89
